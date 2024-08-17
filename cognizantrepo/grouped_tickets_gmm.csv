@@ -1,0 +1,938 @@
+Issue_id_Summary,Issue id,Summary,clean_summary,cluster
+67878	Samigo: Feedback should be interpreted when printing PDF report from a submission with global variables on feedback,67878,Samigo: Feedback should be interpreted when printing PDF report from a submission with global variables on feedback,samigo feedback interpreted printing pdf report submission global variable feedback,20
+67877	SAMIGO: Error when print PDF Report  if the feedback contains global variables: Unknown character : '@' (or 64),67877,SAMIGO: Error when print PDF Report  if the feedback contains global variables: Unknown character : '@' (or 64),samigo error print pdf report feedback contains global variable unknown character,20
+67876	Microsoft Integration: Visual and logical improvements,67876,Microsoft Integration: Visual and logical improvements,microsoft integration visual logical improvement,10
+67875	LTI1.3-Assignments stacktrace when trying to add an assignment: java.lang.NullPointerException: null,67875,LTI1.3-Assignments stacktrace when trying to add an assignment: java.lang.NullPointerException: null,lti assignment stacktrace trying add assignment java lang nullpointerexception null,6
+67861	Rubrics: Unable to delete a rubric,67861,Rubrics: Unable to delete a rubric,rubric unable delete rubric,17
+67853	Frequent webcomponents build failures during npm install,67853,Frequent webcomponents build failures during npm install,frequent webcomponents build failure npm install,10
+67806	Samigo TA should only see assessments that are assigned to the entire site or those assessments that belong to the groups they are a part of,67806,Samigo TA should only see assessments that are assigned to the entire site or those assessments that belong to the groups they are a part of,samigo ta see assessment assigned entire site assessment belong group part,7
+67772	Samigo TA should only see groups they are a member of when grading an assessment,67772,Samigo TA should only see groups they are a member of when grading an assessment,samigo ta see group member grading assessment,7
+67733	Rubrics: Hover text does not change for rubric and rating without re-opening the page,67733,Rubrics: Hover text does not change for rubric and rating without re-opening the page,rubric hover text change rubric rating without opening page,17
+67714	Make grading service items hideable from the gradebook ui. This will enable tools to use the grading service for grade storage without showing it in the gradebook tool.,67714,Make grading service items hideable from the gradebook ui. This will enable tools to use the grading service for grade storage without showing it in the gradebook tool.,make grading service item hideable gradebook ui enable tool use grading service grade storage without showing gradebook tool,2
+67422	Assignments: Grader distorts group assignment scores with overrides,67422,Assignments: Grader distorts group assignment scores with overrides,assignment grader distorts group assignment score override,6
+67353	Lessons-LTI: Adding a Learning App or an External Tool to Lessons does not open in a new page,67353,Lessons-LTI: Adding a Learning App or an External Tool to Lessons does not open in a new page,lesson lti adding learning app external tool lesson open new page,1
+67227	Assignments: Grades entered in Gradebook not displayed in Assignments,67227,Assignments: Grades entered in Gradebook not displayed in Assignments,assignment grade entered gradebook displayed assignment,6
+67151	Attendance > Add > Create Repeating Pattern,67151,Attendance > Add > Create Repeating Pattern,attendance add create repeating pattern,14
+67084	Assignments: Grader PDF viewer includes annotation,67084,Assignments: Grader PDF viewer includes annotation,assignment grader pdf viewer includes annotation,6
+66982	Contributions from UPV to Sakai Master (Umbrella),66982,Contributions from UPV to Sakai Master (Umbrella),contribution upv sakai master umbrella,10
+66943	Rubrics: Students can’t view rubric comments when rubric is in modal window,66943,Rubrics: Students can’t view rubric comments when rubric is in modal window,rubric student view rubric comment rubric modal window,17
+66895	Rubrics-Grader-Assignment: There is a remove {} link when grading rubrics in assignments - {} braces should not show and there shouldn't even be a remove link when not graded,66895,Rubrics-Grader-Assignment: There is a remove {} link when grading rubrics in assignments - {} braces should not show and there shouldn't even be a remove link when not graded,rubric grader assignment remove link grading rubric assignment brace show even remove link graded,17
+66826	Roster Card Game: Count not updating for the number of correct guesses,66826,Roster Card Game: Count not updating for the number of correct guesses,roster card game count updating number correct guess,10
+66681	Search: File names are not searchable,66681,Search: File names are not searchable,search file name searchable,5
+66639	T&Q: Various UI display improvements,66639,T&Q: Various UI display improvements,q various ui display improvement,10
+66411	Portal/Site Info: Restore Lessons subpage navigation,66411,Portal/Site Info: Restore Lessons subpage navigation,portal site info restore lesson subpage navigation,1
+66320	SAMIGO: No bar is present for incorrect answers and The bar present for correct answer is purple in color rather than green,66320,SAMIGO: No bar is present for incorrect answers and The bar present for correct answer is purple in color rather than green,samigo bar present incorrect answer bar present correct answer purple color rather green,10
+66264	Portal: Linked Graphics on Accessibility Information Page are not Screen Reader Friendly,66264,Portal: Linked Graphics on Accessibility Information Page are not Screen Reader Friendly,portal linked graphic accessibility information page screen reader friendly,0
+66249	Track and Implement the LTI Course Groups Service,66249,Track and Implement the LTI Course Groups Service,track implement lti course group service,7
+66169	Removing  criterion from a rubric/rating from a criterion creates orphans in database,66169,Removing  criterion from a rubric/rating from a criterion creates orphans in database,removing criterion rubric rating criterion creates orphan database,17
+66060	Gradebook> Extra credit items do not display in course grade,66060,Gradebook> Extra credit items do not display in course grade,gradebook extra credit item display course grade,2
+65853	assignment submission issue,65853,assignment submission issue,assignment submission issue,17
+65827	Update Apache FreeMarker 2.3.32,65827,Update Apache FreeMarker 2.3.32,update apache freemarker,9
+65779	getPost: Unable to find post with id,65779,getPost: Unable to find post with id,getpost unable find post id,10
+65658	Rubrics: Unable to remove a moved Criterion Group without refreshing page,65658,Rubrics: Unable to remove a moved Criterion Group without refreshing page,rubric unable remove moved criterion group without refreshing page,17
+65566	Best design/localization for PA System,65566,Best design/localization for PA System,best design localization pa system,10
+65333	Date Picker missing scroll bars,65333,Date Picker missing scroll bars,date picker missing scroll bar,12
+65158	Membership: Membership help link sends user to the incorrect help page,65158,Membership: Membership help link sends user to the incorrect help page,membership membership help link sends user incorrect help page,15
+65062	CkEditor in sakaicontrib/bbb_tool not working with sakai 20,65062,CkEditor in sakaicontrib/bbb_tool not working with sakai 20,ckeditor sakaicontrib bbb_tool working sakai,10
+64966	Calendar: Warn when subscribe on Merge External Calendars,64966,Calendar: Warn when subscribe on Merge External Calendars,calendar warn subscribe merge external calendar,0
+64925	Webcomponents fails lit linting in various places. Custom element tags haven't been closed and too many inline event handlers are in use.,64925,Webcomponents fails lit linting in various places. Custom element tags haven't been closed and too many inline event handlers are in use.,webcomponents fails lit linting various place custom element tag closed many inline event handler use,10
+64881	Update webcomponents to lit 2,64881,Update webcomponents to lit 2,update webcomponents lit,9
+64617	webapi :: site info :: edit class rosters :: sui-table compatible api,64617,webapi :: site info :: edit class rosters :: sui-table compatible api,webapi site info edit class roster sui table compatible api,14
+64601	send submissions data from assignments to sui-table,64601,send submissions data from assignments to sui-table,send submission data assignment sui table,17
+64034	Fix library build errors,64034,Fix library build errors,fix library build error,10
+63827	sui-table webcomponent,63827,sui-table webcomponent,sui table webcomponent,10
+63762	Date Manager: Multiple issues with setting Samigo dates via Date Manager ,63762,Date Manager: Multiple issues with setting Samigo dates via Date Manager ,date manager multiple issue setting samigo date via date manager,12
+63622	Lessons matching question type,63622,Lessons matching question type,lesson matching question type,1
+63574	Hiearchy tests failing with HibernateQueryException: could not resolve property: node.id,63574,Hiearchy tests failing with HibernateQueryException: could not resolve property: node.id,hiearchy test failing hibernatequeryexception could resolve property node id,13
+63474	Portal implementation,63474,Portal implementation,portal implementation,10
+63415	Resources: Upload files -> Overwrite existing does not work with special characters in file name when multiple files are uploaded at one time,63415,Resources: Upload files -> Overwrite existing does not work with special characters in file name when multiple files are uploaded at one time,resource upload file overwrite existing work special character file name multiple file uploaded one time,5
+54828	Dark Mode - Test & Quizzes markup text Instructions & Examples,54828,Dark Mode - Test & Quizzes markup text Instructions & Examples,dark mode test quiz markup text instruction example,13
+63402	Quiz | 'Next' Button alignment,63402,Quiz | 'Next' Button alignment,quiz next button alignment,0
+50474	Add LTI Advantage Post Verify Feature,50474,Add LTI Advantage Post Verify Feature,add lti advantage post verify feature,14
+54755	Gradebook Classic JSF upgrade,54755,Gradebook Classic JSF upgrade,gradebook classic jsf upgrade,2
+59036	Roster > Profile photos students opt to share only with connections still show,59036,Roster > Profile photos students opt to share only with connections still show,roster profile photo student opt share connection still show,18
+46147	Sakai Grader unable to view/download multiple image files,46147,Sakai Grader unable to view/download multiple image files,sakai grader unable view download multiple image file,5
+28502	Assignment | New grader feedback attachment,28502,Assignment | New grader feedback attachment,assignment new grader feedback attachment,6
+46123	Performance tuning on tool.css,46123,Performance tuning on tool.css,performance tuning tool cs,10
+10974	Move BBB to use permissions web component.,10974,Move BBB to use permissions web component.,move bbb use permission web component,10
+54664	CLONE - Error when try adding a student on a blocked section/group,54664,CLONE - Error when try adding a student on a blocked section/group,clone error try adding student blocked section group,7
+28422	Samigo is not properly styled when embedded in Lessons,28422,Samigo is not properly styled when embedded in Lessons,samigo properly styled embedded lesson,1
+12882	Adding a Rubric after submissions,12882,Adding a Rubric after submissions,adding rubric submission,17
+12591	Adding a Rubric after submissions,12591,Adding a Rubric after submissions,adding rubric submission,17
+"46074	""T&Q: Matching when grading by question has the Spanish version of """"None of the above""""""",46074,"""T&Q: Matching when grading by question has the Spanish version of """"None of the above""""""",q matching grading question spanish version none,11
+63190	Add feature to Protect LTI Launches,63190,Add feature to Protect LTI Launches,add feature protect lti launch,14
+41658	T&Q: Question Pool: Rubric JS error when creating questions in question pool,41658,T&Q: Question Pool: Rubric JS error when creating questions in question pool,q question pool rubric j error creating question question pool,11
+"11036	""Allow the disabling of the """"list all"""" function""",11036,"""Allow the disabling of the """"list all"""" function""",allow disabling list function,0
+63125	Statistics: Error on log when clicking Date Range on User Activity page,63125,Statistics: Error on log when clicking Date Range on User Activity page,statistic error log clicking date range user activity page,12
+50217	RWiki does not implement cleanup (replace) for import,50217,RWiki does not implement cleanup (replace) for import,rwiki implement cleanup replace import,10
+"50212	""Section Info - """"Validation Error"""" and """"Conversion Error"""" message should be more descriptive for users""",50212,"""Section Info - """"Validation Error"""" and """"Conversion Error"""" message should be more descriptive for users""",section info validation error conversion error message descriptive user,3
+41502	Avoid scanning input stream to find size before S3 upload,41502,Avoid scanning input stream to find size before S3 upload,avoid scanning input stream find size upload,10
+"12069	""""""Lecturers in the courses this evaluation is assigned to can view results"""" should be editable""",12069,"""""""Lecturers in the courses this evaluation is assigned to can view results"""" should be editable""",lecturer course evaluation assigned view result editable,7
+12284	Grouped items with mismatching scales,12284,Grouped items with mismatching scales,grouped item mismatching scale,10
+12966	My Evaluations tab loading very slowly,12966,My Evaluations tab loading very slowly,evaluation tab loading slowly,3
+50164	User cannot undo the view change selection after reorder,50164,User cannot undo the view change selection after reorder,user cannot undo view change selection reorder,18
+41506	Test & Quizzes preview done button jumps to another site's lesson page's linked test,41506,Test & Quizzes preview done button jumps to another site's lesson page's linked test,test quiz preview done button jump another site lesson page linked test,13
+28208	Forums > Anonymous Posting Feature Wording is Confusing,28208,Forums > Anonymous Posting Feature Wording is Confusing,forum anonymous posting feature wording confusing,2
+23735	Attendance / Print page capital letters in last name display users out of order,23735,Attendance / Print page capital letters in last name display users out of order,attendance print page capital letter last name display user order,18
+63081	Quizzes: Images are not importing correctly for question text for matching questions,63081,Quizzes: Images are not importing correctly for question text for matching questions,quiz image importing correctly question text matching question,11
+37085	Content of the files in the Resources is not accessible with WebDAV in KDE,37085,Content of the files in the Resources is not accessible with WebDAV in KDE,content file resource accessible webdav kde,5
+28203	Samigo: Font in Matching Question,28203,Samigo: Font in Matching Question,samigo font matching question,11
+"41498	""Resources - rename """"Make Web Content Link"""" function to more user-friendly terminology""",41498,"""Resources - rename """"Make Web Content Link"""" function to more user-friendly terminology""",resource rename make web content link function user friendly terminology,15
+23729	Quiz-Matrix of Choices: Statistics page needs better formatting,23729,Quiz-Matrix of Choices: Statistics page needs better formatting,quiz matrix choice statistic page need better formatting,16
+58726	Auto created groups displays incorrectly if adding a new user to that group,58726,Auto created groups displays incorrectly if adding a new user to that group,auto created group display incorrectly adding new user group,7
+54401	Error when trying to unzip a zip file,54401,Error when trying to unzip a zip file,error trying unzip zip file,5
+23720	Assignments / Move grade field down,23720,Assignments / Move grade field down,assignment move grade field,6
+63071	Hide individual lessons items via simple toggle,63071,Hide individual lessons items via simple toggle,hide individual lesson item via simple toggle,1
+54391	T&Q Tests with Exceptions keep old dates when copied,54391,T&Q Tests with Exceptions keep old dates when copied,q test exception keep old date copied,12
+58711	Gradebook: feature request: Options for additional TA permissions,58711,Gradebook: feature request: Options for additional TA permissions,gradebook feature request option additional ta permission,2
+28172	Forums: Mark all as read displays console errors for Uncaught TypeError,28172,Forums: Mark all as read displays console errors for Uncaught TypeError,forum mark read display console error uncaught typeerror,2
+58707	Add tool menu alerts to show activity for that tool,58707,Add tool menu alerts to show activity for that tool,add tool menu alert show activity tool,10
+28168	Lessons: participants in non-administrator roles are able to access previously visited subpages after date restrictions are enabled for the top-level page,28168,Lessons: participants in non-administrator roles are able to access previously visited subpages after date restrictions are enabled for the top-level page,lesson participant non administrator role able access previously visited subpages date restriction enabled top level page,12
+37052	Link does not work,37052,Link does not work,link work,10
+28218	Hide External Tools tab within Site Info tabs from Instructor/Maintain role,28218,Hide External Tools tab within Site Info tabs from Instructor/Maintain role,hide external tool tab within site info tab instructor maintain role,14
+45858	Radio Buttons in Multiple Choice Single Selection do not line up with answers in IE11,45858,Radio Buttons in Multiple Choice Single Selection do not line up with answers in IE11,radio button multiple choice single selection line answer ie,10
+32626	Home - Preferences - Sites - Improve the Sites feature,32626,Home - Preferences - Sites - Improve the Sites feature,home preference site improve site feature,14
+50125	Firefox console error for : XML Parsing Error: not well-formed,50125,Firefox console error for : XML Parsing Error: not well-formed,firefox console error xml parsing error well formed,3
+"45855	""Gradebook > Settings > Statistics > Modify Language/Wording of """"Assignments""""""",45855,"""Gradebook > Settings > Statistics > Modify Language/Wording of """"Assignments""""""",gradebook setting statistic modify language wording assignment,6
+32622	direct/grades/gradebook endpoint times out,32622,direct/grades/gradebook endpoint times out,direct grade gradebook endpoint time,2
+54415	Reporting for rubric data,54415,Reporting for rubric data,reporting rubric data,17
+"63043	""Add a selectable """"Term"""" drop-down to Admin Site Perms""",63043,"""Add a selectable """"Term"""" drop-down to Admin Site Perms""",add selectable term drop admin site perm,14
+50113	Chrome: LTI Modal does not resize and has double scrollbars when clicking to add a learning app,50113,Chrome: LTI Modal does not resize and has double scrollbars when clicking to add a learning app,chrome lti modal resize double scrollbars clicking add learning app,14
+23683	Attachments in comments sections,23683,Attachments in comments sections,attachment comment section,0
+58739	Improve Default Message in Pop-Up when leaving Student Review Mode,58739,Improve Default Message in Pop-Up when leaving Student Review Mode,improve default message pop leaving student review mode,3
+50109	Tests & Quizzes / Editing MC/MS to MC/SS grading issue,50109,Tests & Quizzes / Editing MC/MS to MC/SS grading issue,test quiz editing mc m mc s grading issue,13
+12871	NullPointerException generating pdf report when instructions are null,12871,NullPointerException generating pdf report when instructions are null,nullpointerexception generating pdf report instruction null,20
+37098	Resources - Trash - Suggestion to improve the instruction content,37098,Resources - Trash - Suggestion to improve the instruction content,resource trash suggestion improve instruction content,5
+32624	Resources - Trash - Suggestion to improve the main heading,32624,Resources - Trash - Suggestion to improve the main heading,resource trash suggestion improve main heading,5
+28210	Resources - Trash - Suggestion to improve the warning message when there are no deleted files,28210,Resources - Trash - Suggestion to improve the warning message when there are no deleted files,resource trash suggestion improve warning message deleted file,5
+11903	My Template / Last Updated column not updated,11903,My Template / Last Updated column not updated,template last updated column updated,16
+23693	Move Add Participants to Manage Participants,23693,Move Add Participants to Manage Participants,move add participant manage participant,14
+58746	Move role descriptions to top of Manage Participants,58746,Move role descriptions to top of Manage Participants,move role description top manage participant,8
+41461	Gradebook View Columns not accessible to low/no vision users,41461,Gradebook View Columns not accessible to low/no vision users,gradebook view column accessible low vision user,18
+37095	Sign Up icons should be replaced with Action menu,37095,Sign Up icons should be replaced with Action menu,sign icon replaced action menu,10
+28206	Lessons / opening html page with linked image does not display and causes logout,28206,Lessons / opening html page with linked image does not display and causes logout,lesson opening html page linked image display cause logout,1
+45861	Import from Site(replace data) should remove tools,45861,Import from Site(replace data) should remove tools,import site replace data remove tool,14
+28202	MathJax/LaTeX checkbox unchecked on Import from Site,28202,MathJax/LaTeX checkbox unchecked on Import from Site,mathjax latex checkbox unchecked import site,14
+23686	Assignments / student previewing rubric on returned assignment clears out cells,23686,Assignments / student previewing rubric on returned assignment clears out cells,assignment student previewing rubric returned assignment clear cell,6
+58734	Assignment by Student drop down refreshes page and moves focus,58734,Assignment by Student drop down refreshes page and moves focus,assignment student drop refreshes page move focus,6
+28195	Reset-Pass > add ability to reset password for mutliple accounts tied to the same email address,28195,Reset-Pass > add ability to reset password for mutliple accounts tied to the same email address,reset pas add ability reset password mutliple account tied email address,10
+32598	BasicLTI: Encrypted session is not returning a userEid ,32598,BasicLTI: Encrypted session is not returning a userEid ,basiclti encrypted session returning usereid,10
+54410	Banner notifying Instructor that Site Import is complete,54410,Banner notifying Instructor that Site Import is complete,banner notifying instructor site import complete,14
+32594	getting stackOverflowError in Lessons ,32594,getting stackOverflowError in Lessons ,getting stackoverflowerror lesson,1
+28188	Fix Deep Links from the Rich Text Editor,28188,Fix Deep Links from the Rich Text Editor,fix deep link rich text editor,10
+62972	Job Get Archives should not run by default OTB,62972,Job Get Archives should not run by default OTB,job get archive run default otb,15
+58724	Publish Now in Course Site: Notification,58724,Publish Now in Course Site: Notification,publish course site notification,7
+41432	Tools set to Invisible are visible after Import from Site,41432,Tools set to Invisible are visible after Import from Site,tool set invisible visible import site,14
+50090	Notify Instructor when posting Announcement that tool is invisible/locked for students,50090,Notify Instructor when posting Announcement that tool is invisible/locked for students,notify instructor posting announcement tool invisible locked student,8
+37067	Overview page should fallback to short_desc then title,37067,Overview page should fallback to short_desc then title,overview page fallback short_desc title,16
+63019	Show warning when deleting linked Assignments,63019,Show warning when deleting linked Assignments,show warning deleting linked assignment,6
+58715	Lessons: Not all items display when joining sections,58715,Lessons: Not all items display when joining sections,lesson item display joining section,1
+12865	Response rate / link directs user to send eval notifications template,12865,Response rate / link directs user to send eval notifications template,response rate link directs user send eval notification template,18
+"37058	""Assignments: Inconsistency between """"Inline and Attachments"""" and """"Attachments Only""""""",37058,"""Assignments: Inconsistency between """"Inline and Attachments"""" and """"Attachments Only""""""",assignment inconsistency inline attachment attachment,6
+"41471	""Resources Tool - """"All site files"""" menu cannot be closed intuitively with keyboard""",41471,"""Resources Tool - """"All site files"""" menu cannot be closed intuitively with keyboard""",resource tool site file menu cannot closed intuitively keyboard,5
+63003	Stacktrace in Signup caused by possible race condition,63003,Stacktrace in Signup caused by possible race condition,stacktrace signup caused possible race condition,0
+54386	Dropbox WebDAV transfer does not show Student names in Windows 10,54386,Dropbox WebDAV transfer does not show Student names in Windows 10,dropbox webdav transfer show student name window,10
+32566	Assignments - editing Announcement notification type doesn't change/add new notification in announcement,32566,Assignments - editing Announcement notification type doesn't change/add new notification in announcement,assignment editing announcement notification type change add new notification announcement,8
+37033	Build atom level web components for button and checkbox,37033,Build atom level web components for button and checkbox,build atom level web component button checkbox,10
+36994	Forums / can set same gradebook item to be graded by different rubrics,36994,Forums / can set same gradebook item to be graded by different rubrics,forum set gradebook item graded different rubric,2
+28110	Required lessons page may still be visible to students,28110,Required lessons page may still be visible to students,required lesson page may still visible student,1
+36990	Rubric does not function properly with Ratings with the same point value,36990,Rubric does not function properly with Ratings with the same point value,rubric function properly rating point value,17
+32565	Add a Limit for Rubric Ratings,32565,Add a Limit for Rubric Ratings,add limit rubric rating,17
+28161	Alert do not work for planned announcement,28161,Alert do not work for planned announcement,alert work planned announcement,8
+54387	Improve Add button layout in Postem,54387,Improve Add button layout in Postem,improve add button layout postem,14
+28157	Comment Window in Rubric is Unrestricted,28157,Comment Window in Rubric is Unrestricted,comment window rubric unrestricted,17
+41452	Conditional Release is not displayed in resources,41452,Conditional Release is not displayed in resources,conditional release displayed resource,5
+32557	Resources: Heading missing,32557,Resources: Heading missing,resource heading missing,5
+23699	Unable to create tool (LTI 1.3 tool) in sites,23699,Unable to create tool (LTI 1.3 tool) in sites,unable create tool lti tool site,14
+54374	Change Hidden/Course Grade Calculation Icons to buttons,54374,Change Hidden/Course Grade Calculation Icons to buttons,change hidden course grade calculation icon button,7
+50068	Roster Profile Pictures won't Display Quickly,50068,Roster Profile Pictures won't Display Quickly,roster profile picture display quickly,18
+37038	Browser console jquery error when selecting grade in forum topic posting,37038,Browser console jquery error when selecting grade in forum topic posting,browser console jquery error selecting grade forum topic posting,2
+50117	Calendar Search Feature,50117,Calendar Search Feature,calendar search feature,0
+45802	Instructor - SiteInfo/Confirming edits to page: ,45802,Instructor - SiteInfo/Confirming edits to page: ,instructor siteinfo confirming edits page,16
+54364	Resources: Uploaded File thumbnail error message,54364,Resources: Uploaded File thumbnail error message,resource uploaded file thumbnail error message,5
+50110	Instructor-Resources-Upload Files button text,50110,Instructor-Resources-Upload Files button text,instructor resource upload file button text,5
+"41438	""Forum Settings/Forum Posting checkbox <title =""""Forumlocked"""">""",41438,"""Forum Settings/Forum Posting checkbox <title =""""Forumlocked"""">""",forum setting forum posting checkbox title forumlocked,2
+23680	Remove Buttons that Don't Work,23680,Remove Buttons that Don't Work,remove button work,10
+58676	Calendar Tool Alert for Overlapping Events,58676,Calendar Tool Alert for Overlapping Events,calendar tool alert overlapping event,13
+37021	Calendar Default View Setting only Available for Professor,37021,Calendar Default View Setting only Available for Professor,calendar default view setting available professor,15
+32602	MS Edge - Forums: Wide content causes horizontal scrollbars,32602,MS Edge - Forums: Wide content causes horizontal scrollbars,m edge forum wide content cause horizontal scrollbars,15
+58673	Calendar Legend Difficult to read,58673,Calendar Legend Difficult to read,calendar legend difficult read,0
+41430	Resources: Table text has low color contrast,41430,Resources: Table text has low color contrast,resource table text low color contrast,5
+41473	Bulk or JoinSet group creation is not adding custom roles to the groups,41473,Bulk or JoinSet group creation is not adding custom roles to the groups,bulk joinset group creation adding custom role group,7
+50085	External Gradebook item icon not aligned properly in student view,50085,External Gradebook item icon not aligned properly in student view,external gradebook item icon aligned properly student view,2
+28108	Tests And Quizzes Invalid date error message even if the format is valid,28108,Tests And Quizzes Invalid date error message even if the format is valid,test quiz invalid date error message even format valid,12
+23656	Lessons: Dynamic Time Delay Pre-Requisite,23656,Lessons: Dynamic Time Delay Pre-Requisite,lesson dynamic time delay pre requisite,1
+50081	StoredConfigService: org.apache.commons.lang.IllegalClassException,50081,StoredConfigService: org.apache.commons.lang.IllegalClassException,storedconfigservice org apache common lang illegalclassexception,0
+32567	Assignments / preview rubric on small screen does not allow scrolling,32567,Assignments / preview rubric on small screen does not allow scrolling,assignment preview rubric small screen allow scrolling,17
+63005	upgrade HSQLDB 2.4.1,63005,upgrade HSQLDB 2.4.1,upgrade hsqldb,10
+41459	Move Gradebook Classic REST endpoints to GBNG,41459,Move Gradebook Classic REST endpoints to GBNG,move gradebook classic rest endpoint gbng,2
+32564	Question Pool - Added questions in the Test can be flagged,32564,Question Pool - Added questions in the Test can be flagged,question pool added question test flagged,11
+23648	Lessons: Uncaught TypeError on index of pages,23648,Lessons: Uncaught TypeError on index of pages,lesson uncaught typeerror index page,1
+54384	Webservice copy of template-based LTI (NOT instance-wide),54384,Webservice copy of template-based LTI (NOT instance-wide),webservice copy template based lti instance wide,16
+36988	Console error in instructor gradebook for handsontable,36988,Console error in instructor gradebook for handsontable,console error instructor gradebook handsontable,2
+12065	Excel and CSV result exports differ,12065,Excel and CSV result exports differ,excel csv result export differ,0
+23651	T&Qs : Allow instructors to end 'In progress' submission,23651,T&Qs : Allow instructors to end 'In progress' submission,q allow instructor end progress submission,17
+"36984	""Move """"Hide from Site Drawer"""" closer to work area in Preferences > Sites""",36984,"""Move """"Hide from Site Drawer"""" closer to work area in Preferences > Sites""",move hide site drawer closer work area preference site,14
+54322	Lessons / Import / export issues with cc,54322,Lessons / Import / export issues with cc,lesson import export issue cc,1
+"62936	""Gradebook """"Set Score for Empty Cell"""" process needs improvement""",62936,"""Gradebook """"Set Score for Empty Cell"""" process needs improvement""",gradebook set score empty cell process need improvement,0
+45738	Accessibility Problem: Deleting a syllabus dialogue box calls it undefined. ,45738,Accessibility Problem: Deleting a syllabus dialogue box calls it undefined. ,accessibility problem deleting syllabus dialogue box call undefined,0
+32524	Samigo- Clicking on “Part” links in Table of Contents gives confusing nav alert,32524,Samigo- Clicking on “Part” links in Table of Contents gives confusing nav alert,samigo clicking part link table content give confusing nav alert,15
+36970	Hovering over the keyboard icon in gradebookng sometimes causes a scrollbar jitter,36970,Hovering over the keyboard icon in gradebookng sometimes causes a scrollbar jitter,hovering keyboard icon gradebookng sometimes cause scrollbar jitter,0
+32521	Create a pre-configured Lesson as a Syllabus,32521,Create a pre-configured Lesson as a Syllabus,create pre configured lesson syllabus,1
+36967	Roll-Up Jira for Re-Use Material from Existing Site Copying Method,36967,Roll-Up Jira for Re-Use Material from Existing Site Copying Method,roll jira use material existing site copying method,14
+32518	My Worksite Setup > New > Re-Use Material Fails if LTI tool is Selected,32518,My Worksite Setup > New > Re-Use Material Fails if LTI tool is Selected,worksite setup new use material fails lti tool selected,10
+28067	Add instructor's name to student details on assignments,28067,Add instructor's name to student details on assignments,add instructor name student detail assignment,6
+23607	Error link to Hidden Lesson from another Lesson,23607,Error link to Hidden Lesson from another Lesson,error link hidden lesson another lesson,1
+54295	Forums > Improve error message when failing to select destination topic,54295,Forums > Improve error message when failing to select destination topic,forum improve error message failing select destination topic,3
+28063	Manage overview / removing widgets removes tool ,28063,Manage overview / removing widgets removes tool ,manage overview removing widget remove tool,10
+23598	Edge: CSS console errors when creating gradebook items,23598,Edge: CSS console errors when creating gradebook items,edge cs console error creating gradebook item,2
+36948	Assignments / View assignment by student -> unable to use prev/next buttons,36948,Assignments / View assignment by student -> unable to use prev/next buttons,assignment view assignment student unable use prev next button,6
+45710	a11y improvements for blind people,45710,a11y improvements for blind people,ay improvement blind people,10
+58585	Lombokise EntityBroker,58585,Lombokise EntityBroker,lombokise entitybroker,10
+36964	Email > put attachment list at top of email,36964,Email > put attachment list at top of email,email put attachment list top email,0
+54302	New Chat properties / instructions should be added to default.sakai.properties,54302,New Chat properties / instructions should be added to default.sakai.properties,new chat property instruction added default sakai property,10
+58619	T&Q: Markup text for FITB does not work as the instructions state,58619,T&Q: Markup text for FITB does not work as the instructions state,q markup text fitb work instruction state,10
+50010	TemplateAssesmentSubmission emails are not internationalized,50010,TemplateAssesmentSubmission emails are not internationalized,templateassesmentsubmission email internationalized,0
+54271	Tests and quizzes tool: Exported Assessments do not include their Images,54271,Tests and quizzes tool: Exported Assessments do not include their Images,test quiz tool exported assessment include image,8
+17760	Lessons 2.0 - Improving and Updating the Sakai Lessons Tool,17760,Lessons 2.0 - Improving and Updating the Sakai Lessons Tool,lesson improving updating sakai lesson tool,1
+62898	Remove RSF from Polls.,62898,Remove RSF from Polls.,remove rsf poll,0
+32445	RSS URL for Announcement tool does not work,32445,RSS URL for Announcement tool does not work,r url announcement tool work,8
+"23597	""Assignments: Peer assessment should display """"No attachments submitted"""" under """"Reviewer Attachments"""" if none attached""",23597,"""Assignments: Peer assessment should display """"No attachments submitted"""" under """"Reviewer Attachments"""" if none attached""",assignment peer assessment display attachment submitted reviewer attachment none attached,6
+36918	GBNG > Logic error when enabling/disabling drop/keep text fields,36918,GBNG > Logic error when enabling/disabling drop/keep text fields,gbng logic error enabling disabling drop keep text field,0
+17756	EvalSys as a Mature Tool (Evaluation System),17756,EvalSys as a Mature Tool (Evaluation System),evalsys mature tool evaluation system,3
+"17775	""""""Modernize"""" Forums tool""",17775,"""""""Modernize"""" Forums tool""",modernize forum tool,2
+13153	Evalsys - assigning groups-hierarchy ,13153,Evalsys - assigning groups-hierarchy ,evalsys assigning group hierarchy,7
+12703	CK Editor issues when editing an item on a template,12703,CK Editor issues when editing an item on a template,ck editor issue editing item template,16
+27920	No Reset Button displayed when it is a fill in the blank question type,27920,No Reset Button displayed when it is a fill in the blank question type,reset button displayed fill blank question type,11
+36764	Support @ style mention tags in chat,36764,Support @ style mention tags in chat,support style mention tag chat,0
+32334	Would be nice to better visually distinguish my messages from others in chat,32334,Would be nice to better visually distinguish my messages from others in chat,would nice better visually distinguish message others chat,3
+23447	Email link is missing in the submission status(Only in Internet Explorer),23447,Email link is missing in the submission status(Only in Internet Explorer),email link missing submission status internet explorer,17
+62740	The UX for the drop-down isn't properly aligned,62740,The UX for the drop-down isn't properly aligned,ux drop properly aligned,10
+32330	Certification Tool not awarding certificate based on Final Course Grade,32330,Certification Tool not awarding certificate based on Final Course Grade,certification tool awarding certificate based final course grade,7
+27915	Assessment not Listed after due date has passed,27915,Assessment not Listed after due date has passed,assessment listed due date passed,12
+23435	Not able to find Quiz in Assessments (Exception Testing),23435,Not able to find Quiz in Assessments (Exception Testing),able find quiz assessment exception testing,19
+27887	Total Grade Points while grading the questions being misaligned,27887,Total Grade Points while grading the questions being misaligned,total grade point grading question misaligned,11
+36786	Samigo - Enter comments for students with no submission,36786,Samigo - Enter comments for students with no submission,samigo enter comment student submission,17
+10928	Remote users experience audio problems,10928,Remote users experience audio problems,remote user experience audio problem,18
+36783	Email notifications over hidden folders with accessible contents,36783,Email notifications over hidden folders with accessible contents,email notification hidden folder accessible content,15
+23404	Clicking 'Back to home screen' from embed content page is redirected to dissimilar help page,23404,Clicking 'Back to home screen' from embed content page is redirected to dissimilar help page,clicking back home screen embed content page redirected dissimilar help page,15
+36769	Gradebook % of the final grade for each item,36769,Gradebook % of the final grade for each item,gradebook final grade item,2
+"54132	""Change language for """"Extra credit"""" when creating/editing Gradebook item""",54132,"""Change language for """"Extra credit"""" when creating/editing Gradebook item""",change language extra credit creating editing gradebook item,2
+23387	Assessment Submission time not shown for Excepted Student/Group after the Due date/time is over ,23387,Assessment Submission time not shown for Excepted Student/Group after the Due date/time is over ,assessment submission time shown excepted student group due date time,12
+13144	Evalsys web report show number in group,13144,Evalsys web report show number in group,evalsys web report show number group,20
+41180	Null sometimes in description field for search,41180,Null sometimes in description field for search,null sometimes description field search,8
+41174	Assignment can be taken before prerequisite is completed,41174,Assignment can be taken before prerequisite is completed,assignment taken prerequisite completed,6
+41164	Group dropdown missing on assignment released to group(s),41164,Group dropdown missing on assignment released to group(s),group dropdown missing assignment released group,7
+23420	Student's view of returned assignment when resubmission allowed does not have history,23420,Student's view of returned assignment when resubmission allowed does not have history,student view returned assignment resubmission allowed history,6
+58431	Preferences time zone / adding forum date and time,58431,Preferences time zone / adding forum date and time,preference time zone adding forum date time,12
+23416	Unable to download my own zip file,23416,Unable to download my own zip file,unable download zip file,5
+62690	Adding Back button at the bottom of Send to printer page,62690,Adding Back button at the bottom of Send to printer page,adding back button bottom send printer page,10
+62682	Bulk edit syllabus has an extra set of checkboxes,62682,Bulk edit syllabus has an extra set of checkboxes,bulk edit syllabus extra set checkboxes,0
+27889	Assignments-All Purpose Item: Student list should be ordered either by first name or last name,27889,Assignments-All Purpose Item: Student list should be ordered either by first name or last name,assignment purpose item student list ordered either first name last name,6
+27885	Connection tool takes extra steps to connect,27885,Connection tool takes extra steps to connect,connection tool take extra step connect,10
+41134	Gradebook NG / missing key when hovering next page,41134,Gradebook NG / missing key when hovering next page,gradebook ng missing key hovering next page,2
+36738	Sent with copy to email address is wrong/misleading,36738,Sent with copy to email address is wrong/misleading,sent copy email address wrong misleading,0
+54134	Selectable receiver in Submission Notification Email Options,54134,Selectable receiver in Submission Notification Email Options,selectable receiver submission notification email option,17
+12362	Cannot re-assign hierarchy nodes in an existing evaluation,12362,Cannot re-assign hierarchy nodes in an existing evaluation,cannot assign hierarchy node existing evaluation,3
+36701	New Gradebook Custom Export Option: Choose Section(s) to Export,36701,New Gradebook Custom Export Option: Choose Section(s) to Export,new gradebook custom export option choose section export,2
+45531	No content is displayed when a image/vedio file is uploaded through url in lessons tool and edited later with an option to open in same window,45531,No content is displayed when a image/vedio file is uploaded through url in lessons tool and edited later with an option to open in same window,content displayed image vedio file uploaded url lesson tool edited later option open window,5
+"45528	""Unable to see the """"Return to Lessons"""" button on top """,45528,"""Unable to see the """"Return to Lessons"""" button on top """,unable see return lesson button top,1
+62701	Assignments List Adding a Box for Release of Grades,62701,Assignments List Adding a Box for Release of Grades,assignment list adding box release grade,6
+62681	Connect button in pop-up when searching for user does not work,62681,Connect button in pop-up when searching for user does not work,connect button pop searching user work,18
+54083	Modify ckeditor.launch configuration to use toolbarGroups,54083,Modify ckeditor.launch configuration to use toolbarGroups,modify ckeditor launch configuration use toolbargroups,0
+62683	Oauth_timestamp is intermittently incorrect,62683,Oauth_timestamp is intermittently incorrect,oauth_timestamp intermittently incorrect,10
+58292	Resources and Dropbox special site quota in GB,58292,Resources and Dropbox special site quota in GB,resource dropbox special site quota gb,5
+36611	Move Roster2 to use portal.i18n library,36611,Move Roster2 to use portal.i18n library,move roster use portal library,10
+62558	update Translation,62558,update Translation,update translation,9
+12107	Anonymous evaluations lists responder statuses as untaken,12107,Anonymous evaluations lists responder statuses as untaken,anonymous evaluation list responder status untaken,3
+53970	Bleed through when question text wraps,53970,Bleed through when question text wraps,bleed question text wrap,11
+36615	GradebookNG row alignment issue,36615,GradebookNG row alignment issue,gradebookng row alignment issue,0
+62590	Port the master roster code back to 11.x,62590,Port the master roster code back to 11.x,port master roster code back x,10
+23259	Include citationCollectionId in stacktrace to fix broken lists more quickly,23259,Include citationCollectionId in stacktrace to fix broken lists more quickly,include citationcollectionid stacktrace fix broken list quickly,8
+45397	Back to top side floating button,45397,Back to top side floating button,back top side floating button,10
+41064	Assignments always show red flag,41064,Assignments always show red flag,assignment always show red flag,6
+49685	msgcntr: forums: Gradebook de-anonymizes an anon Forum topic where NO user is allowed to see posters' IDs,49685,msgcntr: forums: Gradebook de-anonymizes an anon Forum topic where NO user is allowed to see posters' IDs,msgcntr forum gradebook de anonymizes anon forum topic user allowed see poster id,2
+41055	Page order Tool in Site Info drag and drop in IE9-11 issue,41055,Page order Tool in Site Info drag and drop in IE9-11 issue,page order tool site info drag drop ie issue,14
+32129	Embeded SCORM content not resizing correctly,32129,Embeded SCORM content not resizing correctly,embeded scorm content resizing correctly,15
+53918	Add 'Class Test' to Event Types,53918,Add 'Class Test' to Event Types,add class test event type,13
+12835	Using Ampersand In title is transformed to &amp; after saving,12835,Using Ampersand In title is transformed to &amp; after saving,using ampersand title transformed amp saving,10
+12683	Editing a template item creates a loop,12683,Editing a template item creates a loop,editing template item creates loop,16
+27723	commons-pool2 & commons-dbcp2,27723,commons-pool2 & commons-dbcp2,common pool common dbcp,0
+"36595	""""""Insert original text"""" link in Forums does not work""",36595,"""""""Insert original text"""" link in Forums does not work""",insert original text link forum work,2
+45337	Upgrade Samigo QTI to support 2.x versions,45337,Upgrade Samigo QTI to support 2.x versions,upgrade samigo qti support x version,10
+11910	Evaluations can sometimes duplicate the responses on an saved submission,11910,Evaluations can sometimes duplicate the responses on an saved submission,evaluation sometimes duplicate response saved submission,17
+45381	Peer assignment options not persistently displayed,45381,Peer assignment options not persistently displayed,peer assignment option persistently displayed,6
+53926	Penalty factor for test,53926,Penalty factor for test,penalty factor test,13
+45378	Upgrade to pluto 3.0,45378,Upgrade to pluto 3.0,upgrade pluto,10
+40972	Tidy up accessors in SiteAction,40972,Tidy up accessors in SiteAction,tidy accessors siteaction,10
+62495	Numeric Response -Mark with calculation error,62495,Numeric Response -Mark with calculation error,numeric response mark calculation error,3
+62489	Strange way to run the resubmission option in the configuration of an assignment,62489,Strange way to run the resubmission option in the configuration of an assignment,strange way run resubmission option configuration assignment,6
+36546	portal chat is unusable on a mobile,36546,portal chat is unusable on a mobile,portal chat unusable mobile,0
+40952	Late Accept and Due Date fields behave incorrectly,40952,Late Accept and Due Date fields behave incorrectly,late accept due date field behave incorrectly,12
+"36538	""User IDs are shown as """"display-userid"""" """,36538,"""User IDs are shown as """"display-userid"""" """,user id shown display userid,18
+32097	Profile images are not shown; alt text is incorrect,32097,Profile images are not shown; alt text is incorrect,profile image shown alt text incorrect,18
+45344	wrong image used in tools dropdown shortcut,45344,wrong image used in tools dropdown shortcut,wrong image used tool dropdown shortcut,10
+40945	wrong icon used for LTI (external) tools,40945,wrong icon used for LTI (external) tools,wrong icon used lti external tool,10
+36529	TEST & QUIZZES -CALCULATED QUESTION LOOKUP FROM TABLE,36529,TEST & QUIZZES -CALCULATED QUESTION LOOKUP FROM TABLE,test quiz calculated question lookup table,11
+32090	TEST & QUIZZES (NUMERIC) FEEDBACK,32090,TEST & QUIZZES (NUMERIC) FEEDBACK,test quiz numeric feedback,13
+27721	Numerical response weights,27721,Numerical response weights,numerical response weight,10
+32088	Calendar border is missing,32088,Calendar border is missing,calendar border missing,0
+53950	Imported announcement's scheduled emails aren't sent and may overwrite the original announcement's email when editing,53950,Imported announcement's scheduled emails aren't sent and may overwrite the original announcement's email when editing,imported announcement scheduled email sent may overwrite original announcement email editing,8
+40991	Unable to set Home tool to required in toolOrder.xml,40991,Unable to set Home tool to required in toolOrder.xml,unable set home tool required toolorder xml,10
+36522	Moving LHS tool bar when scrolling doesn't move the subsites as well,36522,Moving LHS tool bar when scrolling doesn't move the subsites as well,moving lh tool bar scrolling move subsites well,10
+49643	Assignment allows Collaborative Group Submission AND Display to Site: Error,49643,Assignment allows Collaborative Group Submission AND Display to Site: Error,assignment allows collaborative group submission display site error,17
+58209	Allow column properties on collapsed section to be edited,58209,Allow column properties on collapsed section to be edited,allow column property collapsed section edited,0
+27702	403 error accessing content on group pages if group membership is modified,27702,403 error accessing content on group pages if group membership is modified,error accessing content group page group membership modified,7
+36561	New Tool: Community Data Exchange,36561,New Tool: Community Data Exchange,new tool community data exchange,10
+23221	announcements RSS feed should not include long description ,23221,announcements RSS feed should not include long description ,announcement r feed include long description,8
+53915	End Time value not displayed when editing Calendar Event,53915,End Time value not displayed when editing Calendar Event,end time value displayed editing calendar event,13
+12101	Errors starting 2 app servers concurrently from data fixup,12101,Errors starting 2 app servers concurrently from data fixup,error starting app server concurrently data fixup,3
+53882	Scoring text more precise in assessments based in question pools,53882,Scoring text more precise in assessments based in question pools,scoring text precise assessment based question pool,11
+49588	Help popup frames go wrong when resized (Chrome),49588,Help popup frames go wrong when resized (Chrome),help popup frame go wrong resized chrome,15
+40996	rewrite URLs within Home tool,40996,rewrite URLs within Home tool,rewrite url within home tool,19
+45321	Sync is failing for an internal user,45321,Sync is failing for an internal user,sync failing internal user,18
+62492	Enhance Schedule text on Edit Tools page,62492,Enhance Schedule text on Edit Tools page,enhance schedule text edit tool page,10
+23211	allow one to copy a list of site member's usernames in Site Info,23211,allow one to copy a list of site member's usernames in Site Info,allow one copy list site member usernames site info,14
+62536	Add detailed reporting for question analysis,62536,Add detailed reporting for question analysis,add detailed reporting question analysis,11
+62530	Scrolling down on mobile device sometimes creates two different layers of overlapping text,62530,Scrolling down on mobile device sometimes creates two different layers of overlapping text,scrolling mobile device sometimes creates two different layer overlapping text,0
+58191	Adding an image through the CK Editor is cumbersome,58191,Adding an image through the CK Editor is cumbersome,adding image ck editor cumbersome,10
+53900	Drag and drop ability to reorganise questions,53900,Drag and drop ability to reorganise questions,drag drop ability reorganise question,11
+40957	Rewrite urls to YouTube to not use the http protocol,40957,Rewrite urls to YouTube to not use the http protocol,rewrite url youtube use http protocol,19
+"36544	""Stop auto-adding target=""""_blank"""" to the site description when https link is added via Site Info""",36544,"""Stop auto-adding target=""""_blank"""" to the site description when https link is added via Site Info""",stop auto adding target _blank site description http link added via site info,14
+58167	System breaks down while importing the lessons ,58167,System breaks down while importing the lessons ,system break importing lesson,1
+23176	Sorting in Sakai should use the user's locale,23176,Sorting in Sakai should use the user's locale,sorting sakai use user locale,18
+53863	Site groups based on provider IDs don't update straight away.,53863,Site groups based on provider IDs don't update straight away.,site group based provider id update straight away,9
+36543	tool-reset URL Incorrect,36543,tool-reset URL Incorrect,tool reset url incorrect,19
+23162	Syllabus redirect frame is not full height,23162,Syllabus redirect frame is not full height,syllabus redirect frame full height,0
+58198	Long custom site titles spill out of site button/banner and change font,58198,Long custom site titles spill out of site button/banner and change font,long custom site title spill site button banner change font,14
+40982	date picker is cutting off the bottom of the month/year dropdowns,40982,date picker is cutting off the bottom of the month/year dropdowns,date picker cutting bottom month year dropdowns,12
+40975	Question Progress drawer overlaps large images,40975,Question Progress drawer overlaps large images,question progress drawer overlap large image,11
+36533	Large images in Hot Spot Questions push Edit and Remove buttons off page,36533,Large images in Hot Spot Questions push Edit and Remove buttons off page,large image hot spot question push edit remove button page,11
+27681	PDF export should use American letter size instead of A4 for USA locales,27681,PDF export should use American letter size instead of A4 for USA locales,pdf export use american letter size instead usa locale,10
+45300	extracting ZIP files has issues with the API design,45300,extracting ZIP files has issues with the API design,extracting zip file issue api design,5
+40964	addResource needs to handle file name too long,40964,addResource needs to handle file name too long,addresource need handle file name long,5
+45296	Duplicate signup buttons at the top of the export page,45296,Duplicate signup buttons at the top of the export page,duplicate signup button top export page,10
+32083	Difficult to read Forum post- one paragraph is displayed in one line in mobile devices,32083,Difficult to read Forum post- one paragraph is displayed in one line in mobile devices,difficult read forum post one paragraph displayed one line mobile device,2
+58174	Assignments / peer reviewer comments text field,58174,Assignments / peer reviewer comments text field,assignment peer reviewer comment text field,6
+45285	Improve iframe resizing,45285,Improve iframe resizing,improve iframe resizing,10
+62479	allow one to copy a list of site member's usernames in Site Info,62479,allow one to copy a list of site member's usernames in Site Info,allow one copy list site member usernames site info,14
+23156	HotSpot Question Type Usability Issue,23156,HotSpot Question Type Usability Issue,hotspot question type usability issue,11
+23154	Stack trace on the bottom of every page in master if you don't run the 12 conversion script,23154,Stack trace on the bottom of every page in master if you don't run the 12 conversion script,stack trace bottom every page master run conversion script,16
+45323	Access user cannot upload to resources,45323,Access user cannot upload to resources,access user cannot upload resource,5
+58212	high CPU and dbpool spike with Signup tool,58212,high CPU and dbpool spike with Signup tool,high cpu dbpool spike signup tool,10
+27675	Attachments Disappear when Creating Group Forums,27675,Attachments Disappear when Creating Group Forums,attachment disappear creating group forum,7
+53847	Null Exception while submit the Assessment,53847,Null Exception while submit the Assessment,null exception submit assessment,19
+32048	Javascipt messages not internationalized,32048,Javascipt messages not internationalized,javascipt message internationalized,3
+40892	Uploading files to  multiple dropbox folders (by group) doesn't work for all students,40892,Uploading files to  multiple dropbox folders (by group) doesn't work for all students,uploading file multiple dropbox folder group work student,5
+36493	Set default antisamy behavior to encode instead of remove,36493,Set default antisamy behavior to encode instead of remove,set default antisamy behavior encode instead remove,15
+27660	Some actions are disabled if you toggle a folder,27660,Some actions are disabled if you toggle a folder,action disabled toggle folder,0
+58188	Centralize JS/CSS HTML head creation,58188,Centralize JS/CSS HTML head creation,centralize j cs html head creation,0
+62433	Improve button consistency in forums,62433,Improve button consistency in forums,improve button consistency forum,2
+36481	Delete option when creating folders doesn't work properly,36481,Delete option when creating folders doesn't work properly,delete option creating folder work properly,10
+"32026	""Add """"Subject"""" in the list of emailtemplate""",32026,"""Add """"Subject"""" in the list of emailtemplate""",add subject list emailtemplate,14
+27651	NPE when locale is null,27651,NPE when locale is null,npe locale null,10
+62430	Course Start Date,62430,Course Start Date,course start date,12
+58178	Administrator role in course,58178,Administrator role in course,administrator role course,7
+32012	Null pointer exception when viewing an announcement linked with an assignment (If the assignment tool is later removed),32012,Null pointer exception when viewing an announcement linked with an assignment (If the assignment tool is later removed),null pointer exception viewing announcement linked assignment assignment tool later removed,6
+58164	Submit after preview in assignments won't work even if honor code checkbox was clicked before entering preview,58164,Submit after preview in assignments won't work even if honor code checkbox was clicked before entering preview,submit preview assignment work even honor code checkbox clicked entering preview,6
+36503	Improve Roster Bundle Management,36503,Improve Roster Bundle Management,improve roster bundle management,10
+32023	Change CKEditor defaults to ensure responsiveness,32023,Change CKEditor defaults to ensure responsiveness,change ckeditor default ensure responsiveness,15
+23131	Improve CKEditor Smiley Configuration,23131,Improve CKEditor Smiley Configuration,improve ckeditor smiley configuration,0
+49550	HTML tags rendered by Samigo in the Fill in Blank questions (i.e. in between the {}),49550,HTML tags rendered by Samigo in the Fill in Blank questions (i.e. in between the {}),html tag rendered samigo fill blank question e,11
+36495	Redefine permissions in Sign-Up tool,36495,Redefine permissions in Sign-Up tool,redefine permission sign tool,10
+17461	Broken 'Close Window and Exit' button when submitting an assessment started through My Workspace - Dashboard,17461,Broken 'Close Window and Exit' button when submitting an assessment started through My Workspace - Dashboard,broken close window exit button submitting assessment started workspace dashboard,10
+32062	Reset password doesn't have institutional logo,32062,Reset password doesn't have institutional logo,reset password institutional logo,10
+62482	Subsite title gets cut on mobile view,62482,Subsite title gets cut on mobile view,subsite title get cut mobile view,0
+27568	Sakai Entity Broker REST Implementation test fails,27568,Sakai Entity Broker REST Implementation test fails,sakai entity broker rest implementation test fails,13
+17709	Provide alternative text for images - Dashboard icons,17709,Provide alternative text for images - Dashboard icons,provide alternative text image dashboard icon,0
+"23146	""Feature Request - Gradebook - Add a """"Penalty"""" option for Gradebook items""",23146,"""Feature Request - Gradebook - Add a """"Penalty"""" option for Gradebook items""",feature request gradebook add penalty option gradebook item,2
+62464	Gradebook category doesn't automatically adjust to size,62464,Gradebook category doesn't automatically adjust to size,gradebook category automatically adjust size,2
+45244	No alert message given when syllabus added with blank 'Title',45244,No alert message given when syllabus added with blank 'Title',alert message given syllabus added blank title,3
+53799	Viewing Topics: extra column/sorting icon for list of conversations posted,53799,Viewing Topics: extra column/sorting icon for list of conversations posted,viewing topic extra column sorting icon list conversation posted,0
+45237	Adding attachments to a topic: 'No attachments yet' text is removed but empty blue box is still shown ,45237,Adding attachments to a topic: 'No attachments yet' text is removed but empty blue box is still shown ,adding attachment topic attachment yet text removed empty blue box still shown,0
+40891	Upload file bar covers filename when uploading through Drop Box,40891,Upload file bar covers filename when uploading through Drop Box,upload file bar cover filename uploading drop box,5
+23129	Missing check null before new file,23129,Missing check null before new file,missing check null new file,5
+49548	jconsole error adding pictures in the Profile tool,49548,jconsole error adding pictures in the Profile tool,jconsole error adding picture profile tool,18
+45233	jconsole error viewing user information popup (hover mouse over username) if user has profile image,45233,jconsole error viewing user information popup (hover mouse over username) if user has profile image,jconsole error viewing user information popup hover mouse username user profile image,18
+53790	General configuration table for content review activities,53790,General configuration table for content review activities,general configuration table content review activity,15
+27587	oracle 10.5 conversion script - cannot alter column type because it contains data,27587,oracle 10.5 conversion script - cannot alter column type because it contains data,oracle conversion script cannot alter column type contains data,0
+62432	Malformed unique constraint in Oracle 11 conversion script,62432,Malformed unique constraint in Oracle 11 conversion script,malformed unique constraint oracle conversion script,0
+32019	File Upload question: Upload button should be disabled until a file has been chosen,32019,File Upload question: Upload button should be disabled until a file has been chosen,file upload question upload button disabled file chosen,5
+27584	Narrow profile pictures are shown as tiles in Log Out drop down menu ,27584,Narrow profile pictures are shown as tiles in Log Out drop down menu ,narrow profile picture shown tile log drop menu,18
+62426	No alert message is given when web link is created without any URL.,62426,No alert message is given when web link is created without any URL.,alert message given web link created without url,19
+53825	Spaces needed after colons,53825,Spaces needed after colons,space needed colon,10
+62423	Sites waffle dropdown not working on Test Settings page,62423,Sites waffle dropdown not working on Test Settings page,site waffle dropdown working test setting page,13
+"53823	""""""Sort by ending date/ modified date"""" columns do not have any data in reorder announcements""",53823,"""""""Sort by ending date/ modified date"""" columns do not have any data in reorder announcements""",sort ending date modified date column data reorder announcement,12
+12555	email reminder sent to all students instead of non-respondent,12555,email reminder sent to all students instead of non-respondent,email reminder sent student instead non respondent,0
+32007	Create new events that differentiate the site.upd event,32007,Create new events that differentiate the site.upd event,create new event differentiate site upd event,13
+45216	Tests & Quizzes - Add assessment setting to decide impact of extra credit on total points possible,45216,Tests & Quizzes - Add assessment setting to decide impact of extra credit on total points possible,test quiz add assessment setting decide impact extra credit total point possible,13
+45213	Next button on a Lessons subpage does not work as expected ,45213,Next button on a Lessons subpage does not work as expected ,next button lesson subpage work expected,1
+12387	How to solve error messgaes in evaluation tool,12387,How to solve error messgaes in evaluation tool,solve error messgaes evaluation tool,3
+36446	An undo button is highly desirable   ,36446,An undo button is highly desirable   ,undo button highly desirable,10
+23094	please use lazy to CXF,23094,please use lazy to CXF,please use lazy cxf,10
+62418	please use lazy to samigo,62418,please use lazy to samigo,please use lazy samigo,10
+49557	Site drawer overlaps with user/profile menu,49557,Site drawer overlaps with user/profile menu,site drawer overlap user profile menu,18
+36492	Unclear due/retract date message shown to students beginning quiz,36492,Unclear due/retract date message shown to students beginning quiz,unclear due retract date message shown student beginning quiz,12
+58137	Left hand tool list moves when user scrolls - unable to open all tools in a long list,58137,Left hand tool list moves when user scrolls - unable to open all tools in a long list,left hand tool list move user scroll unable open tool long list,10
+45259	Public Announcement is not displaying to users,45259,Public Announcement is not displaying to users,public announcement displaying user,8
+49546	How to resolve exception in Evaluations tool?,49546,How to resolve exception in Evaluations tool?,resolve exception evaluation tool,19
+45252	Signup does not generate an alert re Schedule not being present,45252,Signup does not generate an alert re Schedule not being present,signup generate alert schedule present,0
+23066	Delete item warning: Icon out of alignment,23066,Delete item warning: Icon out of alignment,delete item warning icon alignment,0
+62383	Incorrect error message displayed when adding a new assignment through Lessons tool,62383,Incorrect error message displayed when adding a new assignment through Lessons tool,incorrect error message displayed adding new assignment lesson tool,3
+49540	Import From File (xml/QTI export from other Sakai server) Into Tests & Quizzes is Broken,49540,Import From File (xml/QTI export from other Sakai server) Into Tests & Quizzes is Broken,import file xml qti export sakai server test quiz broken,13
+27590	TAs cannot grade Assignments through the Assignments tool,27590,TAs cannot grade Assignments through the Assignments tool,ta cannot grade assignment assignment tool,6
+23123	Content Review inline submission retro activation,23123,Content Review inline submission retro activation,content review inline submission retro activation,17
+53794	jconsole errors opening Section Info tool,53794,jconsole errors opening Section Info tool,jconsole error opening section info tool,10
+32024	Adding test to GBNG: no place to assign category,32024,Adding test to GBNG: no place to assign category,adding test gbng place assign category,13
+"45238	""Change description for GBNG in """"Manage Tools"""" screen.""",45238,"""Change description for GBNG in """"Manage Tools"""" screen.""",change description gbng manage tool screen,8
+27583	Can't add multiple citations in Resource at once,27583,Can't add multiple citations in Resource at once,add multiple citation resource,5
+36464	Site participants not displayed in 'Worksite Setup' when 'Prev' or 'Next' button is clicked.,36464,Site participants not displayed in 'Worksite Setup' when 'Prev' or 'Next' button is clicked.,site participant displayed worksite setup prev next button clicked,14
+27579	Syllabus has com.sun.faces.verifyObjects enabled.,27579,Syllabus has com.sun.faces.verifyObjects enabled.,syllabus com sun face verifyobjects enabled,10
+"32011	""""""Table Properties"""" freezes while inserting table into syllabus via the CKeditor. """,32011,"""""""Table Properties"""" freezes while inserting table into syllabus via the CKeditor. """,table property freeze inserting table syllabus via ckeditor,10
+23111	Tests & Quizzes - Setting Default Adjustments,23111,Tests & Quizzes - Setting Default Adjustments,test quiz setting default adjustment,13
+40881	Cannot publish the syllabus for 'bulk add' with start and end date being same.,40881,Cannot publish the syllabus for 'bulk add' with start and end date being same.,cannot publish syllabus bulk add start end date,12
+32006	Assignments associated with the same GBNG item automatically given same grade,32006,Assignments associated with the same GBNG item automatically given same grade,assignment associated gbng item automatically given grade,6
+32003	Sorting options behave differently/don't work at all in Grade Report tab,32003,Sorting options behave differently/don't work at all in Grade Report tab,sorting option behave differently work grade report tab,20
+"23103	""Errors when double-clicking on buttons within the interface (such as the """"Remove"""" button in the Trash)""",23103,"""Errors when double-clicking on buttons within the interface (such as the """"Remove"""" button in the Trash)""",error double clicking button within interface remove button trash,10
+31986	WebDAV Upload Fails,31986,WebDAV Upload Fails,webdav upload fails,5
+53819	Issue with 'Uploading ZIP files',53819,Issue with 'Uploading ZIP files',issue uploading zip file,5
+62385	Condense Add Participants workflow to two screens,62385,Condense Add Participants workflow to two screens,condense add participant workflow two screen,14
+"49497	""Tests & Quizzes - """"Require Rationale"""" is not a required element once enabled""",49497,"""Tests & Quizzes - """"Require Rationale"""" is not a required element once enabled""",test quiz require rationale required element enabled,13
+53801	Unable to copy an announcement that was created by the same thread,53801,Unable to copy an announcement that was created by the same thread,unable copy announcement created thread,8
+12549	Evaluation results viewable datepicker not working,12549,Evaluation results viewable datepicker not working,evaluation result viewable datepicker working,3
+23105	Duplicate use of oracle sequence in Lesson Builder,23105,Duplicate use of oracle sequence in Lesson Builder,duplicate use oracle sequence lesson builder,1
+11722	Deadlock when group is created in template,11722,Deadlock when group is created in template,deadlock group created template,19
+62379	Set default target of 'suggest feature' to be the apereo Sakai farm landing page,62379,Set default target of 'suggest feature' to be the apereo Sakai farm landing page,set default target suggest feature apereo sakai farm landing page,15
+23122	Adding Rubrics to Sakai Samigo and Assignments,23122,Adding Rubrics to Sakai Samigo and Assignments,adding rubric sakai samigo assignment,17
+45224	Message Center Notifications: extra blank column,45224,Message Center Notifications: extra blank column,message center notification extra blank column,3
+62397	IMS Content Package Not Imported,62397,IMS Content Package Not Imported,ims content package imported,15
+36444	Lesson Tool - Add Question Function Request,36444,Lesson Tool - Add Question Function Request,lesson tool add question function request,1
+31978	Box Integration,31978,Box Integration,box integration,0
+49515	Favorites & Organize Favorites show -1 ,49515,Favorites & Organize Favorites show -1 ,favorite organize favorite show,10
+"23100	""Clicking """"Add a Category"""" unnecessarily takes user to top of page""",23100,"""Clicking """"Add a Category"""" unnecessarily takes user to top of page""",clicking add category unnecessarily take user top page,18
+"53750	""""""View Site As"""" drop down menu is clickable but mouse doesn't change""",53750,"""""""View Site As"""" drop down menu is clickable but mouse doesn't change""",view site drop menu clickable mouse change,14
+40851	Move actual Calendar up on screen,40851,Move actual Calendar up on screen,move actual calendar screen,0
+62370	edit published assessment Multiple choice multiple selection to multiple choice single selection grading issue,62370,edit published assessment Multiple choice multiple selection to multiple choice single selection grading issue,edit published assessment multiple choice multiple selection multiple choice single selection grading issue,10
+"45200	""""""Invalid URL"""" alert appears when adding multiple instances of Web Content tool""",45200,"""""""Invalid URL"""" alert appears when adding multiple instances of Web Content tool""",invalid url alert appears adding multiple instance web content tool,15
+36418	Selecting gradebook item in Forum Grading,36418,Selecting gradebook item in Forum Grading,selecting gradebook item forum grading,2
+"36405	""""""Search"""" in roster tool only works when selecting from dynamic results - search button itself only resets tool""",36405,"""""""Search"""" in roster tool only works when selecting from dynamic results - search button itself only resets tool""",search roster tool work selecting dynamic result search button reset tool,10
+"53741	""Survey Matrix Question missing space before """"Column(forced ranking)""""""",53741,"""Survey Matrix Question missing space before """"Column(forced ranking)""""""",survey matrix question missing space column forced ranking,11
+49490	All Purpose Item doesn't use CKEditor,49490,All Purpose Item doesn't use CKEditor,purpose item use ckeditor,10
+"36399	""Student view - Screen title still displays as """"Assignment List""""""",36399,"""Student view - Screen title still displays as """"Assignment List""""""",student view screen title still display assignment list,6
+36382	Purpose and function of Options unclear,36382,Purpose and function of Options unclear,purpose function option unclear,10
+62331	Inconsistent breadcrumbs in Messages,62331,Inconsistent breadcrumbs in Messages,inconsistent breadcrumb message,3
+"23029	""Download All- """"Include..."""" option doesn't work""",23029,"""Download All- """"Include..."""" option doesn't work""",download include option work,8
+36335	Event time format is inconsistent for events occurring Today and Tomorrow,36335,Event time format is inconsistent for events occurring Today and Tomorrow,event time format inconsistent event occurring today tomorrow,13
+49418	Tool title can be set but is never displayed,49418,Tool title can be set but is never displayed,tool title set never displayed,10
+36328	Syllabus: Print Individual Items,36328,Syllabus: Print Individual Items,syllabus print individual item,10
+27531	In the Syllabus tool clicking print view and then view as student changes the main window inappropriately,27531,In the Syllabus tool clicking print view and then view as student changes the main window inappropriately,syllabus tool clicking print view view student change main window inappropriately,10
+62350	Change Wording: Add to Save as Draft,62350,Change Wording: Add to Save as Draft,change wording add save draft,14
+58038	Some URLS do not work using the redirect option in certain conditions,58038,Some URLS do not work using the redirect option in certain conditions,url work using redirect option certain condition,10
+31918	Statistics Tool - Reports - Printing View,31918,Statistics Tool - Reports - Printing View,statistic tool report printing view,20
+27505	Show Model Answer field in Assignments when it is set to be displayed to students,27505,Show Model Answer field in Assignments when it is set to be displayed to students,show model answer field assignment set displayed student,6
+40798	Roster / add permission so the print feature can be turned on/off by role,40798,Roster / add permission so the print feature can be turned on/off by role,roster add permission print feature turned role,10
+45167	Exam-type events have same icon as Hidden items,45167,Exam-type events have same icon as Hidden items,exam type event icon hidden item,13
+36347	View in Site shows current week in Calendar tool regardless of actual event date,36347,View in Site shows current week in Calendar tool regardless of actual event date,view site show current week calendar tool regardless actual event date,13
+49433	Newly created message would not send to instructor and student,49433,Newly created message would not send to instructor and student,newly created message would send instructor student,19
+"36338	""""""User Audit Log"""" page in Site Info has no Menu bar""",36338,"""""""User Audit Log"""" page in Site Info has no Menu bar""",user audit log page site info menu bar,18
+62339	contributed syllabus integration with Oracle SIS,62339,contributed syllabus integration with Oracle SIS,contributed syllabus integration oracle si,0
+45114	illegal options combinations in assignments for turnItin,45114,illegal options combinations in assignments for turnItin,illegal option combination assignment turnitin,6
+53685	Duplicate Assignment changes value of Gradebook,53685,Duplicate Assignment changes value of Gradebook,duplicate assignment change value gradebook,6
+49417	Tabs in Preferences tool have extra padding,49417,Tabs in Preferences tool have extra padding,tab preference tool extra padding,10
+12379	Evaluation report not showing Overall Average of Means. ,12379,Evaluation report not showing Overall Average of Means. ,evaluation report showing overall average mean,20
+31927	getInternalDirectUrlToUserConnections takes you to user's profile homepage.,31927,getInternalDirectUrlToUserConnections takes you to user's profile homepage.,getinternaldirecturltouserconnections take user profile homepage,18
+27491	getInternalDirectUrlToUserWall doesn't take you to the user's wall,27491,getInternalDirectUrlToUserWall doesn't take you to the user's wall,getinternaldirecturltouserwall take user wall,18
+22997	Assign appropriate permissions for Sign Up tool,22997,Assign appropriate permissions for Sign Up tool,assign appropriate permission sign tool,10
+62263	Create Duplicate Site Webservice,62263,Create Duplicate Site Webservice,create duplicate site webservice,14
+62259	Index the sakai_event table,62259,Index the sakai_event table,index sakai_event table,10
+62255	Changing a profile photo will override Gravatar configuration,62255,Changing a profile photo will override Gravatar configuration,changing profile photo override gravatar configuration,18
+27484	Wrong Text in Submit Button when resubmitting an assignment,27484,Wrong Text in Submit Button when resubmitting an assignment,wrong text submit button resubmitting assignment,6
+"27478	""Matching """"match"""" when written in more than once will categorize it as a separate category.""",27478,"""Matching """"match"""" when written in more than once will categorize it as a separate category.""",matching match written categorize separate category,10
+53671	Forums / students ability to add topics can lead to instructor limited access,53671,Forums / students ability to add topics can lead to instructor limited access,forum student ability add topic lead instructor limited access,2
+40762	dashboard buttons covering underline when toggled,40762,dashboard buttons covering underline when toggled,dashboard button covering underline toggled,10
+58035	Hovering over menu options of collapsed left menu bar leaves text unclickable and behind other UI pieces,58035,Hovering over menu options of collapsed left menu bar leaves text unclickable and behind other UI pieces,hovering menu option collapsed left menu bar leaf text unclickable behind ui piece,10
+58018	Announcements View dropdown box cut off ,58018,Announcements View dropdown box cut off ,announcement view dropdown box cut,8
+53717	Collapse Tool on Tab Panel doesn't show as clickable on mouseover,53717,Collapse Tool on Tab Panel doesn't show as clickable on mouseover,collapse tool tab panel show clickable mouseover,10
+22972	No Print to printer option,22972,No Print to printer option,print printer option,10
+40738	Portal menu width too small,40738,Portal menu width too small,portal menu width small,10
+36303	Honor Pledge does not show up in Test and Quizzes,36303,Honor Pledge does not show up in Test and Quizzes,honor pledge show test quiz,13
+53702	Lessons content upload size max limit check before uploading to temp,53702,Lessons content upload size max limit check before uploading to temp,lesson content upload size max limit check uploading temp,1
+40733	Content Review error when trying to create assignment doesn't disappear,40733,Content Review error when trying to create assignment doesn't disappear,content review error trying create assignment disappear,6
+49385	Button Layout in Mercury Calendar,49385,Button Layout in Mercury Calendar,button layout mercury calendar,0
+36287	Alt text for many left menu bar items is inaccurate/unrelated,36287,Alt text for many left menu bar items is inaccurate/unrelated,alt text many left menu bar item inaccurate unrelated,10
+49381	Null Pointer Exception when navigating to newly created page via URL,49381,Null Pointer Exception when navigating to newly created page via URL,null pointer exception navigating newly created page via url,19
+"45097	""""""Add Gradebook Item"""" button returns error that the function localDatePicker is undefined """,45097,"""""""Add Gradebook Item"""" button returns error that the function localDatePicker is undefined """,add gradebook item button return error function localdatepicker undefined,2
+40717	Tools List / Site List hidden behind siteHierarchy yet still clickable,40717,Tools List / Site List hidden behind siteHierarchy yet still clickable,tool list site list hidden behind sitehierarchy yet still clickable,14
+31859	CSS Misalignment - Main Page,31859,CSS Misalignment - Main Page,cs misalignment main page,16
+27489	checkboxes in “Options” column on Home tab partially hidden,27489,checkboxes in “Options” column on Home tab partially hidden,checkboxes option column home tab partially hidden,10
+22951	Top navigation tabs are misaligned on Assignments page,22951,Top navigation tabs are misaligned on Assignments page,top navigation tab misaligned assignment page,6
+62249	Calendar List of Events Not Properly Labeled,62249,Calendar List of Events Not Properly Labeled,calendar list event properly labeled,13
+45095	Duplicate Site button covered by Link and Help buttons,45095,Duplicate Site button covered by Link and Help buttons,duplicate site button covered link help button,15
+"36278	""Quote Characters (' and """") Not Handled Properly in Sites""",36278,"""Quote Characters (' and """") Not Handled Properly in Sites""",quote character handled properly site,14
+22945	Number of messages unread/posted not displayed in Topic,22945,Number of messages unread/posted not displayed in Topic,number message unread posted displayed topic,3
+62302	Clean (security filter) HTML mail as it leaves Sakai,62302,Clean (security filter) HTML mail as it leaves Sakai,clean security filter html mail leaf sakai,0
+36310	Signup tool performance issues,36310,Signup tool performance issues,signup tool performance issue,10
+57952	LTI (iFrame): Extended Matching Items. Removing option goes back to assesment Edit,57952,LTI (iFrame): Extended Matching Items. Removing option goes back to assesment Edit,lti iframe extended matching item removing option go back assesment edit,10
+27441	Incorrect sequence values can lead to a variety of problems,27441,Incorrect sequence values can lead to a variety of problems,incorrect sequence value lead variety problem,10
+36296	Add the functionality to have a topic be visible BUT not accessible until a specified date.,36296,Add the functionality to have a topic be visible BUT not accessible until a specified date.,add functionality topic visible accessible specified date,12
+57929	Link & Help buttons in Site Info overlap the tab navigation links,57929,Link & Help buttons in Site Info overlap the tab navigation links,link help button site info overlap tab navigation link,15
+31881	Cannot create worksite - error on clicking worksite setup,31881,Cannot create worksite - error on clicking worksite setup,cannot create worksite error clicking worksite setup,0
+53695	Created course site is redirected to error page in Sakai 11.,53695,Created course site is redirected to error page in Sakai 11.,created course site redirected error page sakai,19
+"53686	""""""Move thread(s)"""" link is visible to students in Forums""",53686,"""""""Move thread(s)"""" link is visible to students in Forums""",move thread link visible student forum,2
+45064	content loss on image paste,45064,content loss on image paste,content loss image paste,15
+22991	Forums / grading screen will not close in IE,22991,Forums / grading screen will not close in IE,forum grading screen close ie,2
+57953	Incorrect forum message table sort by date column,57953,Incorrect forum message table sort by date column,incorrect forum message table sort date column,12
+40750	Bad choice of lock object,40750,Bad choice of lock object,bad choice lock object,4
+36324	Bad choice of lock object,36324,Bad choice of lock object,bad choice lock object,4
+31851	Bad choice of lock object,31851,Bad choice of lock object,bad choice lock object,4
+27389	Indefinite wait,27389,Indefinite wait,indefinite wait,10
+22987	Check of thread-shared field evades lock acquisition,22987,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+62287	Check of thread-shared field evades lock acquisition,62287,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+57946	Check of thread-shared field evades lock acquisition,57946,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+49388	Check of thread-shared field evades lock acquisition,49388,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+45056	Check of thread-shared field evades lock acquisition,45056,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+40746	Check of thread-shared field evades lock acquisition,40746,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+36323	Check of thread-shared field evades lock acquisition,36323,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+31846	Check of thread-shared field evades lock acquisition ,31846,Check of thread-shared field evades lock acquisition ,check thread shared field evades lock acquisition,4
+27385	Check of thread-shared field evades lock acquisition,27385,Check of thread-shared field evades lock acquisition,check thread shared field evades lock acquisition,4
+22978	Jump to last saved question after resuming assessment,22978,Jump to last saved question after resuming assessment,jump last saved question resuming assessment,11
+12986	Stacktrace and parameter error with too many groups,12986,Stacktrace and parameter error with too many groups,stacktrace parameter error many group,7
+12087	Assigning evaluationt to sites doesn't make evaluation available to students,12087,Assigning evaluationt to sites doesn't make evaluation available to students,assigning evaluationt site make evaluation available student,3
+45044	Reproducible string out of bounds error - Gradebook,45044,Reproducible string out of bounds error - Gradebook,reproducible string bound error gradebook,2
+40731	Reproducible String outofbounds error in JSF,40731,Reproducible String outofbounds error in JSF,reproducible string outofbounds error jsf,3
+53641	Section Info: Category options not available,53641,Section Info: Category options not available,section info category option available,0
+12544	Import Old evaluations data while upgrading to newer version,12544,Import Old evaluations data while upgrading to newer version,import old evaluation data upgrading newer version,3
+62268	Preferences / reorder sites in customize tabs issue,62268,Preferences / reorder sites in customize tabs issue,preference reorder site customize tab issue,14
+57981	CLONE - Profile image cannot be selected from Pictures if file type is .png,57981,CLONE - Profile image cannot be selected from Pictures if file type is .png,clone profile image cannot selected picture file type png,18
+53630	Add elFinder support to Mneme,53630,Add elFinder support to Mneme,add elfinder support mneme,14
+53621	NullPointerException because of missing ltiToolValues LTI_TITLE,53621,NullPointerException because of missing ltiToolValues LTI_TITLE,nullpointerexception missing ltitoolvalues lti_title,0
+31854	Reimplement memberships synchronisation as an administrator triggered operation,31854,Reimplement memberships synchronisation as an administrator triggered operation,reimplement membership synchronisation administrator triggered operation,0
+57959	Demo version needs a site to support large numbers of participants,57959,Demo version needs a site to support large numbers of participants,demo version need site support large number participant,14
+45078	Question directions related to several questions.,45078,Question directions related to several questions.,question direction related several question,11
+36277	Setting a default.copyright property has no effect,36277,Setting a default.copyright property has no effect,setting default copyright property effect,15
+27430	Create new tables MFR_TOPIC_OPEN_FORUM_T and MFR_TOPIC_PRIVATE_FORUM_T to avoid null scans,27430,Create new tables MFR_TOPIC_OPEN_FORUM_T and MFR_TOPIC_PRIVATE_FORUM_T to avoid null scans,create new table mfr_topic_open_forum_t mfr_topic_private_forum_t avoid null scan,10
+27428	Include image in exported assessments,27428,Include image in exported assessments,include image exported assessment,8
+57935	Extra Permissions to hide or show the different site Info buttons with more granularity that the actual permissions do.,57935,Extra Permissions to hide or show the different site Info buttons with more granularity that the actual permissions do.,extra permission hide show different site info button granularity actual permission,14
+53649	Note on Gradebook / Lessons interaction,53649,Note on Gradebook / Lessons interaction,note gradebook lesson interaction,1
+62202	Can't click on student's name in forums if it contains an apostraphe PATCH PROVIDED,62202,Can't click on student's name in forums if it contains an apostraphe PATCH PROVIDED,click student name forum contains apostraphe patch provided,2
+31777	How to post a public announcement in sakai cle 2.9.1,31777,How to post a public announcement in sakai cle 2.9.1,post public announcement sakai cle,8
+31773	Messages Read -> Date leads instructors to believe it is message read date instead of topic posted date,31773,Messages Read -> Date leads instructors to believe it is message read date instead of topic posted date,message read date lead instructor believe message read date instead topic posted date,12
+27418	roster2 tool doesn't work for IE,27418,roster2 tool doesn't work for IE,roster tool work ie,10
+31765	Job to publish and unpublish sites based on a site property,31765,Job to publish and unpublish sites based on a site property,job publish unpublish site based site property,14
+49307	Questions with dollar sign symbol fails to provide downloadable pdf,49307,Questions with dollar sign symbol fails to provide downloadable pdf,question dollar sign symbol fails provide downloadable pdf,11
+31823	Ambiguous Visual Cue Upon Score Adjustment,31823,Ambiguous Visual Cue Upon Score Adjustment,ambiguous visual cue upon score adjustment,10
+49303	Inappropriate use of System.out.println,49303,Inappropriate use of System.out.println,inappropriate use system println,10
+27395	Exporting multiple files,27395,Exporting multiple files,exporting multiple file,5
+45083	help.hide property no longer works as expected,45083,help.hide property no longer works as expected,help hide property longer work expected,15
+36223	Insert in assignments interface that max size for submitted file is 20 Mb,36223,Insert in assignments interface that max size for submitted file is 20 Mb,insert assignment interface max size submitted file mb,6
+62195	Add option to show the Read count in Forum messages,62195,Add option to show the Read count in Forum messages,add option show read count forum message,2
+19638	Extend the Mneme Entity Broker Feed to include direct assessment Url,19638,Extend the Mneme Entity Broker Feed to include direct assessment Url,extend mneme entity broker feed include direct assessment url,8
+19119	Add a direct link to Canvas from within CTools,19119,Add a direct link to Canvas from within CTools,add direct link canvas within ctools,14
+36216	Could not open the portal page after completing the installations,36216,Could not open the portal page after completing the installations,could open portal page completing installation,16
+22920	Change HTML warning popup box to be more of a notice than a warning,22920,Change HTML warning popup box to be more of a notice than a warning,change html warning popup box notice warning,0
+49288	Some site language settings break SiteStats reports,49288,Some site language settings break SiteStats reports,site language setting break sitestats report,20
+45071	Maintain submission history for assignments that includes submission contents,45071,Maintain submission history for assignments that includes submission contents,maintain submission history assignment includes submission content,17
+"36210	""Rename """"Page Order"""" to something that better belies what it does""",36210,"""Rename """"Page Order"""" to something that better belies what it does""",rename page order something better belies,16
+49325	UPLOAD FILE - i18N -  there is no property - ,49325,UPLOAD FILE - i18N -  there is no property - ,upload file property,5
+45053	Turing the presence function off for a specific site only,45053,Turing the presence function off for a specific site only,turing presence function specific site,14
+"53639	""Leaving a joinable site via Site-info displays """"Do you want to join this site"""" message again. """,53639,"""Leaving a joinable site via Site-info displays """"Do you want to join this site"""" message again. """,leaving joinable site via site info display want join site message,14
+45050	Webdav encoding issue with Finder in OS X,45050,Webdav encoding issue with Finder in OS X,webdav encoding issue finder o x,0
+36256	UserDirectoryService could use a way to return all userid's,36256,UserDirectoryService could use a way to return all userid's,userdirectoryservice could use way return userid,10
+22904	unable to add member to existing group with new role type in site,22904,unable to add member to existing group with new role type in site,unable add member existing group new role type site,14
+40646	Detect mixed-content in wiki links,40646,Detect mixed-content in wiki links,detect mixed content wiki link,15
+12261	view report / sort returned results,12261,view report / sort returned results,view report sort returned result,20
+62221	Maintain user check is not correct: Cannot inactivate last user with role 'Instructor',62221,Maintain user check is not correct: Cannot inactivate last user with role 'Instructor',maintain user check correct cannot inactivate last user role instructor,18
+"22886	""Feature Request: Allow user to set """"new window"""" when editing a Web Content link in Site Info - Page Order""",22886,"""Feature Request: Allow user to set """"new window"""" when editing a Web Content link in Site Info - Page Order""",feature request allow user set new window editing web content link site info page order,15
+"62215	""Feature Request: Allow user to set """"new window"""" when adding a Web Content link in Site Info - Edit Tools""",62215,"""Feature Request: Allow user to set """"new window"""" when adding a Web Content link in Site Info - Edit Tools""",feature request allow user set new window adding web content link site info edit tool,15
+45017	Duplicated entry for gen.group,45017,Duplicated entry for gen.group,duplicated entry gen group,7
+57869	New Webservices from rsmart/ANI/Scriba code,57869,New Webservices from rsmart/ANI/Scriba code,new webservices rsmart ani scriba code,10
+53605	Support ContentHostingService as a FileSystemProvider,53605,Support ContentHostingService as a FileSystemProvider,support contenthostingservice filesystemprovider,10
+40655	Add ability for external tool to construct context-only reverse LTI Launches to themselves via Content Item,40655,Add ability for external tool to construct context-only reverse LTI Launches to themselves via Content Item,add ability external tool construct context reverse lti launch via content item,19
+22908	Unable to change meeting type in Sign-up tool,22908,Unable to change meeting type in Sign-up tool,unable change meeting type sign tool,10
+22896	Bulk print a completed assessment,22896,Bulk print a completed assessment,bulk print completed assessment,0
+27352	Provide a link in the email notification message that goes directly to the current message instead of the main page in Messages Tool,27352,Provide a link in the email notification message that goes directly to the current message instead of the main page in Messages Tool,provide link email notification message go directly current message instead main page message tool,3
+62216	ask for confirmation when Joinable Group is deleted,62216,ask for confirmation when Joinable Group is deleted,ask confirmation joinable group deleted,7
+31802	Dropbox gives lock error when expanding archive and removing archives and expanded archives,31802,Dropbox gives lock error when expanding archive and removing archives and expanded archives,dropbox give lock error expanding archive removing archive expanded archive,10
+12368	Template replacement doesn't work for manual emails,12368,Template replacement doesn't work for manual emails,template replacement work manual email,16
+11452	Update icons to use Font Awesome,11452,Update icons to use Font Awesome,update icon use font awesome,9
+22847	Support a specific icon for every LTI tool and Placement,22847,Support a specific icon for every LTI tool and Placement,support specific icon every lti tool placement,10
+44982	Provide keitai service to get all polls of a user,44982,Provide keitai service to get all polls of a user,provide keitai service get poll user,18
+31759	Calendar / order items ending at same time,31759,Calendar / order items ending at same time,calendar order item ending time,0
+40652	Allow for item names to be changed,40652,Allow for item names to be changed,allow item name changed,10
+53571	Exporting & importing questions to lessons,53571,Exporting & importing questions to lessons,exporting importing question lesson,1
+36229	Make edit/delete comments time configurable,36229,Make edit/delete comments time configurable,make edit delete comment time configurable,0
+22880	Add allow retake to Question function in Lessons,22880,Add allow retake to Question function in Lessons,add allow retake question function lesson,1
+62140	Assignments / grade report,62140,Assignments / grade report,assignment grade report,20
+36224	Release and bind to Sakai Maven Plugin 1.4.2,36224,Release and bind to Sakai Maven Plugin 1.4.2,release bind sakai maven plugin,0
+22856	Customize tabs / unable to hide all sites,22856,Customize tabs / unable to hide all sites,customize tab unable hide site,14
+40614	NumberFormatException after clicking the Statistics button,40614,NumberFormatException after clicking the Statistics button,numberformatexception clicking statistic button,10
+36180	The resource with chinese file name download error,36180,The resource with chinese file name download error,resource chinese file name download error,5
+31764	Roster profile popup doesn't render Chinese characters properly.,31764,Roster profile popup doesn't render Chinese characters properly.,roster profile popup render chinese character properly,18
+40605	NullPointerException on timed test with default score,40605,NullPointerException on timed test with default score,nullpointerexception timed test default score,13
+22829	Add answer randomization for parts,22829,Add answer randomization for parts,add answer randomization part,14
+62154	Bookmark / link to where you were previously,62154,Bookmark / link to where you were previously,bookmark link previously,10
+"57904	""Remove the """"Home"""" tool from the Default Site Setup and leave the top position to new sites to be the ashboard""",57904,"""Remove the """"Home"""" tool from the Default Site Setup and leave the top position to new sites to be the ashboard""",remove home tool default site setup leave top position new site ashboard,14
+40594	Implement LTI2 tool provider,40594,Implement LTI2 tool provider,implement lti tool provider,10
+11713	Null values in EVAL_EVALUATION.INSTRUCTOR_VIEW_ALL_RESULTS cause NullPointerExceptions in PDF reports,11713,Null values in EVAL_EVALUATION.INSTRUCTOR_VIEW_ALL_RESULTS cause NullPointerExceptions in PDF reports,null value eval_evaluation instructor_view_all_results cause nullpointerexceptions pdf report,20
+36150	Assignments / non electronic apply grade to ungraded does not work,36150,Assignments / non electronic apply grade to ungraded does not work,assignment non electronic apply grade ungraded work,6
+45020	Checkboxes unchecks when expanding folder,45020,Checkboxes unchecks when expanding folder,checkboxes unchecks expanding folder,0
+49225	Sitestats connection not closing ,49225,Sitestats connection not closing ,sitestats connection closing,10
+36203	Roster2 Sort Icon Missing,36203,Roster2 Sort Icon Missing,roster sort icon missing,10
+62134	Improve error message when maintainer doesn't have signup.attend permission,62134,Improve error message when maintainer doesn't have signup.attend permission,improve error message maintainer signup attend permission,3
+31716	Create access key for direct access to grade field in Assignments.,31716,Create access key for direct access to grade field in Assignments.,create access key direct access grade field assignment,6
+53590	New column to mark assignments that include comments in the assignment's submission list page,53590,New column to mark assignments that include comments in the assignment's submission list page,new column mark assignment include comment assignment submission list page,6
+22884	Height of embedded content in imported Lessons page is different from the exported page. ,22884,Height of embedded content in imported Lessons page is different from the exported page. ,height embedded content imported lesson page different exported page,16
+53580	Post Gradebook items to Schedule?,53580,Post Gradebook items to Schedule?,post gradebook item schedule,2
+44961	Webpage layout in IE 11,44961,Webpage layout in IE 11,webpage layout ie,10
+22883	Report tool ids show sakai.resources when non resource tool events are being displayed,22883,Report tool ids show sakai.resources when non resource tool events are being displayed,report tool id show sakai resource non resource tool event displayed,5
+44958	Option format is not copied properly when copy from Pool for Extended Matching Question,44958,Option format is not copied properly when copy from Pool for Extended Matching Question,option format copied properly copy pool extended matching question,11
+"44953	""Sign-up doesnt honor """"Privacy Status""""""",44953,"""Sign-up doesnt honor """"Privacy Status""""""",sign doesnt honor privacy status,0
+62133	JavaScript error occurs when clicking checkboxes before page fully rendered,62133,JavaScript error occurs when clicking checkboxes before page fully rendered,javascript error occurs clicking checkboxes page fully rendered,16
+22842	Question pool / questions on published assessment not updated after retracted,22842,Question pool / questions on published assessment not updated after retracted,question pool question published assessment updated retracted,11
+19393	Test Center: Export Summary takes 3 minutes to generate,19393,Test Center: Export Summary takes 3 minutes to generate,test center export summary take minute generate,13
+49247	report on individual tool / LHS page menu accesses,49247,report on individual tool / LHS page menu accesses,report individual tool lh page menu access,20
+19268	Large Random Draw question pool takes long time to export summary,19268,Large Random Draw question pool takes long time to export summary,large random draw question pool take long time export summary,11
+62142	podcast shows delete / revise links inappropriately,62142,podcast shows delete / revise links inappropriately,podcast show delete revise link inappropriately,10
+62139	issues with separate content domain,62139,issues with separate content domain,issue separate content domain,15
+19263	 Test Center does not display answers to text (essay) questions in Summary of Data ,19263, Test Center does not display answers to text (essay) questions in Summary of Data ,test center display answer text essay question summary data,11
+36145	Reply email subject mismatch when multiple tabs open,36145,Reply email subject mismatch when multiple tabs open,reply email subject mismatch multiple tab open,10
+31727	Poor error message reporting when uploading a resource that is past the limit when using file browser upload,31727,Poor error message reporting when uploading a resource that is past the limit when using file browser upload,poor error message reporting uploading resource past limit using file browser upload,5
+57816	Ability for a instructor to block time slots for different purposes making those slots not available for students from the site,57816,Ability for a instructor to block time slots for different purposes making those slots not available for students from the site,ability instructor block time slot different purpose making slot available student site,14
+44919	Create New User Dialog Box Email TextBox Behavior,44919,Create New User Dialog Box Email TextBox Behavior,create new user dialog box email textbox behavior,18
+40608	Site properties editor inserts HTML (BRs) into unrelated property values,40608,Site properties editor inserts HTML (BRs) into unrelated property values,site property editor insert html br unrelated property value,14
+36159	Fix sakai.motd tool so it does not use an iframe,36159,Fix sakai.motd tool so it does not use an iframe,fix sakai motd tool use iframe,10
+"36148	""Use date&time picker for """"Sign-up begins"""" and """"Sign-up ends""""""",36148,"""Use date&time picker for """"Sign-up begins"""" and """"Sign-up ends""""""",use date time picker sign begin sign end,12
+31667	Students should be allowed to Add Comments Tool ,31667,Students should be allowed to Add Comments Tool ,student allowed add comment tool,14
+62071	Assignments Peer Review add ability to allow reviewer to resubmit,62071,Assignments Peer Review add ability to allow reviewer to resubmit,assignment peer review add ability allow reviewer resubmit,6
+62067	Identify students that need to be graded in the 'Assignments list by student' view ,62067,Identify students that need to be graded in the 'Assignments list by student' view ,identify student need graded assignment list student view,6
+36142	Sites disappear for users with > 999 sites after viewing Resources (Patch Provided),36142,Sites disappear for users with > 999 sites after viewing Resources (Patch Provided),site disappear user site viewing resource patch provided,14
+36141	Lessons create folders in Resources - testfest 10.4-rc01 ,36141,Lessons create folders in Resources - testfest 10.4-rc01 ,lesson create folder resource testfest rc,1
+62122	Implement a PickableProducer for Signup tool,62122,Implement a PickableProducer for Signup tool,implement pickableproducer signup tool,10
+18834	Update CTDEV to point to cosign-test environment,18834,Update CTDEV to point to cosign-test environment,update ctdev point cosign test environment,9
+44920	Prerequisite option ignored if user does not select require on all prerequisites,44920,Prerequisite option ignored if user does not select require on all prerequisites,prerequisite option ignored user select require prerequisite,18
+27305	Add more time to test in progress,27305,Add more time to test in progress,add time test progress,13
+40562	Assignments/Lessons: Prerequisite leads to alert for group submission,40562,Assignments/Lessons: Prerequisite leads to alert for group submission,assignment lesson prerequisite lead alert group submission,17
+27300	Allow import of excel spreadsheet for sign-up tool,27300,Allow import of excel spreadsheet for sign-up tool,allow import excel spreadsheet sign tool,10
+22781	Allow instructors to release only incorrectly answered questions,22781,Allow instructors to release only incorrectly answered questions,allow instructor release incorrectly answered question,11
+57805	Simultaneous grading in Assignments can result in overwriting of instructor comments,57805,Simultaneous grading in Assignments can result in overwriting of instructor comments,simultaneous grading assignment result overwriting instructor comment,6
+62100	rubric for assignment,62100,rubric for assignment,rubric assignment,17
+57863	Cannot upload gzipped files via WebDAV using Konqueror on OpenSuse,57863,Cannot upload gzipped files via WebDAV using Konqueror on OpenSuse,cannot upload gzipped file via webdav using konqueror opensuse,5
+49212	Audio files don't all load if grading page has many audio clips ,49212,Audio files don't all load if grading page has many audio clips ,audio file load grading page many audio clip,5
+44905	recording time in seconds not always accurate compared to actual recording,44905,recording time in seconds not always accurate compared to actual recording,recording time second always accurate compared actual recording,10
+44957	All enitybroker responses are specified as being public by default,44957,All enitybroker responses are specified as being public by default,enitybroker response specified public default,15
+31689	Copyrighted resources would display 404 on Lessons if open in new window - tested on q10,31689,Copyrighted resources would display 404 on Lessons if open in new window - tested on q10,copyrighted resource would display lesson open new window tested q,1
+12660	Mean is not calculated correctly.  Ignores Ideal Question selection,12660,Mean is not calculated correctly.  Ignores Ideal Question selection,mean calculated correctly ignores ideal question selection,11
+31684	Attachments are duplicated when editing published EMI questions,31684,Attachments are duplicated when editing published EMI questions,attachment duplicated editing published emi question,11
+49205	site duplicate still not handling /direct links fully,49205,site duplicate still not handling /direct links fully,site duplicate still handling direct link fully,14
+31661	Signup Email All should use Email tool,31661,Signup Email All should use Email tool,signup email use email tool,10
+15975	The Media Gallery is not enabled. Your system administrator needs to enable it in the configuration. ,15975,The Media Gallery is not enabled. Your system administrator needs to enable it in the configuration. ,medium gallery enabled system administrator need enable configuration,0
+31648	How to create html page with video link after upload video in content tool.,31648,How to create html page with video link after upload video in content tool.,create html page video link upload video content tool,15
+27212	Assignment - allow resubmission bug,27212,Assignment - allow resubmission bug,assignment allow resubmission bug,6
+62107	Showing of tool navigation bar not consistent across portal,62107,Showing of tool navigation bar not consistent across portal,showing tool navigation bar consistent across portal,10
+53542	Add ability to filter LRS statement creation by event type,53542,Add ability to filter LRS statement creation by event type,add ability filter lr statement creation event type,13
+19639	Implement CoreEntityProvider for Melete,19639,Implement CoreEntityProvider for Melete,implement coreentityprovider melete,10
+31698	fixes to jforum for Sakai 11 / morpheus,31698,fixes to jforum for Sakai 11 / morpheus,fix jforum sakai morpheus,10
+40546	Resources won't expand on report if 'Limit to Resources' is checked,40546,Resources won't expand on report if 'Limit to Resources' is checked,resource expand report limit resource checked,5
+22745	Add URL submission type; support Open Graph,22745,Add URL submission type; support Open Graph,add url submission type support open graph,14
+31665	Remove CSV option and add all text data into excel for assignment upload,31665,Remove CSV option and add all text data into excel for assignment upload,remove csv option add text data excel assignment upload,6
+40584	Gradebook - Exception not caught when two Instructors grade the same assignment,40584,Gradebook - Exception not caught when two Instructors grade the same assignment,gradebook exception caught two instructor grade assignment,6
+36122	Assignment resubmission not allowed,36122,Assignment resubmission not allowed,assignment resubmission allowed,6
+53445	Links to Forums in synoptic tool don't work if tool is hidden but accesible,53445,Links to Forums in synoptic tool don't work if tool is hidden but accesible,link forum synoptic tool work tool hidden accesible,10
+36115	Uploading Gradebook with upper-case userEids crashes tool,36115,Uploading Gradebook with upper-case userEids crashes tool,uploading gradebook upper case usereids crash tool,2
+22730	Update QTI Export of Tests & Quizzes,22730,Update QTI Export of Tests & Quizzes,update qti export test quiz,9
+49170	timestamp.txt File Not Matching Actual Submission Date/Time ,49170,timestamp.txt File Not Matching Actual Submission Date/Time ,timestamp txt file matching actual submission date time,12
+36079	Duplicate rows being inserted into SST_EVENTS,36079,Duplicate rows being inserted into SST_EVENTS,duplicate row inserted sst_events,10
+"18697	""Test Center """"Summary of Data"""" regression""",18697,"""Test Center """"Summary of Data"""" regression""",test center summary data regression,13
+62047	Calculated Question - Preview doesn't let you fill in an answer,62047,Calculated Question - Preview doesn't let you fill in an answer,calculated question preview let fill answer,11
+53444	Unexpected behaviour when Gradebook Item is de-coupled from ASN tool,53444,Unexpected behaviour when Gradebook Item is de-coupled from ASN tool,unexpected behaviour gradebook item de coupled asn tool,2
+44854	Simplified Chinese translation for profile2's email templates,44854,Simplified Chinese translation for profile2's email templates,simplified chinese translation profile email template,16
+40488	Improve the UI of ETS,40488,Improve the UI of ETS,improve ui ets,16
+36028	Site-management: use ETS method to load templates,36028,Site-management: use ETS method to load templates,site management use ets method load template,16
+27203	Improve the compatibility of templates loading in ETS,27203,Improve the compatibility of templates loading in ETS,improve compatibility template loading ets,16
+22713	Forums / imported URL attachments 404 error,22713,Forums / imported URL attachments 404 error,forum imported url attachment error,2
+53477	sakai 10.x : patch to add french translation for html files in reference module,53477,sakai 10.x : patch to add french translation for html files in reference module,sakai x patch add french translation html file reference module,9
+44878	Make the Profile Tool menu conform to the markup patterns for its menu,44878,Make the Profile Tool menu conform to the markup patterns for its menu,make profile tool menu conform markup pattern menu,10
+"18927	""My Courses displays incorrect course instructor for """"instructor-less"""" courses""",18927,"""My Courses displays incorrect course instructor for """"instructor-less"""" courses""",course display incorrect course instructor instructor le course,7
+27150	Improved encoding correction,27150,Improved encoding correction,improved encoding correction,0
+"15966	""Kaltura video is not played on """"site info display"""" shown as an image""",15966,"""Kaltura video is not played on """"site info display"""" shown as an image""",kaltura video played site info display shown image,14
+53437	Post buffer bypass WARN in PDAHandler ,53437,Post buffer bypass WARN in PDAHandler ,post buffer bypass warn pdahandler,0
+22706	Message Center Notifications links take user to desktop Sakai portal even when in PDA portal,22706,Message Center Notifications links take user to desktop Sakai portal even when in PDA portal,message center notification link take user desktop sakai portal even pda portal,18
+19192	Allow site owners to disable Friend Account invitation notifications at the site level,19192,Allow site owners to disable Friend Account invitation notifications at the site level,allow site owner disable friend account invitation notification site level,14
+22685	don't use separate content domain or cookie domain if bypassing load balancer,22685,don't use separate content domain or cookie domain if bypassing load balancer,use separate content domain cookie domain bypassing load balancer,15
+13143	Direct eval link doesn't work in Firefox when not logged in,13143,Direct eval link doesn't work in Firefox when not logged in,direct eval link work firefox logged,10
+57714	Implement hazelcast caching,57714,Implement hazelcast caching,implement hazelcast caching,10
+19287	ServiceLink QA server does not create an Approval incident if Fall 2014 term is selected when creating a Course site in CTQA,19287,ServiceLink QA server does not create an Approval incident if Fall 2014 term is selected when creating a Course site in CTQA,servicelink qa server create approval incident fall term selected creating course site ctqa,7
+36005	From address not used when sending validate new user email,36005,From address not used when sending validate new user email,address used sending validate new user email,18
+19413	Add Help Documentation for GB2,19413,Add Help Documentation for GB2,add help documentation gb,15
+35985	Discussion Forum Does Not Show 'Grade' Link Despite 'Post to Gradebook' Permission,35985,Discussion Forum Does Not Show 'Grade' Link Despite 'Post to Gradebook' Permission,discussion forum show grade link despite post gradebook permission,2
+12671	Add Profile[2] image to interface for choosing who to evaluate,12671,Add Profile[2] image to interface for choosing who to evaluate,add profile image interface choosing evaluate,18
+18920	Replace the DBCP connection pool for CTools,18920,Replace the DBCP connection pool for CTools,replace dbcp connection pool ctools,0
+19640	No longer able to modify Friend Account details using My Profile tool in MWS,19640,No longer able to modify Friend Account details using My Profile tool in MWS,longer able modify friend account detail using profile tool mws,18
+19138	Gradebook 2 Lacks internal Help documentation,19138,Gradebook 2 Lacks internal Help documentation,gradebook lack internal help documentation,15
+53383	Email headers are not consistent for all tools,53383,Email headers are not consistent for all tools,email header consistent tool,10
+19628	MPrint alert text could include more instructions,19628,MPrint alert text could include more instructions,mprint alert text could include instruction,0
+49118	Changes in group membership aren't causing authz invalidation,49118,Changes in group membership aren't causing authz invalidation,change group membership causing authz invalidation,7
+36020	Cache APIs do not support atomic actions from JSR-107,36020,Cache APIs do not support atomic actions from JSR-107,cache apis support atomic action jsr,10
+36001	Resources/Navigator performance degrades over time.,36001,Resources/Navigator performance degrades over time.,resource navigator performance degrades time,5
+35995	Allow providers to only work on some requests,35995,Allow providers to only work on some requests,allow provider work request,10
+31530	Add localized role label support in samigo,31530,Add localized role label support in samigo,add localized role label support samigo,14
+27121	Order sections with id in SiteInfo,27121,Order sections with id in SiteInfo,order section id siteinfo,0
+40450	make tool title clickable to reset tool,40450,make tool title clickable to reset tool,make tool title clickable reset tool,10
+49087	Pass the user's role to the help tool,49087,Pass the user's role to the help tool,pas user role help tool,15
+"36008	""Date range not saved when """"List of events"""" is made the default view of calendar""",36008,"""Date range not saved when """"List of events"""" is made the default view of calendar""",date range saved list event made default view calendar,12
+18808	Test Center: Give instructors option to have responses emailed to students upon submission,18808,Test Center: Give instructors option to have responses emailed to students upon submission,test center give instructor option response emailed student upon submission,17
+19644	Students are unable to upload files to the ckEditor within Test Center,19644,Students are unable to upload files to the ckEditor within Test Center,student unable upload file ckeditor within test center,5
+57664	Add localized site type support in kernel,57664,Add localized site type support in kernel,add localized site type support kernel,14
+49057	Localize site type,49057,Localize site type,localize site type,14
+62003	Configuration setting present in i18n default language file,62003,Configuration setting present in i18n default language file,configuration setting present default language file,15
+27112	MathJax configuration should be externally configurable,27112,MathJax configuration should be externally configurable,mathjax configuration externally configurable,0
+19127	Clean up invalid JS references,19127,Clean up invalid JS references,clean invalid j reference,0
+19641	MPrinting files with unknown extensions results in uninformative error,19641,MPrinting files with unknown extensions results in uninformative error,mprinting file unknown extension result uninformative error,5
+19637	DB Conversion to change launch URL in old basic LTI placements of CAEN Lecture Recording,19637,DB Conversion to change launch URL in old basic LTI placements of CAEN Lecture Recording,db conversion change launch url old basic lti placement caen lecture recording,19
+31521	Update <scm> paths in sakai-10.x branch,31521,Update <scm> paths in sakai-10.x branch,update scm path sakai x branch,9
+19181	Update Modules/Melete to integrate with alternate (google) calendar,19181,Update Modules/Melete to integrate with alternate (google) calendar,update module melete integrate alternate google calendar,9
+31512	Update Syllabus tool to integrate with Alternate (e.g. google) calendar,31512,Update Syllabus tool to integrate with Alternate (e.g. google) calendar,update syllabus tool integrate alternate e g google calendar,9
+31509	Reports Tool Support for Multiple MultiSQL / MultiSet,31509,Reports Tool Support for Multiple MultiSQL / MultiSet,report tool support multiple multisql multiset,20
+19177	Remove Site Browser links form students workspace,19177,Remove Site Browser links form students workspace,remove site browser link form student workspace,14
+49043	I18N support for grade type,49043,I18N support for grade type,support grade type,10
+44701	servlet-api should be updated to 3.1 from 2.4,44701,servlet-api should be updated to 3.1 from 2.4,servlet api updated,10
+22562	Prevent multiple site imports and log to database what was imported,22562,Prevent multiple site imports and log to database what was imported,prevent multiple site import log database imported,14
+19319	MPrint QA issues,19319,MPrint QA issues,mprint qa issue,10
+18793	Give option to instructors to pre-populate a student's answers from a previous submission,18793,Give option to instructors to pre-populate a student's answers from a previous submission,give option instructor pre populate student answer previous submission,17
+12231	Reversed display of scale options when taking an evaluation,12231,Reversed display of scale options when taking an evaluation,reversed display scale option taking evaluation,3
+53317	Add notes support of meeting,53317,Add notes support of meeting,add note support meeting,14
+49022	Investigate overlap between code in SkinnableCharonPortal and SiteEntityProvider,49022,Investigate overlap between code in SkinnableCharonPortal and SiteEntityProvider,investigate overlap code skinnablecharonportal siteentityprovider,10
+22566	Complete home tool content not copied when re-using site content,22566,Complete home tool content not copied when re-using site content,complete home tool content copied using site content,15
+44680	Double messages when adding existing user to site,44680,Double messages when adding existing user to site,double message adding existing user site,18
+27040	Resubmission during grading,27040,Resubmission during grading,resubmission grading,10
+15942	Stack trace generated to user when Kaltura service is unavailable,15942,Stack trace generated to user when Kaltura service is unavailable,stack trace generated user kaltura service unavailable,18
+44673	Send only one email when new user is added to site and account is created,44673,Send only one email when new user is added to site and account is created,send one email new user added site account created,18
+31408	Wiki not rendering links with markup language characters on it.,31408,Wiki not rendering links with markup language characters on it.,wiki rendering link markup language character,0
+16006	Replaced clip material is being added to the 'Site Library' when the 'Site Library' box is NOT checked,16006,Replaced clip material is being added to the 'Site Library' when the 'Site Library' box is NOT checked,replaced clip material added site library site library box checked,14
+35845	Inconsistant numbering display of student's assessment submission from Assessment Settings,35845,Inconsistant numbering display of student's assessment submission from Assessment Settings,inconsistant numbering display student assessment submission assessment setting,17
+19315	Double quotes in Test Center fill in submission answers cause the answer value to be truncated in grading,19315,Double quotes in Test Center fill in submission answers cause the answer value to be truncated in grading,double quote test center fill submission answer cause answer value truncated grading,17
+19610	Add version number method to UMICH  lti-util SettingServiceUtil,19610,Add version number method to UMICH  lti-util SettingServiceUtil,add version number method umich lti util settingserviceutil,14
+12840	Improve Handling of Deleted Sites Membership,12840,Improve Handling of Deleted Sites Membership,improve handling deleted site membership,14
+40302	BasicLTI tool instance is added with current site id if the BasicLTI admin tool is enabled within user's MyWorkspace ,40302,BasicLTI tool instance is added with current site id if the BasicLTI admin tool is enabled within user's MyWorkspace ,basiclti tool instance added current site id basiclti admin tool enabled within user myworkspace,10
+19088	Many melete database errors in production,19088,Many melete database errors in production,many melete database error production,3
+19560	Export Question Pool contents to plain text,19560,Export Question Pool contents to plain text,export question pool content plain text,11
+19308	Gradtools display problem with multiple rows in DISSERTATION_CANDIDATEINFO,19308,Gradtools display problem with multiple rows in DISSERTATION_CANDIDATEINFO,gradtools display problem multiple row dissertation_candidateinfo,10
+15894	Replacing video with clip in collections makes it disappear until refresh,15894,Replacing video with clip in collections makes it disappear until refresh,replacing video clip collection make disappear refresh,0
+15811	Media duplicated under SiteLibrary and MyMedia if file is uploaded to collection,15811,Media duplicated under SiteLibrary and MyMedia if file is uploaded to collection,medium duplicated sitelibrary mymedia file uploaded collection,5
+"57568	""Exporting of results for question type Matrix of Choices sorting and """"dropping"""" choices""",57568,"""Exporting of results for question type Matrix of Choices sorting and """"dropping"""" choices""",exporting result question type matrix choice sorting dropping choice,11
+40333	OpenURL : JournalConverter uses date field instead of year,40333,OpenURL : JournalConverter uses date field instead of year,openurl journalconverter us date field instead year,12
+61880	OpenURL : JournalConverter never gets used,61880,OpenURL : JournalConverter never gets used,openurl journalconverter never get used,0
+15932	Win7-Safari: Unable to enter text in tags or description when uploading an item,15932,Win7-Safari: Unable to enter text in tags or description when uploading an item,win safari unable enter text tag description uploading item,8
+44652	preview images for template selection in worksite setup,44652,preview images for template selection in worksite setup,preview image template selection worksite setup,16
+11572	Restriction query building causes Oracle - ORA-01795: maximum number of expressions in a list is 1000,11572,Restriction query building causes Oracle - ORA-01795: maximum number of expressions in a list is 1000,restriction query building cause oracle os maximum number expression list,0
+15808	iPad rendering with mulitple players in mulitple columns doesn't respect the boundries,15808,iPad rendering with mulitple players in mulitple columns doesn't respect the boundries,ipad rendering mulitple player mulitple column respect boundries,0
+12669	Consolidated emails include closed evals,12669,Consolidated emails include closed evals,consolidated email include closed evals,8
+12575	Consolidated email processing fails to record eval completion,12575,Consolidated email processing fails to record eval completion,consolidated email processing fails record eval completion,0
+35814	roster.viewallmembers permission overrides roster.viewgroup permission,35814,roster.viewallmembers permission overrides roster.viewgroup permission,roster viewallmembers permission override roster viewgroup permission,10
+26969	User specific skins,26969,User specific skins,user specific skin,18
+19395	Sites are randomly assigned to 'favorites' or 'more sites' when created or user added.,19395,Sites are randomly assigned to 'favorites' or 'more sites' when created or user added.,site randomly assigned favorite site created user added,14
+19183	Allow users to see which question pools their question is part of.,19183,Allow users to see which question pools their question is part of.,allow user see question pool question part,11
+18814	vm errors with gradtools,18814,vm errors with gradtools,vm error gradtools,3
+48933	Preferences Link in 'More Sites' Unexpectedly collapses the left navigation bar,48933,Preferences Link in 'More Sites' Unexpectedly collapses the left navigation bar,preference link site unexpectedly collapse left navigation bar,14
+15883	Tool unable to recover if tomcat started up while kaltura server unavailable,15883,Tool unable to recover if tomcat started up while kaltura server unavailable,tool unable recover tomcat started kaltura server unavailable,10
+35842	Samigo / Markup text - extra paragraph break causes question creation error,35842,Samigo / Markup text - extra paragraph break causes question creation error,samigo markup text extra paragraph break cause question creation error,11
+"44633	""unified """"add"""" menu for lessonbuilder""",44633,"""unified """"add"""" menu for lessonbuilder""",unified add menu lessonbuilder,14
+57544	look at names and visibility of groups used for access control,57544,look at names and visibility of groups used for access control,look name visibility group used access control,7
+19583	TestCenter fill-in-the-blank question should have option to check for text formatting,19583,TestCenter fill-in-the-blank question should have option to check for text formatting,testcenter fill blank question option check text formatting,11
+48960	PDA Portal login and xlogin buttons too close for fat fingers + small screen,48960,PDA Portal login and xlogin buttons too close for fat fingers + small screen,pda portal login xlogin button close fat finger small screen,10
+15878	Browser crash when attempting to add video using webcam,15878,Browser crash when attempting to add video using webcam,browser crash attempting add video using webcam,14
+15862	Audio files display converting message until they've been added to a collection,15862,Audio files display converting message until they've been added to a collection,audio file display converting message added collection,5
+15947	Confirmation when deleting an item ,15947,Confirmation when deleting an item ,confirmation deleting item,10
+15930	Unable to add items to community/personal collections or add to Site Library from My Media in IE9 or IE10,15930,Unable to add items to community/personal collections or add to Site Library from My Media in IE9 or IE10,unable add item community personal collection add site library medium ie ie,14
+"15869	""Files uploaded under """"My Media"""" tab cannot be removed""",15869,"""Files uploaded under """"My Media"""" tab cannot be removed""",file uploaded medium tab cannot removed,5
+15858	Change language on upload screens,15858,Change language on upload screens,change language upload screen,0
+15997	Message displayed when adding photo or audio files doesn't make sense,15997,Message displayed when adding photo or audio files doesn't make sense,message displayed adding photo audio file make sense,5
+"15943	""Collection with """"Owner"""" Setting is not visible to students""",15943,"""Collection with """"Owner"""" Setting is not visible to students""",collection owner setting visible student,0
+15866	Allow users to embed media from My Media into the CK editor,15866,Allow users to embed media from My Media into the CK editor,allow user embed medium medium ck editor,18
+19176	Check that org.sakaiproject.blti.ServiceServlet is checking nonce to prevent replay attacks,19176,Check that org.sakaiproject.blti.ServiceServlet is checking nonce to prevent replay attacks,check org sakaiproject blti serviceservlet checking nonce prevent replay attack,0
+31372	 the length limit of suspend_data for resume by HTTP GET,31372, the length limit of suspend_data for resume by HTTP GET,length limit suspend_data resume http get,0
+15790	Decouple ability to write to site library from ability to write to My Media,15790,Decouple ability to write to site library from ability to write to My Media,decouple ability write site library ability write medium,14
+35825	New option to set newly-created site as second tab for site-creator,35825,New option to set newly-created site as second tab for site-creator,new option set newly created site second tab site creator,14
+57534	Add ability to launch LTI links from the web content tool,57534,Add ability to launch LTI links from the web content tool,add ability launch lti link web content tool,15
+53194	Allow instructor ability to change null grades to zeros while grading in the Comments tool,53194,Allow instructor ability to change null grades to zeros while grading in the Comments tool,allow instructor ability change null grade zero grading comment tool,10
+22501	limit the number of calendar events copied during site duplication,22501,limit the number of calendar events copied during site duplication,limit number calendar event copied site duplication,13
+15851	Replace adds clip to Site Library when 'Add to Site Library' not checked,15851,Replace adds clip to Site Library when 'Add to Site Library' not checked,replace add clip site library add site library checked,14
+61816	Design and Implement Proper Help for the web-ifp portlet for LTI ,61816,Design and Implement Proper Help for the web-ifp portlet for LTI ,design implement proper help web ifp portlet lti,15
+15786	User with Read/My Media only access is returned to Site Library instead of My Media,15786,User with Read/My Media only access is returned to Site Library instead of My Media,user read medium access returned site library instead medium,14
+15961	Site Library link available for user without permission,15961,Site Library link available for user without permission,site library link available user without permission,14
+12092	EvalToolTitle keyword not supported for Email Templates,12092,EvalToolTitle keyword not supported for Email Templates,evaltooltitle keyword supported email template,16
+11923	Eval Groups not synchronized with Course/Section membership,11923,Eval Groups not synchronized with Course/Section membership,eval group synchronized course section membership,7
+12570	No way to use or manage email templates,12570,No way to use or manage email templates,way use manage email template,16
+15917	Mis-label for My Media message,15917,Mis-label for My Media message,mi label medium message,3
+19534	Retire Profile classic module in favor of Profile2,19534,Retire Profile classic module in favor of Profile2,retire profile classic module favor profile,18
+18991	Gradebook: clicking on 'Return to Instructor's View' generates Bug Report after returning from 'Become User',18991,Gradebook: clicking on 'Return to Instructor's View' generates Bug Report after returning from 'Become User',gradebook clicking return instructor view generates bug report returning become user,20
+53161	Deleted user still listed in Site Info's participant list,53161,Deleted user still listed in Site Info's participant list,deleted user still listed site info participant list,14
+15921	IE9 Issue: Instructor cannot 'Add' item from Site Library or Media Gallery to a collection.,15921,IE9 Issue: Instructor cannot 'Add' item from Site Library or Media Gallery to a collection.,ie issue instructor cannot add item site library medium gallery collection,14
+35741	Add ability to export comments from Gradebook,35741,Add ability to export comments from Gradebook,add ability export comment gradebook,2
+"57499	""All help content hardcodes """"default"""" skin""",57499,"""All help content hardcodes """"default"""" skin""",help content hardcodes default skin,15
+15872	Playback context of the current  site shouldn't be sent while playing an item from my media,15872,Playback context of the current  site shouldn't be sent while playing an item from my media,playback context current site sent playing item medium,14
+15789	Playback context is  not being send while playing an item created by html\text tool,15789,Playback context is  not being send while playing an item created by html\text tool,playback context send playing item created html text tool,19
+61732	New portal timeout popup for when time has lapsed,61732,New portal timeout popup for when time has lapsed,new portal timeout popup time lapsed,10
+31295	Suggest Arrows up or down to indicate events outside of working hours,31295,Suggest Arrows up or down to indicate events outside of working hours,suggest arrow indicate event outside working hour,13
+18787	Custom 403 and 404 pages not used in CTools,18787,Custom 403 and 404 pages not used in CTools,custom page used ctools,16
+53136	Show more description links on sites breaks if site short description contains special chars,53136,Show more description links on sites breaks if site short description contains special chars,show description link site break site short description contains special char,14
+19518	Test Center: Scoring Problem,19518,Test Center: Scoring Problem,test center scoring problem,13
+53174	Edit content in larger window,53174,Edit content in larger window,edit content larger window,15
+44543	Content: Add option to display folder as web page.,44543,Content: Add option to display folder as web page.,content add option display folder web page,15
+35698	Page Order -> Hide/Disable not working as expected for some tools,35698,Page Order -> Hide/Disable not working as expected for some tools,page order hide disable working expected tool,10
+57397	Label sticks if forwarded message is cancelled,57397,Label sticks if forwarded message is cancelled,label stick forwarded message cancelled,3
+35670	tempoarily auto-expand all short URLs and then do search and replace when doing reusing content from another site,35670,tempoarily auto-expand all short URLs and then do search and replace when doing reusing content from another site,tempoarily auto expand short url search replace reusing content another site,14
+48861	Associate 2 or more assessments with the same gradebook item,48861,Associate 2 or more assessments with the same gradebook item,associate assessment gradebook item,2
+53134	assignments lose categories in duplicated courses,53134,assignments lose categories in duplicated courses,assignment lose category duplicated course,7
+48808	Sort not working properly for announcements,48808,Sort not working properly for announcements,sort working properly announcement,8
+40139	Submitting a timed assessment using 2 browsers can result in an empty submission,40139,Submitting a timed assessment using 2 browsers can result in an empty submission,submitting timed assessment using browser result empty submission,17
+26836	[Skin] Functionality to add a skin for a user.,26836,[Skin] Functionality to add a skin for a user.,skin functionality add skin user,18
+13007	EvalEvaluationService.getEvalGroupsForEval method fails when array of eval id's is too big,13007,EvalEvaluationService.getEvalGroupsForEval method fails when array of eval id's is too big,evalevaluationservice getevalgroupsforeval method fails array eval id big,10
+26801	Can't edit title from WorksiteInfo for sites created using the Site tool,26801,Can't edit title from WorksiteInfo for sites created using the Site tool,edit title worksiteinfo site created using site tool,14
+13002	Add interface to allow instructors to add their own items,13002,Add interface to allow instructors to add their own items,add interface allow instructor add item,14
+12875	Instructors view date can be before primary view date,12875,Instructors view date can be before primary view date,instructor view date primary view date,12
+12230	Cannot reopen evaluation until it is viewable,12230,Cannot reopen evaluation until it is viewable,cannot reopen evaluation viewable,3
+53066	Begin Assesment and username and pwd fields causing some issues,53066,Begin Assesment and username and pwd fields causing some issues,begin assesment username pwd field causing issue,10
+48757	Forums - 'Mark All Messages in Conversations Read' option does not mark threads read for Instructor,48757,Forums - 'Mark All Messages in Conversations Read' option does not mark threads read for Instructor,forum mark message conversation read option mark thread read instructor,2
+40059	Theme (appearance) picker broken if theme has no iconUrl,40059,Theme (appearance) picker broken if theme has no iconUrl,theme appearance picker broken theme iconurl,10
+12661	Copy/Paste From Word into,12661,Copy/Paste From Word into,copy paste word,10
+12082	Rework consolidated notifications to accumulate data in database rather than memory,12082,Rework consolidated notifications to accumulate data in database rather than memory,rework consolidated notification accumulate data database rather memory,0
+26769	Error Alerts missing for incorrectly formatted staff information URL's,26769,Error Alerts missing for incorrectly formatted staff information URL's,error alert missing incorrectly formatted staff information url,19
+31199	Public resources are changed to site access when a site is duplicated,31199,Public resources are changed to site access when a site is duplicated,public resource changed site access site duplicated,14
+35558	unable to change schema in portfolio,35558,unable to change schema in portfolio,unable change schema portfolio,0
+12998	When an eval is deployed to multiple courses instructors see all the courses in 'Evaluations in which I may be evaluated' even if they are not instructors in those other courses,12998,When an eval is deployed to multiple courses instructors see all the courses in 'Evaluations in which I may be evaluated' even if they are not instructors in those other courses,eval deployed multiple course instructor see course evaluation may evaluated even instructor course,7
+52984	Port the message clustering to use an abstraction rather than its own jgroups setup ,52984,Port the message clustering to use an abstraction rather than its own jgroups setup ,port message clustering use abstraction rather jgroups setup,3
+11879	Export scaled options as numbers rather than text,11879,Export scaled options as numbers rather than text,export scaled option number rather text,0
+12043	Editing an Evaluation without saving causes end time to be set to 12:00am,12043,Editing an Evaluation without saving causes end time to be set to 12:00am,editing evaluation without saving cause end time set,3
+12202	i18n translation - property extraction - patch,12202,i18n translation - property extraction - patch,translation property extraction patch,9
+12040	i18n date formatting patch,12040,i18n date formatting patch,date formatting patch,12
+61566	Make the necessary changes to support annotation based injection between components,61566,Make the necessary changes to support annotation based injection between components,make necessary change support annotation based injection component,0
+31137	Ability to add text to a new Resource Email Notification,31137,Ability to add text to a new Resource Email Notification,ability add text new resource email notification,5
+13116	EvalBeanUtils -> validateEvalDates returns useful messages in the exception which are not see in the UI,13116,EvalBeanUtils -> validateEvalDates returns useful messages in the exception which are not see in the UI,evalbeanutils validateevaldates return useful message exception see ui,19
+12972	Consolidated e-mail notification does not send available or reminder e-mail unless template key manually added to database table,12972,Consolidated e-mail notification does not send available or reminder e-mail unless template key manually added to database table,consolidated e mail notification send available reminder e mail unless template key manually added database table,16
+12191	Instructor notification of created emails not working,12191,Instructor notification of created emails not working,instructor notification created email working,19
+22184	Drop Box/Resources - Page redraws from top,22184,Drop Box/Resources - Page redraws from top,drop box resource page redraws top,5
+31102	Add support for archive/merge of assignment supplemental items,31102,Add support for archive/merge of assignment supplemental items,add support archive merge assignment supplemental item,6
+12963	Review breadcrumb UI from template preview page,12963,Review breadcrumb UI from template preview page,review breadcrumb ui template preview page,16
+12701	Dates in evaluations don't alway follow the locale set in a user's MyWorkspace,12701,Dates in evaluations don't alway follow the locale set in a user's MyWorkspace,date evaluation alway follow locale set user myworkspace,12
+13078	Question answered as NA cannot be changed to another value,13078,Question answered as NA cannot be changed to another value,question answered na cannot changed another value,11
+12409	Edit a Template block accepts and empty title,12409,Edit a Template block accepts and empty title,edit template block accepts empty title,16
+12206	Add/Edit Template item accepts a title with only whitespace,12206,Add/Edit Template item accepts a title with only whitespace,add edit template item accepts title whitespace,16
+"12988	""Show group title in a column with responses when viewing """"rolled up"""" report""",12988,"""Show group title in a column with responses when viewing """"rolled up"""" report""",show group title column response viewing rolled report,20
+12699	Shorten success message to allow users to get a sense of what it says in a glance (less than a second),12699,Shorten success message to allow users to get a sense of what it says in a glance (less than a second),shorten success message allow user get sense say glance le second,18
+12488	Validation error message should be specific to the situation,12488,Validation error message should be specific to the situation,validation error message specific situation,3
+12980	Changes to ad-hoc groups are not applied correctly,12980,Changes to ad-hoc groups are not applied correctly,change ad hoc group applied correctly,7
+11744	Slight discrepancy in Oracle DDL for 1.3 -> 1.4 SQL script,11744,Slight discrepancy in Oracle DDL for 1.3 -> 1.4 SQL script,slight discrepancy oracle ddl sql script,0
+14027	Remove dropdown menus from grid column headers and fix toggle on sort asc/desc on column headers,14027,Remove dropdown menus from grid column headers and fix toggle on sort asc/desc on column headers,remove dropdown menu grid column header fix toggle sort asc desc column header,10
+12682	Evaluations table in summary contains hardcoded strings,12682,Evaluations table in summary contains hardcoded strings,evaluation table summary contains hardcoded string,3
+44232	Allow to change the skin in the gateway with a parameter in the URL,44232,Allow to change the skin in the gateway with a parameter in the URL,allow change skin gateway parameter url,0
+35402	Change the Upload maximum size by role,35402,Change the Upload maximum size by role,change upload maximum size role,0
+11741	Internacionaization bug in Expert items categories table,11741,Internacionaization bug in Expert items categories table,internacionaization bug expert item category table,10
+22069	Enhance BaseEmailService implementation to decouple email operations from the current request,22069,Enhance BaseEmailService implementation to decouple email operations from the current request,enhance baseemailservice implementation decouple email operation current request,0
+"12042	""Incorrect Properties Definition in Evalsys ("""":"""" instead of """"="""")""",12042,"""Incorrect Properties Definition in Evalsys ("""":"""" instead of """"="""")""",incorrect property definition evalsys instead,10
+12668	Standardize wording in messge.properties.,12668,Standardize wording in messge.properties.,standardize wording messge property,10
+11877	NPE when assigning ad-hoc group with Enable advanced Instructor / Teaching Assistant selection option,11877,NPE when assigning ad-hoc group with Enable advanced Instructor / Teaching Assistant selection option,npe assigning ad hoc group enable advanced instructor teaching assistant selection option,7
+11867	summary report for faculty/lecturers/tutors,11867,summary report for faculty/lecturers/tutors,summary report faculty lecturer tutor,20
+11732	Survey category should be displayed in a table column (not underneath the survey title),11732,Survey category should be displayed in a table column (not underneath the survey title),survey category displayed table column underneath survey title,0
+12799	NumberFormatException (s) in Administrate,12799,NumberFormatException (s) in Administrate,numberformatexception administrate,10
+16926	Update version of generic-dao in timeline,16926,Update version of generic-dao in timeline,update version generic dao timeline,9
+12506	Incorrect page displayed if a heading is NOT supplied for a group of questions,12506,Incorrect page displayed if a heading is NOT supplied for a group of questions,incorrect page displayed heading supplied group question,11
+11859	problem with regrouping questions after a change in scale  ,11859,problem with regrouping questions after a change in scale  ,problem regrouping question change scale,11
+"12656	""If an Admin user clicks 'browse server' whilst doing """"insert image"""" in FCK (in Evals) the the file browser opens up in some wierd location """,12656,"""If an Admin user clicks 'browse server' whilst doing """"insert image"""" in FCK (in Evals) the the file browser opens up in some wierd location """,admin user click browse server whilst insert image fck evals file browser open wierd location,18
+12502	Count of users is incorrect  ,12502,Count of users is incorrect  ,count user incorrect,18
+12372	incorrect version information shown on page  ,12372,incorrect version information shown on page  ,incorrect version information shown page,0
+11728	caching issues (this time with template question list) ,11728,caching issues (this time with template question list) ,caching issue time template question list,11
+"12967	""failure to add """"item text"""" when authoring a template results in an incorrect error message  """,12967,"""failure to add """"item text"""" when authoring a template results in an incorrect error message  """,failure add item text authoring template result incorrect error message,3
+12786	survey is cached ,12786,survey is cached ,survey cached,0
+21869	Add experimental capabilities to trunk .externals,21869,Add experimental capabilities to trunk .externals,add experimental capability trunk external,14
+61231	Add functionality for importing users from an Excel spreadsheet or CSV file,61231,Add functionality for importing users from an Excel spreadsheet or CSV file,add functionality importing user excel spreadsheet csv file,18
+12965	make it easier to assign surveys to Goups/Sections,12965,make it easier to assign surveys to Goups/Sections,make easier assign survey goups section,0
+12775	Reorganization of EvalSys Administration page,12775,Reorganization of EvalSys Administration page,reorganization evalsys administration page,16
+35162	2.8 Test Fest - 1/20/11,35162,2.8 Test Fest - 1/20/11,test fest,13
+12015	Need to update DDL scripts ,12015,Need to update DDL scripts ,need update ddl script,9
+11830	Preview evaluation does not support selection of TA/Lecturers ,11830,Preview evaluation does not support selection of TA/Lecturers ,preview evaluation support selection ta lecturer,3
+56788	Add parent role tied to a student,56788,Add parent role tied to a student,add parent role tied student,14
+12708	Offer to create accounts for non-account holders when required to login to complete a survey,12708,Offer to create accounts for non-account holders when required to login to complete a survey,offer create account non account holder required login complete survey,0
+12961	Surveys not always anonymous,12961,Surveys not always anonymous,survey always anonymous,0
+"13081	""""""Allow survey results to be removed"""" option does not do anything""",13081,"""""""Allow survey results to be removed"""" option does not do anything""",allow survey result removed option anything,0
+"13077	""""""Last Update"""" column in My Templates page does not change after template update""",13077,"""""""Last Update"""" column in My Templates page does not change after template update""",last update column template page change template update,9
+12205	UI change in CE dashboard,12205,UI change in CE dashboard,ui change ce dashboard,0
+12201	Provide ability to reuse a template attached to a live/closed evaluation,12201,Provide ability to reuse a template attached to a live/closed evaluation,provide ability reuse template attached live closed evaluation,3
+12356	SummaryProducer instructor widget check of EVAL_ASSIGN_USER,12356,SummaryProducer instructor widget check of EVAL_ASSIGN_USER,summaryproducer instructor widget check eval_assign_user,10
+12198	Generic URL in Announcement/Reminder email,12198,Generic URL in Announcement/Reminder email,generic url announcement reminder email,8
+13073	Evaluation logs an INFO message for each new entity created,13073,Evaluation logs an INFO message for each new entity created,evaluation log info message new entity created,3
+11746	Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take',11746,Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take',evaluation grace_period due appear evaluation available take,3
+12193	Incorrect error message,12193,Incorrect error message,incorrect error message,3
+12705	Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take',12705,Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take',evaluation grace_period due appear evaluation available take,3
+11743	Enforce 4000 character limit on text comment length,11743,Enforce 4000 character limit on text comment length,enforce character limit text comment length,0
+11740	SQL constraint error on deleting the copy of a locked item,11740,SQL constraint error on deleting the copy of a locked item,sql constraint error deleting copy locked item,3
+12344	Startup problem when auto.ddl=false and at least one configuration setting is configurable,12344,Startup problem when auto.ddl=false and at least one configuration setting is configurable,startup problem auto ddl false least one configuration setting configurable,0
+12825	Provided EvalGroup logs exception,12825,Provided EvalGroup logs exception,provided evalgroup log exception,19
+12702	Server restart leaves orphaned eval_update_timer,12702,Server restart leaves orphaned eval_update_timer,server restart leaf orphaned eval_update_timer,10
+12953	Allow survey results to be shared,12953,Allow survey results to be shared,allow survey result shared,0
+12186	Grouping items based on both scale and category type,12186,Grouping items based on both scale and category type,grouping item based scale category type,10
+"12494	""""""Select Lecturers"""" Feature not available in hierarchy area""",12494,"""""""Select Lecturers"""" Feature not available in hierarchy area""",select lecturer feature available hierarchy area,0
+12946	cleanupUserStrings() applied inappropriately to plain text fields,12946,cleanupUserStrings() applied inappropriately to plain text fields,cleanupuserstrings applied inappropriately plain text field,0
+11724	Cannot reuse existing email templates (was Email templates do not work correctly),11724,Cannot reuse existing email templates (was Email templates do not work correctly),cannot reuse existing email template email template work correctly,16
+12939	Invalid user shown in selection options,12939,Invalid user shown in selection options,invalid user shown selection option,18
+"12695	""Eval reopens without clicking on """"Reopen and Save Settings"""" button""",12695,"""Eval reopens without clicking on """"Reopen and Save Settings"""" button""",eval reopens without clicking reopen save setting button,10
+"12045	""""""Modification of answers allowed"""" eval option should be editable while the eval is open""",12045,"""""""Modification of answers allowed"""" eval option should be editable while the eval is open""",modification answer allowed eval option editable eval open,10
+12331	odd characters appears in XLS & CSV export,12331,odd characters appears in XLS & CSV export,odd character appears xl csv export,0
+12677	messages_en_GB.properties should not be in shared svn,12677,messages_en_GB.properties should not be in shared svn,messages_en_gb property shared svn,10
+"11676	""Remove """"reset config cache"""" button""",11676,"""Remove """"reset config cache"""" button""",remove reset config cache button,10
+12921	Make institution-specific features generic features,12921,Make institution-specific features generic features,make institution specific feature generic feature,0
+12672	new evaluation message has wrong value in TO field.,12672,new evaluation message has wrong value in TO field.,new evaluation message wrong value field,3
+11671	Instructor gets stacktrace when viewing results of eval released to mult. sites,11671,Instructor gets stacktrace when viewing results of eval released to mult. sites,instructor get stacktrace viewing result eval released mult site,14
+30567	Section and Group memberships lost when using 'Create Site from template' and both 'Copy Users' and Copy Content' are selected,30567,Section and Group memberships lost when using 'Create Site from template' and both 'Copy Users' and Copy Content' are selected,section group membership lost using create site template copy user copy content selected,7
+12783	more than one root node created during initial deployment in clustered environment,12783,more than one root node created during initial deployment in clustered environment,one root node created initial deployment clustered environment,19
+11661	set return path of email to be same as from address,11661,set return path of email to be same as from address,set return path email address,10
+12229	Sort order for own vs. public templates + authorization issue,12229,Sort order for own vs. public templates + authorization issue,sort order v public template authorization issue,16
+12020	Evaluation notifications field limitation,12020,Evaluation notifications field limitation,evaluation notification field limitation,3
+13104	add a 'continue later' button,13104,add a 'continue later' button,add continue later button,14
+12016	Refactor isEvalGroupPublished and getFilteredEvalGroupsForUser methods,12016,Refactor isEvalGroupPublished and getFilteredEvalGroupsForUser methods,refactor isevalgrouppublished getfilteredevalgroupsforuser method,10
+12524	Access a survey which you aren't allowed access to doesn't generate a good status code.,12524,Access a survey which you aren't allowed access to doesn't generate a good status code.,access survey allowed access generate good status code,0
+12316	When survey is half created accessing it through /direct gives incorrect error.,12316,When survey is half created accessing it through /direct gives incorrect error.,survey half created accessing direct give incorrect error,19
+"11656	""list """"ideal scale point"""" on CSV and XSL export""",11656,"""list """"ideal scale point"""" on CSV and XSL export""",list ideal scale point csv xsl export,0
+12012	Public template still say they are private to non admin users,12012,Public template still say they are private to non admin users,public template still say private non admin user,18
+12516	Exception handling for some cases exposes hibernate logic,12516,Exception handling for some cases exposes hibernate logic,exception handling case expose hibernate logic,19
+11997	Email message to survey creator gives results date = end date instead of extension date,11997,Email message to survey creator gives results date = end date instead of extension date,email message survey creator give result date end date instead extension date,12
+12192	Evaluation as a 'condition provider' for Conditional release,12192,Evaluation as a 'condition provider' for Conditional release,evaluation condition provider conditional release,3
+12504	editing a suggested (expert) question,12504,editing a suggested (expert) question,editing suggested expert question,11
+"60901	""New way of sharing resources - """"available to all authenticated users""""""",60901,"""New way of sharing resources - """"available to all authenticated users""""""",new way sharing resource available authenticated user,18
+12302	Ability to mass delete questions,12302,Ability to mass delete questions,ability mass delete question,11
+13129	Assign Evalutation should allow for adding all users in a provider (roster),13129,Assign Evalutation should allow for adding all users in a provider (roster),assign evalutation allow adding user provider roster,18
+11993	save a default UMD ResultsSharing in Eval Items,11993,save a default UMD ResultsSharing in Eval Items,save default umd resultssharing eval item,15
+12640	Show summary of responses per group,12640,Show summary of responses per group,show summary response per group,7
+43751	/access/wiki pages don't convert jsMath,43751,/access/wiki pages don't convert jsMath,access wiki page convert jsmath,16
+11834	Impossible to translate remove- Add Scale Point  button of modify_item.html,11834,Impossible to translate remove- Add Scale Point  button of modify_item.html,impossible translate remove add scale point button modify_item html,14
+11683	Ability to copy (duplicate) template questions in Course Evaluations,11683,Ability to copy (duplicate) template questions in Course Evaluations,ability copy duplicate template question course evaluation,11
+12170	Addition of matrix-type question,12170,Addition of matrix-type question,addition matrix type question,11
+12791	error with maintainer trying to modify attributes of a suggested question,12791,error with maintainer trying to modify attributes of a suggested question,error maintainer trying modify attribute suggested question,11
+12167	eval-evaluation provider must provide user friendly error messages,12167,eval-evaluation provider must provide user friendly error messages,eval evaluation provider must provide user friendly error message,3
+11679	Adding/removing students to sites to which evaluation has been released to,11679,Adding/removing students to sites to which evaluation has been released to,adding removing student site evaluation released,3
+12895	Ability to change the rating scale of grouped questions,12895,Ability to change the rating scale of grouped questions,ability change rating scale grouped question,11
+12788	Logged in users cannot submit more than once in an Anonymous Eval,12788,Logged in users cannot submit more than once in an Anonymous Eval,logged user cannot submit anonymous eval,18
+11829	Instructor widget display all courses being evaluated whether teaching or not,11829,Instructor widget display all courses being evaluated whether teaching or not,instructor widget display course evaluated whether teaching,7
+11666	Distinguishing the courses/groups being evaluated in the excel spreadsheet,11666,Distinguishing the courses/groups being evaluated in the excel spreadsheet,distinguishing course group evaluated excel spreadsheet,7
+34729	Add header template for licensing plugin,34729,Add header template for licensing plugin,add header template licensing plugin,16
+12021	Ability to categorize items in My Items,12021,Ability to categorize items in My Items,ability categorize item item,2
+13114	Display Group Title in Instructor widget in summary page,13114,Display Group Title in Instructor widget in summary page,display group title instructor widget summary page,7
+12140	Modify evaluations tables to use unique sequences rather than default hibernate_sequence,12140,Modify evaluations tables to use unique sequences rather than default hibernate_sequence,modify evaluation table use unique sequence rather default hibernate_sequence,15
+12481	Allow organizations to supply custom data for the preloader,12481,Allow organizations to supply custom data for the preloader,allow organization supply custom data preloader,0
+12317	Error when trying to view reports after upgrade from 1.2.0 to 1.2.1,12317,Error when trying to view reports after upgrade from 1.2.0 to 1.2.1,error trying view report upgrade,20
+12314	Deadlock from multiple record insertion (mysql index locking),12314,Deadlock from multiple record insertion (mysql index locking),deadlock multiple record insertion mysql index locking,0
+43519	Display user name in addition to user id in presence / online  admin tool,43519,Display user name in addition to user id in presence / online  admin tool,display user name addition user id presence online admin tool,18
+12004	Ensure consistency of block item definitions between item and block parent,12004,Ensure consistency of block item definitions between item and block parent,ensure consistency block item definition item block parent,10
+11852	Missing evaluation data prevents Sakai from starting up,11852,Missing evaluation data prevents Sakai from starting up,missing evaluation data prevents sakai starting,3
+12123	Auto included questions (in evaluations) should not be removable,12123,Auto included questions (in evaluations) should not be removable,auto included question evaluation removable,11
+11992	Filtering of templates/items based on autotags,11992,Filtering of templates/items based on autotags,filtering template item based autotags,16
+11848	Reports/summaries for the results of an evaluation,11848,Reports/summaries for the results of an evaluation,report summary result evaluation,20
+11634	Report interface,11634,Report interface,report interface,20
+13093	JSON export of evaluation results,13093,JSON export of evaluation results,json export evaluation result,3
+12949	Presentation of results where some statistical measures and correlations can be seen,12949,Presentation of results where some statistical measures and correlations can be seen,presentation result statistical measure correlation seen,10
+12305	Hide inappropriate answers,12305,Hide inappropriate answers,hide inappropriate answer,0
+11691	UI for controlling wether a question is long term or not.,11691,UI for controlling wether a question is long term or not.,ui controlling wether question long term,11
+13089	Long Term questions (no copy) for statistical purposes ,13089,Long Term questions (no copy) for statistical purposes ,long term question copy statistical purpose,11
+12947	UI for providing translations of questions and scales.,12947,UI for providing translations of questions and scales.,ui providing translation question scale,11
+12824	Set of improvements needed by Uppsala University,12824,Set of improvements needed by Uppsala University,set improvement needed uppsala university,10
+11689	Take site publication status into account for email notifications and eval delivery,11689,Take site publication status into account for email notifications and eval delivery,take site publication status account email notification eval delivery,18

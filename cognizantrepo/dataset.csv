@@ -1,0 +1,1001 @@
+Issue id	Summary
+67878	Samigo: Feedback should be interpreted when printing PDF report from a submission with global variables on feedback
+67877	SAMIGO: Error when print PDF Report  if the feedback contains global variables: Unknown character : '@' (or 64)
+67876	Microsoft Integration: Visual and logical improvements
+67875	LTI1.3-Assignments stacktrace when trying to add an assignment: java.lang.NullPointerException: null
+67861	Rubrics: Unable to delete a rubric
+67853	Frequent webcomponents build failures during npm install
+67806	Samigo TA should only see assessments that are assigned to the entire site or those assessments that belong to the groups they are a part of
+67772	Samigo TA should only see groups they are a member of when grading an assessment
+67733	Rubrics: Hover text does not change for rubric and rating without re-opening the page
+67714	Make grading service items hideable from the gradebook ui. This will enable tools to use the grading service for grade storage without showing it in the gradebook tool.
+67422	Assignments: Grader distorts group assignment scores with overrides
+67353	Lessons-LTI: Adding a Learning App or an External Tool to Lessons does not open in a new page
+67227	Assignments: Grades entered in Gradebook not displayed in Assignments
+67151	Attendance > Add > Create Repeating Pattern
+67084	Assignments: Grader PDF viewer includes annotation
+66982	Contributions from UPV to Sakai Master (Umbrella)
+66949	"Announcements: Merged announcements do not display on user Home tools, Bullhorns, or in course Dashboard (22x & 21x)"
+66943	Rubrics: Students can’t view rubric comments when rubric is in modal window
+66895	Rubrics-Grader-Assignment: There is a remove {} link when grading rubrics in assignments - {} braces should not show and there shouldn't even be a remove link when not graded
+66826	Roster Card Game: Count not updating for the number of correct guesses
+66681	Search: File names are not searchable
+66639	T&Q: Various UI display improvements
+66551	"LTI: When removing the score, any comment added does not get removed from the gradebook"
+66455	"Sakai Github: Enhance Sakai Readme with Detailed Installation Steps for Mac, Windows, and Linux Systems"
+66411	Portal/Site Info: Restore Lessons subpage navigation
+66320	SAMIGO: No bar is present for incorrect answers and The bar present for correct answer is purple in color rather than green
+66264	Portal: Linked Graphics on Accessibility Information Page are not Screen Reader Friendly
+66249	Track and Implement the LTI Course Groups Service
+66169	Removing  criterion from a rubric/rating from a criterion creates orphans in database
+66060	Gradebook> Extra credit items do not display in course grade
+65853	assignment submission issue
+65827	Update Apache FreeMarker 2.3.32
+65779	getPost: Unable to find post with id
+65658	Rubrics: Unable to remove a moved Criterion Group without refreshing page
+65566	Best design/localization for PA System
+65333	Date Picker missing scroll bars
+65158	Membership: Membership help link sends user to the incorrect help page
+65062	CkEditor in sakaicontrib/bbb_tool not working with sakai 20
+64966	Calendar: Warn when subscribe on Merge External Calendars
+64925	Webcomponents fails lit linting in various places. Custom element tags haven't been closed and too many inline event handlers are in use.
+64881	Update webcomponents to lit 2
+64617	webapi :: site info :: edit class rosters :: sui-table compatible api
+64601	send submissions data from assignments to sui-table
+64034	Fix library build errors
+63827	sui-table webcomponent
+63762	Date Manager: Multiple issues with setting Samigo dates via Date Manager 
+63622	Lessons matching question type
+63574	Hiearchy tests failing with HibernateQueryException: could not resolve property: node.id
+63474	Portal implementation
+63415	Resources: Upload files -> Overwrite existing does not work with special characters in file name when multiple files are uploaded at one time
+54828	Dark Mode - Test & Quizzes markup text Instructions & Examples
+63402	Quiz | 'Next' Button alignment
+50474	Add LTI Advantage Post Verify Feature
+54755	Gradebook Classic JSF upgrade
+59036	Roster > Profile photos students opt to share only with connections still show
+46147	Sakai Grader unable to view/download multiple image files
+28502	Assignment | New grader feedback attachment
+46123	Performance tuning on tool.css
+10974	Move BBB to use permissions web component.
+54664	CLONE - Error when try adding a student on a blocked section/group
+28422	Samigo is not properly styled when embedded in Lessons
+12882	Adding a Rubric after submissions
+12591	Adding a Rubric after submissions
+46074	"T&Q: Matching when grading by question has the Spanish version of ""None of the above"""
+63190	Add feature to Protect LTI Launches
+41658	T&Q: Question Pool: Rubric JS error when creating questions in question pool
+11036	"Allow the disabling of the ""list all"" function"
+63125	Statistics: Error on log when clicking Date Range on User Activity page
+50217	RWiki does not implement cleanup (replace) for import
+50212	"Section Info - ""Validation Error"" and ""Conversion Error"" message should be more descriptive for users"
+41502	Avoid scanning input stream to find size before S3 upload
+12069	"""Lecturers in the courses this evaluation is assigned to can view results"" should be editable"
+12284	Grouped items with mismatching scales
+12966	My Evaluations tab loading very slowly
+50164	User cannot undo the view change selection after reorder
+41506	Test & Quizzes preview done button jumps to another site's lesson page's linked test
+28208	Forums > Anonymous Posting Feature Wording is Confusing
+23735	Attendance / Print page capital letters in last name display users out of order
+63081	Quizzes: Images are not importing correctly for question text for matching questions
+37085	Content of the files in the Resources is not accessible with WebDAV in KDE
+28203	Samigo: Font in Matching Question
+41498	"Resources - rename ""Make Web Content Link"" function to more user-friendly terminology"
+23729	Quiz-Matrix of Choices: Statistics page needs better formatting
+58726	Auto created groups displays incorrectly if adding a new user to that group
+54401	Error when trying to unzip a zip file
+50150	"Roster: Clicking list view without scrolling on the cards view first, does not display entire list view"
+23720	Assignments / Move grade field down
+63071	Hide individual lessons items via simple toggle
+54391	T&Q Tests with Exceptions keep old dates when copied
+58711	Gradebook: feature request: Options for additional TA permissions
+28172	Forums: Mark all as read displays console errors for Uncaught TypeError
+58707	Add tool menu alerts to show activity for that tool
+28168	Lessons: participants in non-administrator roles are able to access previously visited subpages after date restrictions are enabled for the top-level page
+37052	Link does not work
+28218	Hide External Tools tab within Site Info tabs from Instructor/Maintain role
+50130	"Group announcments can be viewed by any site member, not just group members"
+45858	Radio Buttons in Multiple Choice Single Selection do not line up with answers in IE11
+32626	Home - Preferences - Sites - Improve the Sites feature
+50125	Firefox console error for : XML Parsing Error: not well-formed
+45855	"Gradebook > Settings > Statistics > Modify Language/Wording of ""Assignments"""
+32622	direct/grades/gradebook endpoint times out
+54415	Reporting for rubric data
+63043	"Add a selectable ""Term"" drop-down to Admin Site Perms"
+50113	Chrome: LTI Modal does not resize and has double scrollbars when clicking to add a learning app
+23683	Attachments in comments sections
+58739	Improve Default Message in Pop-Up when leaving Student Review Mode
+50109	Tests & Quizzes / Editing MC/MS to MC/SS grading issue
+12871	NullPointerException generating pdf report when instructions are null
+37098	Resources - Trash - Suggestion to improve the instruction content
+32624	Resources - Trash - Suggestion to improve the main heading
+28210	Resources - Trash - Suggestion to improve the warning message when there are no deleted files
+11903	My Template / Last Updated column not updated
+23693	Move Add Participants to Manage Participants
+63000	"Warn Instructor that Resources are Hidden , Update Student View"
+58746	Move role descriptions to top of Manage Participants
+41461	Gradebook View Columns not accessible to low/no vision users
+37095	Sign Up icons should be replaced with Action menu
+28206	Lessons / opening html page with linked image does not display and causes logout
+45861	Import from Site(replace data) should remove tools
+28202	MathJax/LaTeX checkbox unchecked on Import from Site
+23686	Assignments / student previewing rubric on returned assignment clears out cells
+58734	Assignment by Student drop down refreshes page and moves focus
+28195	Reset-Pass > add ability to reset password for mutliple accounts tied to the same email address
+32598	BasicLTI: Encrypted session is not returning a userEid 
+54410	Banner notifying Instructor that Site Import is complete
+32594	getting stackOverflowError in Lessons 
+28188	Fix Deep Links from the Rich Text Editor
+62972	Job Get Archives should not run by default OTB
+58724	Publish Now in Course Site: Notification
+41432	Tools set to Invisible are visible after Import from Site
+50090	Notify Instructor when posting Announcement that tool is invisible/locked for students
+37067	Overview page should fallback to short_desc then title
+63019	Show warning when deleting linked Assignments
+58715	Lessons: Not all items display when joining sections
+12865	Response rate / link directs user to send eval notifications template
+37058	"Assignments: Inconsistency between ""Inline and Attachments"" and ""Attachments Only"""
+41471	"Resources Tool - ""All site files"" menu cannot be closed intuitively with keyboard"
+45819	"If instructor grades student assignment without a submission, student can submit afterwards and it shows up as a resubmission"
+63003	Stacktrace in Signup caused by possible race condition
+54386	Dropbox WebDAV transfer does not show Student names in Windows 10
+32566	Assignments - editing Announcement notification type doesn't change/add new notification in announcement
+37033	Build atom level web components for button and checkbox
+58723	"Add chat notifications to social bullhorn, remove when read"
+32579	"In rosters, profile photo unaffected by ""view profile"" permission"
+36994	Forums / can set same gradebook item to be graded by different rubrics
+28110	Required lessons page may still be visible to students
+32570	"Forums- Print Views Are Inconsistent, Tabs Broken"
+28105	"Rubrics Text formatting in criterion, ratings descriptions and titles"
+36990	Rubric does not function properly with Ratings with the same point value
+32565	Add a Limit for Rubric Ratings
+28161	Alert do not work for planned announcement
+54387	Improve Add button layout in Postem
+28157	Comment Window in Rubric is Unrestricted
+41452	Conditional Release is not displayed in resources
+32557	Resources: Heading missing
+23699	Unable to create tool (LTI 1.3 tool) in sites
+54374	Change Hidden/Course Grade Calculation Icons to buttons
+50068	Roster Profile Pictures won't Display Quickly
+37038	Browser console jquery error when selecting grade in forum topic posting
+50117	Calendar Search Feature
+45802	Instructor - SiteInfo/Confirming edits to page: 
+54364	Resources: Uploaded File thumbnail error message
+50110	Instructor-Resources-Upload Files button text
+41438	"Forum Settings/Forum Posting checkbox <title =""Forumlocked"">"
+23680	Remove Buttons that Don't Work
+58676	Calendar Tool Alert for Overlapping Events
+37021	Calendar Default View Setting only Available for Professor
+32602	MS Edge - Forums: Wide content causes horizontal scrollbars
+58673	Calendar Legend Difficult to read
+41430	Resources: Table text has low color contrast
+41473	Bulk or JoinSet group creation is not adding custom roles to the groups
+50085	External Gradebook item icon not aligned properly in student view
+28108	Tests And Quizzes Invalid date error message even if the format is valid
+23656	Lessons: Dynamic Time Delay Pre-Requisite
+50081	StoredConfigService: org.apache.commons.lang.IllegalClassException
+32567	Assignments / preview rubric on small screen does not allow scrolling
+63005	upgrade HSQLDB 2.4.1
+41459	Move Gradebook Classic REST endpoints to GBNG
+32564	Question Pool - Added questions in the Test can be flagged
+23648	Lessons: Uncaught TypeError on index of pages
+54384	Webservice copy of template-based LTI (NOT instance-wide)
+36988	Console error in instructor gradebook for handsontable
+12065	Excel and CSV result exports differ
+23651	T&Qs : Allow instructors to end 'In progress' submission
+36984	"Move ""Hide from Site Drawer"" closer to work area in Preferences > Sites"
+54322	Lessons / Import / export issues with cc
+62936	"Gradebook ""Set Score for Empty Cell"" process needs improvement"
+45738	Accessibility Problem: Deleting a syllabus dialogue box calls it undefined. 
+32524	Samigo- Clicking on “Part” links in Table of Contents gives confusing nav alert
+36970	Hovering over the keyboard icon in gradebookng sometimes causes a scrollbar jitter
+32521	Create a pre-configured Lesson as a Syllabus
+36967	Roll-Up Jira for Re-Use Material from Existing Site Copying Method
+32518	My Worksite Setup > New > Re-Use Material Fails if LTI tool is Selected
+28067	Add instructor's name to student details on assignments
+23607	Error link to Hidden Lesson from another Lesson
+54295	Forums > Improve error message when failing to select destination topic
+28063	Manage overview / removing widgets removes tool 
+23598	Edge: CSS console errors when creating gradebook items
+36948	Assignments / View assignment by student -> unable to use prev/next buttons
+45710	a11y improvements for blind people
+58585	Lombokise EntityBroker
+36964	Email > put attachment list at top of email
+54302	New Chat properties / instructions should be added to default.sakai.properties
+58619	T&Q: Markup text for FITB does not work as the instructions state
+50010	TemplateAssesmentSubmission emails are not internationalized
+54271	Tests and quizzes tool: Exported Assessments do not include their Images
+17760	Lessons 2.0 - Improving and Updating the Sakai Lessons Tool
+62898	Remove RSF from Polls.
+32445	RSS URL for Announcement tool does not work
+27989	"If the reviewer does not submit the peer review and it's auto-submitted, the instructor's view shows ""draft"" even after release "
+23597	"Assignments: Peer assessment should display ""No attachments submitted"" under ""Reviewer Attachments"" if none attached"
+36918	GBNG > Logic error when enabling/disabling drop/keep text fields
+17756	EvalSys as a Mature Tool (Evaluation System)
+17775	"""Modernize"" Forums tool"
+13153	Evalsys - assigning groups-hierarchy 
+12703	CK Editor issues when editing an item on a template
+27920	No Reset Button displayed when it is a fill in the blank question type
+36764	Support @ style mention tags in chat
+32334	Would be nice to better visually distinguish my messages from others in chat
+23447	Email link is missing in the submission status(Only in Internet Explorer)
+62740	The UX for the drop-down isn't properly aligned
+32330	Certification Tool not awarding certificate based on Final Course Grade
+27915	Assessment not Listed after due date has passed
+23435	Not able to find Quiz in Assessments (Exception Testing)
+27887	Total Grade Points while grading the questions being misaligned
+36786	Samigo - Enter comments for students with no submission
+10928	Remote users experience audio problems
+36783	Email notifications over hidden folders with accessible contents
+23404	Clicking 'Back to home screen' from embed content page is redirected to dissimilar help page
+36769	Gradebook % of the final grade for each item
+54132	"Change language for ""Extra credit"" when creating/editing Gradebook item"
+23387	Assessment Submission time not shown for Excepted Student/Group after the Due date/time is over 
+13144	Evalsys web report show number in group
+41180	Null sometimes in description field for search
+41174	Assignment can be taken before prerequisite is completed
+41164	Group dropdown missing on assignment released to group(s)
+23420	Student's view of returned assignment when resubmission allowed does not have history
+58431	Preferences time zone / adding forum date and time
+23416	Unable to download my own zip file
+62690	Adding Back button at the bottom of Send to printer page
+62682	Bulk edit syllabus has an extra set of checkboxes
+27889	Assignments-All Purpose Item: Student list should be ordered either by first name or last name
+27885	Connection tool takes extra steps to connect
+41134	Gradebook NG / missing key when hovering next page
+36738	Sent with copy to email address is wrong/misleading
+54134	Selectable receiver in Submission Notification Email Options
+12362	Cannot re-assign hierarchy nodes in an existing evaluation
+36701	New Gradebook Custom Export Option: Choose Section(s) to Export
+45531	No content is displayed when a image/vedio file is uploaded through url in lessons tool and edited later with an option to open in same window
+45528	"Unable to see the ""Return to Lessons"" button on top "
+62701	Assignments List Adding a Box for Release of Grades
+62681	Connect button in pop-up when searching for user does not work
+54083	Modify ckeditor.launch configuration to use toolbarGroups
+62683	Oauth_timestamp is intermittently incorrect
+58292	Resources and Dropbox special site quota in GB
+36611	Move Roster2 to use portal.i18n library
+62558	update Translation
+12107	Anonymous evaluations lists responder statuses as untaken
+53970	Bleed through when question text wraps
+36615	GradebookNG row alignment issue
+62590	Port the master roster code back to 11.x
+23259	Include citationCollectionId in stacktrace to fix broken lists more quickly
+45397	Back to top side floating button
+41064	Assignments always show red flag
+49685	msgcntr: forums: Gradebook de-anonymizes an anon Forum topic where NO user is allowed to see posters' IDs
+41055	Page order Tool in Site Info drag and drop in IE9-11 issue
+32129	Embeded SCORM content not resizing correctly
+53918	Add 'Class Test' to Event Types
+12835	Using Ampersand In title is transformed to &amp; after saving
+12683	Editing a template item creates a loop
+27723	commons-pool2 & commons-dbcp2
+62533	"When conducting Sakai tests and quizzes with time limit e.g 10 min, for some students it shows 8 min and for some it shows 10. what can be the issue that cause this."
+36595	"""Insert original text"" link in Forums does not work"
+45337	Upgrade Samigo QTI to support 2.x versions
+11910	Evaluations can sometimes duplicate the responses on an saved submission
+45381	Peer assignment options not persistently displayed
+53926	Penalty factor for test
+45378	Upgrade to pluto 3.0
+40972	Tidy up accessors in SiteAction
+62495	Numeric Response -Mark with calculation error
+62489	Strange way to run the resubmission option in the configuration of an assignment
+36546	portal chat is unusable on a mobile
+40952	Late Accept and Due Date fields behave incorrectly
+36538	"User IDs are shown as ""display-userid"" "
+32097	Profile images are not shown; alt text is incorrect
+45344	wrong image used in tools dropdown shortcut
+40945	wrong icon used for LTI (external) tools
+36529	TEST & QUIZZES -CALCULATED QUESTION LOOKUP FROM TABLE
+32090	TEST & QUIZZES (NUMERIC) FEEDBACK
+27721	Numerical response weights
+32088	Calendar border is missing
+53950	Imported announcement's scheduled emails aren't sent and may overwrite the original announcement's email when editing
+40991	Unable to set Home tool to required in toolOrder.xml
+36522	Moving LHS tool bar when scrolling doesn't move the subsites as well
+49643	Assignment allows Collaborative Group Submission AND Display to Site: Error
+58209	Allow column properties on collapsed section to be edited
+49641	"Content review, compilatio : Submissions to be processed on assignments due date"
+27702	403 error accessing content on group pages if group membership is modified
+36561	New Tool: Community Data Exchange
+23221	announcements RSS feed should not include long description 
+62486	"In the minimised view of Site Stats > Lessons, the links shown are not clickable (whereas they are in the other sections)."
+58196	"In the expanded view of Lessons in Site Stats, clicking on ""By Page"" tab: throws the wrong page"
+36555	"headscripts.js - Uncaught TypeError when clicking print icon in Assignments, Tests, & Surveys (Mneme)"
+53915	End Time value not displayed when editing Calendar Event
+12101	Errors starting 2 app servers concurrently from data fixup
+53882	Scoring text more precise in assessments based in question pools
+49588	Help popup frames go wrong when resized (Chrome)
+40996	rewrite URLs within Home tool
+45321	Sync is failing for an internal user
+11894	"When the setting ""Use dates and times for evaluations, otherwise use dates only"" unchecked time still displays and is confusing"
+62492	Enhance Schedule text on Edit Tools page
+23211	allow one to copy a list of site member's usernames in Site Info
+62536	Add detailed reporting for question analysis
+62530	Scrolling down on mobile device sometimes creates two different layers of overlapping text
+58191	Adding an image through the CK Editor is cumbersome
+53900	Drag and drop ability to reorganise questions
+40957	Rewrite urls to YouTube to not use the http protocol
+36544	"Stop auto-adding target=""_blank"" to the site description when https link is added via Site Info"
+58167	System breaks down while importing the lessons 
+23176	Sorting in Sakai should use the user's locale
+53863	Site groups based on provider IDs don't update straight away.
+36543	tool-reset URL Incorrect
+23162	Syllabus redirect frame is not full height
+58198	Long custom site titles spill out of site button/banner and change font
+40982	date picker is cutting off the bottom of the month/year dropdowns
+36537	"with sakai 11.1 code seeing errors in tomcat catalina, localhost logs"
+40975	Question Progress drawer overlaps large images
+36533	Large images in Hot Spot Questions push Edit and Remove buttons off page
+27681	PDF export should use American letter size instead of A4 for USA locales
+45300	extracting ZIP files has issues with the API design
+40964	addResource needs to handle file name too long
+45296	Duplicate signup buttons at the top of the export page
+62438	"Alignment Issues while using Embed forums, announcements features."
+32083	Difficult to read Forum post- one paragraph is displayed in one line in mobile devices
+58174	Assignments / peer reviewer comments text field
+45285	Improve iframe resizing
+62479	allow one to copy a list of site member's usernames in Site Info
+23156	HotSpot Question Type Usability Issue
+23154	Stack trace on the bottom of every page in master if you don't run the 12 conversion script
+32064	"Signup only accepts email addresses when assigning attendees, allow to search by display/user id"
+45323	Access user cannot upload to resources
+58212	high CPU and dbpool spike with Signup tool
+27675	Attachments Disappear when Creating Group Forums
+53847	Null Exception while submit the Assessment
+32048	Javascipt messages not internationalized
+40892	Uploading files to  multiple dropbox folders (by group) doesn't work for all students
+36493	Set default antisamy behavior to encode instead of remove
+27660	Some actions are disabled if you toggle a folder
+58188	Centralize JS/CSS HTML head creation
+62433	Improve button consistency in forums
+36481	Delete option when creating folders doesn't work properly
+32026	"Add ""Subject"" in the list of emailtemplate"
+27651	NPE when locale is null
+62430	Course Start Date
+58178	Administrator role in course
+32012	Null pointer exception when viewing an announcement linked with an assignment (If the assignment tool is later removed)
+58164	Submit after preview in assignments won't work even if honor code checkbox was clicked before entering preview
+36503	Improve Roster Bundle Management
+32023	Change CKEditor defaults to ensure responsiveness
+23131	Improve CKEditor Smiley Configuration
+49550	HTML tags rendered by Samigo in the Fill in Blank questions (i.e. in between the {})
+36495	Redefine permissions in Sign-Up tool
+17461	Broken 'Close Window and Exit' button when submitting an assessment started through My Workspace - Dashboard
+32062	Reset password doesn't have institutional logo
+62482	Subsite title gets cut on mobile view
+27568	Sakai Entity Broker REST Implementation test fails
+17709	Provide alternative text for images - Dashboard icons
+17700	"Ensure ARIA roles, states, and properties are valid-Dashboard"
+23146	"Feature Request - Gradebook - Add a ""Penalty"" option for Gradebook items"
+62464	Gradebook category doesn't automatically adjust to size
+45244	No alert message given when syllabus added with blank 'Title'
+53799	Viewing Topics: extra column/sorting icon for list of conversations posted
+45237	Adding attachments to a topic: 'No attachments yet' text is removed but empty blue box is still shown 
+40891	Upload file bar covers filename when uploading through Drop Box
+23129	Missing check null before new file
+49548	jconsole error adding pictures in the Profile tool
+45233	jconsole error viewing user information popup (hover mouse over username) if user has profile image
+53790	General configuration table for content review activities
+27587	oracle 10.5 conversion script - cannot alter column type because it contains data
+62432	Malformed unique constraint in Oracle 11 conversion script
+32019	File Upload question: Upload button should be disabled until a file has been chosen
+27584	Narrow profile pictures are shown as tiles in Log Out drop down menu 
+62426	No alert message is given when web link is created without any URL.
+62424	"You are not in a maintainer role in any course sections. Therefore, you cannot create any course sites at this time."
+53825	Spaces needed after colons
+62423	Sites waffle dropdown not working on Test Settings page
+53823	"""Sort by ending date/ modified date"" columns do not have any data in reorder announcements"
+12555	email reminder sent to all students instead of non-respondent
+32007	Create new events that differentiate the site.upd event
+45216	Tests & Quizzes - Add assessment setting to decide impact of extra credit on total points possible
+45213	Next button on a Lessons subpage does not work as expected 
+12387	How to solve error messgaes in evaluation tool
+36446	An undo button is highly desirable   
+23094	please use lazy to CXF
+62418	please use lazy to samigo
+49557	Site drawer overlaps with user/profile menu
+36492	Unclear due/retract date message shown to students beginning quiz
+32049	"When Home, mouse-over site names are invisible"
+58137	Left hand tool list moves when user scrolls - unable to open all tools in a long list
+45259	Public Announcement is not displaying to users
+49546	How to resolve exception in Evaluations tool?
+45252	Signup does not generate an alert re Schedule not being present
+58124	"test & quiz samigo : if the group title contains the character "","" with Assessment released to"
+49543	"When writing a message, the List of recipient cut"
+23066	Delete item warning: Icon out of alignment
+62383	Incorrect error message displayed when adding a new assignment through Lessons tool
+49540	Import From File (xml/QTI export from other Sakai server) Into Tests & Quizzes is Broken
+27590	TAs cannot grade Assignments through the Assignments tool
+23123	Content Review inline submission retro activation
+53794	jconsole errors opening Section Info tool
+32024	Adding test to GBNG: no place to assign category
+45238	"Change description for GBNG in ""Manage Tools"" screen."
+27583	Can't add multiple citations in Resource at once
+36464	Site participants not displayed in 'Worksite Setup' when 'Prev' or 'Next' button is clicked.
+27579	Syllabus has com.sun.faces.verifyObjects enabled.
+32011	"""Table Properties"" freezes while inserting table into syllabus via the CKeditor. "
+23111	Tests & Quizzes - Setting Default Adjustments
+40881	Cannot publish the syllabus for 'bulk add' with start and end date being same.
+32006	Assignments associated with the same GBNG item automatically given same grade
+32003	Sorting options behave differently/don't work at all in Grade Report tab
+23103	"Errors when double-clicking on buttons within the interface (such as the ""Remove"" button in the Trash)"
+31986	WebDAV Upload Fails
+53819	Issue with 'Uploading ZIP files'
+62385	Condense Add Participants workflow to two screens
+53814	"collapsing the confirm page for Edit Site Infor, Manage Tools, Add Participant into previous page"
+49497	"Tests & Quizzes - ""Require Rationale"" is not a required element once enabled"
+53801	Unable to copy an announcement that was created by the same thread
+12549	Evaluation results viewable datepicker not working
+23105	Duplicate use of oracle sequence in Lesson Builder
+11722	Deadlock when group is created in template
+62379	Set default target of 'suggest feature' to be the apereo Sakai farm landing page
+23122	Adding Rubrics to Sakai Samigo and Assignments
+45224	Message Center Notifications: extra blank column
+62397	IMS Content Package Not Imported
+36444	Lesson Tool - Add Question Function Request
+31978	Box Integration
+49515	Favorites & Organize Favorites show -1 
+23100	"Clicking ""Add a Category"" unnecessarily takes user to top of page"
+53750	"""View Site As"" drop down menu is clickable but mouse doesn't change"
+40851	Move actual Calendar up on screen
+62370	edit published assessment Multiple choice multiple selection to multiple choice single selection grading issue
+45200	"""Invalid URL"" alert appears when adding multiple instances of Web Content tool"
+40867	"on first launch, a pop-up containing the web content link to an external web site is blocked by the browser"
+36418	Selecting gradebook item in Forum Grading
+36405	"""Search"" in roster tool only works when selecting from dynamic results - search button itself only resets tool"
+53741	"Survey Matrix Question missing space before ""Column(forced ranking)"""
+49490	All Purpose Item doesn't use CKEditor
+36399	"Student view - Screen title still displays as ""Assignment List"""
+36382	Purpose and function of Options unclear
+62331	Inconsistent breadcrumbs in Messages
+23029	"Download All- ""Include..."" option doesn't work"
+36335	Event time format is inconsistent for events occurring Today and Tomorrow
+49418	Tool title can be set but is never displayed
+36328	Syllabus: Print Individual Items
+27531	In the Syllabus tool clicking print view and then view as student changes the main window inappropriately
+62350	Change Wording: Add to Save as Draft
+58038	Some URLS do not work using the redirect option in certain conditions
+31918	Statistics Tool - Reports - Printing View
+27505	Show Model Answer field in Assignments when it is set to be displayed to students
+40798	Roster / add permission so the print feature can be turned on/off by role
+31902	"Assignment link in Calendar event takes you to the Assignment List, not the assignment itself."
+45167	Exam-type events have same icon as Hidden items
+36347	View in Site shows current week in Calendar tool regardless of actual event date
+53739	"In Publish (Private) tab, saved file titled 'schedule.ics' - should be 'calendar.ics'"
+49433	Newly created message would not send to instructor and student
+36338	"""User Audit Log"" page in Site Info has no Menu bar"
+62339	contributed syllabus integration with Oracle SIS
+45114	illegal options combinations in assignments for turnItin
+62311	"When adding announcement, Access heading has no information displayed"
+53685	Duplicate Assignment changes value of Gradebook
+49417	Tabs in Preferences tool have extra padding
+12379	Evaluation report not showing Overall Average of Means. 
+31927	getInternalDirectUrlToUserConnections takes you to user's profile homepage.
+27491	getInternalDirectUrlToUserWall doesn't take you to the user's wall
+22997	Assign appropriate permissions for Sign Up tool
+62263	Create Duplicate Site Webservice
+62259	Index the sakai_event table
+62255	Changing a profile photo will override Gravatar configuration
+27484	Wrong Text in Submit Button when resubmitting an assignment
+27478	"Matching ""match"" when written in more than once will categorize it as a separate category."
+53671	Forums / students ability to add topics can lead to instructor limited access
+40762	dashboard buttons covering underline when toggled
+58035	Hovering over menu options of collapsed left menu bar leaves text unclickable and behind other UI pieces
+58018	Announcements View dropdown box cut off 
+53717	Collapse Tool on Tab Panel doesn't show as clickable on mouseover
+22972	No Print to printer option
+40738	Portal menu width too small
+36303	Honor Pledge does not show up in Test and Quizzes
+53702	Lessons content upload size max limit check before uploading to temp
+40733	Content Review error when trying to create assignment doesn't disappear
+49385	Button Layout in Mercury Calendar
+36287	Alt text for many left menu bar items is inaccurate/unrelated
+49381	Null Pointer Exception when navigating to newly created page via URL
+45097	"""Add Gradebook Item"" button returns error that the function localDatePicker is undefined "
+40717	Tools List / Site List hidden behind siteHierarchy yet still clickable
+31859	CSS Misalignment - Main Page
+27489	checkboxes in “Options” column on Home tab partially hidden
+22951	Top navigation tabs are misaligned on Assignments page
+62249	Calendar List of Events Not Properly Labeled
+45095	Duplicate Site button covered by Link and Help buttons
+36278	"Quote Characters (' and "") Not Handled Properly in Sites"
+22945	Number of messages unread/posted not displayed in Topic
+62302	Clean (security filter) HTML mail as it leaves Sakai
+36310	Signup tool performance issues
+57952	LTI (iFrame): Extended Matching Items. Removing option goes back to assesment Edit
+45129	"""Site Unavailable"" site is shown on sites menu, ""Other"" section"
+27441	Incorrect sequence values can lead to a variety of problems
+36296	Add the functionality to have a topic be visible BUT not accessible until a specified date.
+57929	Link & Help buttons in Site Info overlap the tab navigation links
+31881	Cannot create worksite - error on clicking worksite setup
+53695	Created course site is redirected to error page in Sakai 11.
+57965	"announcements, assignments: permissions page doesnt have tabs"
+53686	"""Move thread(s)"" link is visible to students in Forums"
+45064	content loss on image paste
+22991	Forums / grading screen will not close in IE
+57953	Incorrect forum message table sort by date column
+40750	Bad choice of lock object
+36324	Bad choice of lock object
+31851	Bad choice of lock object
+27389	Indefinite wait
+22987	Check of thread-shared field evades lock acquisition
+62287	Check of thread-shared field evades lock acquisition
+57946	Check of thread-shared field evades lock acquisition
+49388	Check of thread-shared field evades lock acquisition
+45056	Check of thread-shared field evades lock acquisition
+40746	Check of thread-shared field evades lock acquisition
+36323	Check of thread-shared field evades lock acquisition
+31846	Check of thread-shared field evades lock acquisition 
+27385	Check of thread-shared field evades lock acquisition
+22978	Jump to last saved question after resuming assessment
+12986	Stacktrace and parameter error with too many groups
+12087	Assigning evaluationt to sites doesn't make evaluation available to students
+45044	Reproducible string out of bounds error - Gradebook
+40731	Reproducible String outofbounds error in JSF
+53641	Section Info: Category options not available
+12544	Import Old evaluations data while upgrading to newer version
+62268	Preferences / reorder sites in customize tabs issue
+57981	CLONE - Profile image cannot be selected from Pictures if file type is .png
+53630	Add elFinder support to Mneme
+53621	NullPointerException because of missing ltiToolValues LTI_TITLE
+31854	Reimplement memberships synchronisation as an administrator triggered operation
+45084	"If you get a form validation on adding question pools, stack trace results"
+57959	Demo version needs a site to support large numbers of participants
+45078	Question directions related to several questions.
+36277	Setting a default.copyright property has no effect
+27430	Create new tables MFR_TOPIC_OPEN_FORUM_T and MFR_TOPIC_PRIVATE_FORUM_T to avoid null scans
+27428	Include image in exported assessments
+57935	Extra Permissions to hide or show the different site Info buttons with more granularity that the actual permissions do.
+53649	Note on Gradebook / Lessons interaction
+22911	"AnnouncementComparator is not transitive, can throw error with TimSort"
+62202	Can't click on student's name in forums if it contains an apostraphe PATCH PROVIDED
+40648	"SAKAI 10.5, after i linked BigBlueButton (ie Meeting) whenever i shutdown and start tomcat server, the whole sakai get reseted all my user and workspace "
+31777	How to post a public announcement in sakai cle 2.9.1
+31773	Messages Read -> Date leads instructors to believe it is message read date instead of topic posted date
+27418	roster2 tool doesn't work for IE
+22906	"Resource tool, uploading file a large file, the cancel button does not work"
+31765	Job to publish and unpublish sites based on a site property
+49307	Questions with dollar sign symbol fails to provide downloadable pdf
+31823	Ambiguous Visual Cue Upon Score Adjustment
+49303	Inappropriate use of System.out.println
+27395	Exporting multiple files
+45083	help.hide property no longer works as expected
+36223	Insert in assignments interface that max size for submitted file is 20 Mb
+62195	Add option to show the Read count in Forum messages
+19638	Extend the Mneme Entity Broker Feed to include direct assessment Url
+19119	Add a direct link to Canvas from within CTools
+36216	Could not open the portal page after completing the installations
+22920	Change HTML warning popup box to be more of a notice than a warning
+49288	Some site language settings break SiteStats reports
+45071	Maintain submission history for assignments that includes submission contents
+36210	"Rename ""Page Order"" to something that better belies what it does"
+49325	UPLOAD FILE - i18N -  there is no property - 
+40654	"Support OAuth 2 for accessing /direct, /access"
+45053	Turing the presence function off for a specific site only
+53639	"Leaving a joinable site via Site-info displays ""Do you want to join this site"" message again. "
+45050	Webdav encoding issue with Finder in OS X
+36256	UserDirectoryService could use a way to return all userid's
+22904	unable to add member to existing group with new role type in site
+40646	Detect mixed-content in wiki links
+12261	view report / sort returned results
+62221	Maintain user check is not correct: Cannot inactivate last user with role 'Instructor'
+53622	"On ipad if image is wider than 750 px, it breaks the synoptic tool display?"
+22886	"Feature Request: Allow user to set ""new window"" when editing a Web Content link in Site Info - Page Order"
+62215	"Feature Request: Allow user to set ""new window"" when adding a Web Content link in Site Info - Edit Tools"
+45017	Duplicated entry for gen.group
+57869	New Webservices from rsmart/ANI/Scriba code
+53605	Support ContentHostingService as a FileSystemProvider
+40655	Add ability for external tool to construct context-only reverse LTI Launches to themselves via Content Item
+22908	Unable to change meeting type in Sign-up tool
+22896	Bulk print a completed assessment
+27352	Provide a link in the email notification message that goes directly to the current message instead of the main page in Messages Tool
+62216	ask for confirmation when Joinable Group is deleted
+31802	Dropbox gives lock error when expanding archive and removing archives and expanded archives
+12368	Template replacement doesn't work for manual emails
+11452	Update icons to use Font Awesome
+22847	Support a specific icon for every LTI tool and Placement
+44982	Provide keitai service to get all polls of a user
+31759	Calendar / order items ending at same time
+40652	Allow for item names to be changed
+53571	Exporting & importing questions to lessons
+36229	Make edit/delete comments time configurable
+22880	Add allow retake to Question function in Lessons
+62140	Assignments / grade report
+36224	Release and bind to Sakai Maven Plugin 1.4.2
+22856	Customize tabs / unable to hide all sites
+40614	NumberFormatException after clicking the Statistics button
+36180	The resource with chinese file name download error
+31764	Roster profile popup doesn't render Chinese characters properly.
+40605	NullPointerException on timed test with default score
+22829	Add answer randomization for parts
+62154	Bookmark / link to where you were previously
+57904	"Remove the ""Home"" tool from the Default Site Setup and leave the top position to new sites to be the ashboard"
+40594	Implement LTI2 tool provider
+11713	Null values in EVAL_EVALUATION.INSTRUCTOR_VIEW_ALL_RESULTS cause NullPointerExceptions in PDF reports
+36150	Assignments / non electronic apply grade to ungraded does not work
+45020	Checkboxes unchecks when expanding folder
+49225	Sitestats connection not closing 
+36203	Roster2 Sort Icon Missing
+62134	Improve error message when maintainer doesn't have signup.attend permission
+31716	Create access key for direct access to grade field in Assignments.
+53590	New column to mark assignments that include comments in the assignment's submission list page
+57847	"If ""Single Slot"" type meeting is selected while creating a new meeting, the radio button option texts will not be visible"
+22884	Height of embedded content in imported Lessons page is different from the exported page. 
+53580	Post Gradebook items to Schedule?
+44961	Webpage layout in IE 11
+22883	Report tool ids show sakai.resources when non resource tool events are being displayed
+44958	Option format is not copied properly when copy from Pool for Extended Matching Question
+44953	"Sign-up doesnt honor ""Privacy Status"""
+62133	JavaScript error occurs when clicking checkboxes before page fully rendered
+27294	"ServerConfigurationService.getConfig(String, T) doesn't work for arrays."
+22842	Question pool / questions on published assessment not updated after retracted
+19393	Test Center: Export Summary takes 3 minutes to generate
+49247	report on individual tool / LHS page menu accesses
+19268	Large Random Draw question pool takes long time to export summary
+62142	podcast shows delete / revise links inappropriately
+62139	issues with separate content domain
+19263	 Test Center does not display answers to text (essay) questions in Summary of Data 
+36145	Reply email subject mismatch when multiple tabs open
+31727	Poor error message reporting when uploading a resource that is past the limit when using file browser upload
+36196	"Allow samigo when publishing a test, to link it to an existing non-externally maintained gradebook item."
+57816	Ability for a instructor to block time slots for different purposes making those slots not available for students from the site
+44919	Create New User Dialog Box Email TextBox Behavior
+40608	Site properties editor inserts HTML (BRs) into unrelated property values
+44952	"When anonymous and unlimited submissions, -1 appears for non submissions grading"
+36159	Fix sakai.motd tool so it does not use an iframe
+36148	"Use date&time picker for ""Sign-up begins"" and ""Sign-up ends"""
+31667	Students should be allowed to Add Comments Tool 
+62071	Assignments Peer Review add ability to allow reviewer to resubmit
+62067	Identify students that need to be graded in the 'Assignments list by student' view 
+36142	Sites disappear for users with > 999 sites after viewing Resources (Patch Provided)
+36141	Lessons create folders in Resources - testfest 10.4-rc01 
+62122	Implement a PickableProducer for Signup tool
+18834	Update CTDEV to point to cosign-test environment
+44920	Prerequisite option ignored if user does not select require on all prerequisites
+27305	Add more time to test in progress
+40562	Assignments/Lessons: Prerequisite leads to alert for group submission
+27300	Allow import of excel spreadsheet for sign-up tool
+22781	Allow instructors to release only incorrectly answered questions
+57805	Simultaneous grading in Assignments can result in overwriting of instructor comments
+62100	rubric for assignment
+57863	Cannot upload gzipped files via WebDAV using Konqueror on OpenSuse
+49212	Audio files don't all load if grading page has many audio clips 
+44905	recording time in seconds not always accurate compared to actual recording
+44957	All enitybroker responses are specified as being public by default
+31689	Copyrighted resources would display 404 on Lessons if open in new window - tested on q10
+12660	Mean is not calculated correctly.  Ignores Ideal Question selection
+31684	Attachments are duplicated when editing published EMI questions
+49205	site duplicate still not handling /direct links fully
+31661	Signup Email All should use Email tool
+15975	The Media Gallery is not enabled. Your system administrator needs to enable it in the configuration. 
+31648	How to create html page with video link after upload video in content tool.
+27212	Assignment - allow resubmission bug
+62107	Showing of tool navigation bar not consistent across portal
+53542	Add ability to filter LRS statement creation by event type
+19639	Implement CoreEntityProvider for Melete
+31698	fixes to jforum for Sakai 11 / morpheus
+40546	Resources won't expand on report if 'Limit to Resources' is checked
+22745	Add URL submission type; support Open Graph
+31665	Remove CSV option and add all text data into excel for assignment upload
+40584	Gradebook - Exception not caught when two Instructors grade the same assignment
+36122	Assignment resubmission not allowed
+53445	Links to Forums in synoptic tool don't work if tool is hidden but accesible
+36115	Uploading Gradebook with upper-case userEids crashes tool
+22730	Update QTI Export of Tests & Quizzes
+49170	timestamp.txt File Not Matching Actual Submission Date/Time 
+36079	Duplicate rows being inserted into SST_EVENTS
+18697	"Test Center ""Summary of Data"" regression"
+62047	Calculated Question - Preview doesn't let you fill in an answer
+53444	Unexpected behaviour when Gradebook Item is de-coupled from ASN tool
+44854	Simplified Chinese translation for profile2's email templates
+40488	Improve the UI of ETS
+36028	Site-management: use ETS method to load templates
+27203	Improve the compatibility of templates loading in ETS
+22713	Forums / imported URL attachments 404 error
+53477	sakai 10.x : patch to add french translation for html files in reference module
+44878	Make the Profile Tool menu conform to the markup patterns for its menu
+18927	"My Courses displays incorrect course instructor for ""instructor-less"" courses"
+27150	Improved encoding correction
+15966	"Kaltura video is not played on ""site info display"" shown as an image"
+53437	Post buffer bypass WARN in PDAHandler 
+22706	Message Center Notifications links take user to desktop Sakai portal even when in PDA portal
+19192	Allow site owners to disable Friend Account invitation notifications at the site level
+22685	don't use separate content domain or cookie domain if bypassing load balancer
+13143	Direct eval link doesn't work in Firefox when not logged in
+57714	Implement hazelcast caching
+19287	ServiceLink QA server does not create an Approval incident if Fall 2014 term is selected when creating a Course site in CTQA
+36005	From address not used when sending validate new user email
+19413	Add Help Documentation for GB2
+35985	Discussion Forum Does Not Show 'Grade' Link Despite 'Post to Gradebook' Permission
+12671	Add Profile[2] image to interface for choosing who to evaluate
+18920	Replace the DBCP connection pool for CTools
+19640	No longer able to modify Friend Account details using My Profile tool in MWS
+19138	Gradebook 2 Lacks internal Help documentation
+53383	Email headers are not consistent for all tools
+19628	MPrint alert text could include more instructions
+49118	Changes in group membership aren't causing authz invalidation
+36020	Cache APIs do not support atomic actions from JSR-107
+36001	Resources/Navigator performance degrades over time.
+35995	Allow providers to only work on some requests
+31530	Add localized role label support in samigo
+27121	Order sections with id in SiteInfo
+40450	make tool title clickable to reset tool
+49087	Pass the user's role to the help tool
+36008	"Date range not saved when ""List of events"" is made the default view of calendar"
+18808	Test Center: Give instructors option to have responses emailed to students upon submission
+19644	Students are unable to upload files to the ckEditor within Test Center
+57664	Add localized site type support in kernel
+49057	Localize site type
+62003	Configuration setting present in i18n default language file
+27112	MathJax configuration should be externally configurable
+19127	Clean up invalid JS references
+35929	"log events for sakai.iframe.service, sakai.iframe.myworkspace, sakai.iframe.site"
+19641	MPrinting files with unknown extensions results in uninformative error
+19637	DB Conversion to change launch URL in old basic LTI placements of CAEN Lecture Recording
+31521	Update <scm> paths in sakai-10.x branch
+19181	Update Modules/Melete to integrate with alternate (google) calendar
+31512	Update Syllabus tool to integrate with Alternate (e.g. google) calendar
+31509	Reports Tool Support for Multiple MultiSQL / MultiSet
+19177	Remove Site Browser links form students workspace
+49043	I18N support for grade type
+44701	servlet-api should be updated to 3.1 from 2.4
+22562	Prevent multiple site imports and log to database what was imported
+19319	MPrint QA issues
+18793	Give option to instructors to pre-populate a student's answers from a previous submission
+12231	Reversed display of scale options when taking an evaluation
+53317	Add notes support of meeting
+49022	Investigate overlap between code in SkinnableCharonPortal and SiteEntityProvider
+15899	"Kaltura is using default Spring ehcache bean, instead of Sakai's ehcache impl"
+22566	Complete home tool content not copied when re-using site content
+44680	Double messages when adding existing user to site
+27040	Resubmission during grading
+15942	Stack trace generated to user when Kaltura service is unavailable
+44673	Send only one email when new user is added to site and account is created
+31408	Wiki not rendering links with markup language characters on it.
+16006	Replaced clip material is being added to the 'Site Library' when the 'Site Library' box is NOT checked
+35845	Inconsistant numbering display of student's assessment submission from Assessment Settings
+19315	Double quotes in Test Center fill in submission answers cause the answer value to be truncated in grading
+19610	Add version number method to UMICH  lti-util SettingServiceUtil
+12840	Improve Handling of Deleted Sites Membership
+40302	BasicLTI tool instance is added with current site id if the BasicLTI admin tool is enabled within user's MyWorkspace 
+19088	Many melete database errors in production
+19560	Export Question Pool contents to plain text
+19308	Gradtools display problem with multiple rows in DISSERTATION_CANDIDATEINFO
+15894	Replacing video with clip in collections makes it disappear until refresh
+15871	"Save adds clip to My Media, not the collection saving in"
+15827	"Searching, no items found, does not display '0 items to show' when adding to collection"
+15934	"Win7, Safari: Unable to enter search term when trying to upload items using Flickr, Jamendo or CCMixter"
+15811	Media duplicated under SiteLibrary and MyMedia if file is uploaded to collection
+57568	"Exporting of results for question type Matrix of Choices sorting and ""dropping"" choices"
+40333	OpenURL : JournalConverter uses date field instead of year
+61880	OpenURL : JournalConverter never gets used
+15932	Win7-Safari: Unable to enter text in tags or description when uploading an item
+44652	preview images for template selection in worksite setup
+11572	Restriction query building causes Oracle - ORA-01795: maximum number of expressions in a list is 1000
+15808	iPad rendering with mulitple players in mulitple columns doesn't respect the boundries
+11707	"MySQL conversion script alters the wrong table, is missing other changes "
+12669	Consolidated emails include closed evals
+12575	Consolidated email processing fails to record eval completion
+35814	roster.viewallmembers permission overrides roster.viewgroup permission
+22488	"User Preferences tool defines max tabs as ""4"", while the Portal defines max tabs as ""5"""
+26969	User specific skins
+19395	Sites are randomly assigned to 'favorites' or 'more sites' when created or user added.
+19183	Allow users to see which question pools their question is part of.
+18814	vm errors with gradtools
+48933	Preferences Link in 'More Sites' Unexpectedly collapses the left navigation bar
+15883	Tool unable to recover if tomcat started up while kaltura server unavailable
+35842	Samigo / Markup text - extra paragraph break causes question creation error
+44633	"unified ""add"" menu for lessonbuilder"
+57544	look at names and visibility of groups used for access control
+19583	TestCenter fill-in-the-blank question should have option to check for text formatting
+48960	PDA Portal login and xlogin buttons too close for fat fingers + small screen
+15878	Browser crash when attempting to add video using webcam
+15862	Audio files display converting message until they've been added to a collection
+15802	"Search Flickr, Jamendo only works for exact match"
+15947	Confirmation when deleting an item 
+15930	Unable to add items to community/personal collections or add to Site Library from My Media in IE9 or IE10
+15869	"Files uploaded under ""My Media"" tab cannot be removed"
+15858	Change language on upload screens
+15795	"FF, IE9: No scrollbars on pop-up when selecting media to insert"
+15997	Message displayed when adding photo or audio files doesn't make sense
+15943	"Collection with ""Owner"" Setting is not visible to students"
+15866	Allow users to embed media from My Media into the CK editor
+19176	Check that org.sakaiproject.blti.ServiceServlet is checking nonce to prevent replay attacks
+31372	 the length limit of suspend_data for resume by HTTP GET
+15790	Decouple ability to write to site library from ability to write to My Media
+35825	New option to set newly-created site as second tab for site-creator
+57534	Add ability to launch LTI links from the web content tool
+53194	Allow instructor ability to change null grades to zeros while grading in the Comments tool
+22501	limit the number of calendar events copied during site duplication
+15851	Replace adds clip to Site Library when 'Add to Site Library' not checked
+61816	Design and Implement Proper Help for the web-ifp portlet for LTI 
+15786	User with Read/My Media only access is returned to Site Library instead of My Media
+15961	Site Library link available for user without permission
+12092	EvalToolTitle keyword not supported for Email Templates
+11923	Eval Groups not synchronized with Course/Section membership
+12570	No way to use or manage email templates
+15958	"Community Collection Items can be marked Private, but are seen"
+15917	Mis-label for My Media message
+19534	Retire Profile classic module in favor of Profile2
+18991	Gradebook: clicking on 'Return to Instructor's View' generates Bug Report after returning from 'Become User'
+53161	Deleted user still listed in Site Info's participant list
+15921	IE9 Issue: Instructor cannot 'Add' item from Site Library or Media Gallery to a collection.
+35741	Add ability to export comments from Gradebook
+57499	"All help content hardcodes ""default"" skin"
+15872	Playback context of the current  site shouldn't be sent while playing an item from my media
+15789	Playback context is  not being send while playing an item created by html\text tool
+61732	New portal timeout popup for when time has lapsed
+31295	Suggest Arrows up or down to indicate events outside of working hours
+18787	Custom 403 and 404 pages not used in CTools
+53136	Show more description links on sites breaks if site short description contains special chars
+19518	Test Center: Scoring Problem
+53174	Edit content in larger window
+44543	Content: Add option to display folder as web page.
+35698	Page Order -> Hide/Disable not working as expected for some tools
+57397	Label sticks if forwarded message is cancelled
+11702	"If Eval has no instructor-item questions, instructors cannot view results"
+35670	tempoarily auto-expand all short URLs and then do search and replace when doing reusing content from another site
+48861	Associate 2 or more assessments with the same gradebook item
+53134	assignments lose categories in duplicated courses
+48808	Sort not working properly for announcements
+40139	Submitting a timed assessment using 2 browsers can result in an empty submission
+26836	[Skin] Functionality to add a skin for a user.
+13007	EvalEvaluationService.getEvalGroupsForEval method fails when array of eval id's is too big
+26801	Can't edit title from WorksiteInfo for sites created using the Site tool
+61651	"Unread Message and Forums widget should be organized by message type, not show sites without any activity"
+13002	Add interface to allow instructors to add their own items
+12875	Instructors view date can be before primary view date
+12230	Cannot reopen evaluation until it is viewable
+53066	Begin Assesment and username and pwd fields causing some issues
+48757	Forums - 'Mark All Messages in Conversations Read' option does not mark threads read for Instructor
+40059	Theme (appearance) picker broken if theme has no iconUrl
+12661	Copy/Paste From Word into
+12082	Rework consolidated notifications to accumulate data in database rather than memory
+26769	Error Alerts missing for incorrectly formatted staff information URL's
+31199	Public resources are changed to site access when a site is duplicated
+35558	unable to change schema in portfolio
+12998	When an eval is deployed to multiple courses instructors see all the courses in 'Evaluations in which I may be evaluated' even if they are not instructors in those other courses
+52984	Port the message clustering to use an abstraction rather than its own jgroups setup 
+12057	"As author of an evatuation, if I follow the permalink to the eval & then proceed to take it, I show up as an official response"
+11879	Export scaled options as numbers rather than text
+12043	Editing an Evaluation without saving causes end time to be set to 12:00am
+12202	i18n translation - property extraction - patch
+12040	i18n date formatting patch
+61566	Make the necessary changes to support annotation based injection between components
+31137	Ability to add text to a new Resource Email Notification
+13116	EvalBeanUtils -> validateEvalDates returns useful messages in the exception which are not see in the UI
+12972	Consolidated e-mail notification does not send available or reminder e-mail unless template key manually added to database table
+12191	Instructor notification of created emails not working
+22184	Drop Box/Resources - Page redraws from top
+31102	Add support for archive/merge of assignment supplemental items
+12963	Review breadcrumb UI from template preview page
+12701	Dates in evaluations don't alway follow the locale set in a user's MyWorkspace
+13078	Question answered as NA cannot be changed to another value
+12409	Edit a Template block accepts and empty title
+12206	Add/Edit Template item accepts a title with only whitespace
+12988	"Show group title in a column with responses when viewing ""rolled up"" report"
+12699	Shorten success message to allow users to get a sense of what it says in a glance (less than a second)
+12488	Validation error message should be specific to the situation
+12980	Changes to ad-hoc groups are not applied correctly
+11744	Slight discrepancy in Oracle DDL for 1.3 -> 1.4 SQL script
+14027	Remove dropdown menus from grid column headers and fix toggle on sort asc/desc on column headers
+12682	Evaluations table in summary contains hardcoded strings
+44232	Allow to change the skin in the gateway with a parameter in the URL
+35402	Change the Upload maximum size by role
+11741	Internacionaization bug in Expert items categories table
+22069	Enhance BaseEmailService implementation to decouple email operations from the current request
+12042	"Incorrect Properties Definition in Evalsys ("":"" instead of ""="")"
+12668	Standardize wording in messge.properties.
+11877	NPE when assigning ad-hoc group with Enable advanced Instructor / Teaching Assistant selection option
+11867	summary report for faculty/lecturers/tutors
+11732	Survey category should be displayed in a table column (not underneath the survey title)
+12799	NumberFormatException (s) in Administrate
+16926	Update version of generic-dao in timeline
+12506	Incorrect page displayed if a heading is NOT supplied for a group of questions
+11859	problem with regrouping questions after a change in scale  
+12656	"If an Admin user clicks 'browse server' whilst doing ""insert image"" in FCK (in Evals) the the file browser opens up in some wierd location "
+12502	Count of users is incorrect  
+12372	incorrect version information shown on page  
+11728	caching issues (this time with template question list) 
+12967	"failure to add ""item text"" when authoring a template results in an incorrect error message  "
+12786	survey is cached 
+21869	Add experimental capabilities to trunk .externals
+61231	Add functionality for importing users from an Excel spreadsheet or CSV file
+12965	make it easier to assign surveys to Goups/Sections
+12775	Reorganization of EvalSys Administration page
+35162	2.8 Test Fest - 1/20/11
+12015	Need to update DDL scripts 
+11830	Preview evaluation does not support selection of TA/Lecturers 
+56788	Add parent role tied to a student
+12708	Offer to create accounts for non-account holders when required to login to complete a survey
+12961	Surveys not always anonymous
+13081	"""Allow survey results to be removed"" option does not do anything"
+12210	"When ""Survey Results"" is set to either Private or Public and checkboxes appear below, the options should be greyed out"
+13077	"""Last Update"" column in My Templates page does not change after template update"
+12205	UI change in CE dashboard
+12361	"Static code sweep 2.8 - PMD - Broken if statement may cause NPE - org,sakaiproject.evaluation"
+12201	Provide ability to reuse a template attached to a live/closed evaluation
+12356	SummaryProducer instructor widget check of EVAL_ASSIGN_USER
+12198	Generic URL in Announcement/Reminder email
+13073	Evaluation logs an INFO message for each new entity created
+11746	Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take'
+12193	Incorrect error message
+12705	Evaluations in GRACE_PERIOD (DUE) does not appear on 'Evaluations available for you to take'
+11743	Enforce 4000 character limit on text comment length
+11740	SQL constraint error on deleting the copy of a locked item
+12344	Startup problem when auto.ddl=false and at least one configuration setting is configurable
+12825	Provided EvalGroup logs exception
+12702	Server restart leaves orphaned eval_update_timer
+12953	Allow survey results to be shared
+12186	Grouping items based on both scale and category type
+11998	"When creating a group and forget to add item header text, new screen is full screen instead of pop-up and ""Cancel"" button does not work"
+12494	"""Select Lecturers"" Feature not available in hierarchy area"
+12946	cleanupUserStrings() applied inappropriately to plain text fields
+11724	Cannot reuse existing email templates (was Email templates do not work correctly)
+12939	Invalid user shown in selection options
+12695	"Eval reopens without clicking on ""Reopen and Save Settings"" button"
+12045	"""Modification of answers allowed"" eval option should be editable while the eval is open"
+12331	odd characters appears in XLS & CSV export
+12677	messages_en_GB.properties should not be in shared svn
+11676	"Remove ""reset config cache"" button"
+12921	Make institution-specific features generic features
+12672	new evaluation message has wrong value in TO field.
+11671	Instructor gets stacktrace when viewing results of eval released to mult. sites
+30567	Section and Group memberships lost when using 'Create Site from template' and both 'Copy Users' and Copy Content' are selected
+12783	more than one root node created during initial deployment in clustered environment
+11661	set return path of email to be same as from address
+12229	Sort order for own vs. public templates + authorization issue
+12020	Evaluation notifications field limitation
+13104	add a 'continue later' button
+12016	Refactor isEvalGroupPublished and getFilteredEvalGroupsForUser methods
+12524	Access a survey which you aren't allowed access to doesn't generate a good status code.
+12316	When survey is half created accessing it through /direct gives incorrect error.
+11656	"list ""ideal scale point"" on CSV and XSL export"
+12012	Public template still say they are private to non admin users
+12779	"when a survey is assigned to respondents via site membership, a snapshot of participants is used instead of a dynamic list"
+12516	Exception handling for some cases exposes hibernate logic
+11997	Email message to survey creator gives results date = end date instead of extension date
+12192	Evaluation as a 'condition provider' for Conditional release
+12899	"I18n bugs resolved (escales,classifications in English)"
+12508	"BlankRequiredFieldException bugs, blank fill in"
+12504	editing a suggested (expert) question
+60901	"New way of sharing resources - ""available to all authenticated users"""
+12302	Ability to mass delete questions
+13129	Assign Evalutation should allow for adding all users in a provider (roster)
+11993	save a default UMD ResultsSharing in Eval Items
+12640	Show summary of responses per group
+43751	/access/wiki pages don't convert jsMath
+11834	Impossible to translate remove- Add Scale Point  button of modify_item.html
+11683	Ability to copy (duplicate) template questions in Course Evaluations
+12170	Addition of matrix-type question
+12791	error with maintainer trying to modify attributes of a suggested question
+12167	eval-evaluation provider must provide user friendly error messages
+11679	Adding/removing students to sites to which evaluation has been released to
+12895	Ability to change the rating scale of grouped questions
+12788	Logged in users cannot submit more than once in an Anonymous Eval
+11829	Instructor widget display all courses being evaluated whether teaching or not
+11666	Distinguishing the courses/groups being evaluated in the excel spreadsheet
+34729	Add header template for licensing plugin
+12021	Ability to categorize items in My Items
+11658	"Allow for ability to select which users to hide links to My Evaluations, My Templates, My Items, My Scales"
+13114	Display Group Title in Instructor widget in summary page
+12140	Modify evaluations tables to use unique sequences rather than default hibernate_sequence
+12481	Allow organizations to supply custom data for the preloader
+12317	Error when trying to view reports after upgrade from 1.2.0 to 1.2.1
+12314	Deadlock from multiple record insertion (mysql index locking)
+43519	Display user name in addition to user id in presence / online  admin tool
+12004	Ensure consistency of block item definitions between item and block parent
+11852	Missing evaluation data prevents Sakai from starting up
+12123	Auto included questions (in evaluations) should not be removable
+11992	Filtering of templates/items based on autotags
+11848	Reports/summaries for the results of an evaluation
+11634	Report interface
+13093	JSON export of evaluation results
+12949	Presentation of results where some statistical measures and correlations can be seen
+12305	Hide inappropriate answers
+11691	UI for controlling wether a question is long term or not.
+13089	Long Term questions (no copy) for statistical purposes 
+12947	UI for providing translations of questions and scales.
+12824	Set of improvements needed by Uppsala University
+11689	Take site publication status into account for email notifications and eval delivery
